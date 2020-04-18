@@ -1,0 +1,123 @@
+--- 
+title: "IDA Introduktion til R"
+author: "Tue Hellstern"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "Webinar i R programmering i R"
+---
+
+# Webinar
+
+Webinar den 22-04-2020
+
+Kl. 19:00
+
+Tue Hellstern
+
+Jelgreen Consult
+
+
+<!--chapter:end:index.Rmd-->
+
+# Introduktion {#intro}
+
+<!--chapter:end:01-introduktion.Rmd-->
+
+# R og RStudio {#R_RStudio}
+
+Du skal have installeret R og det IDE udviklingsmiljø, der hedder RStudio, begge er open source og begge findes til Mac, Linux og Windows.
+
+## R
+Du skal downloade R fra 
+<a href="https://cran.r-project.org" target="_blank">https://cran.r-project.org</a> 
+Du skal her vælge den version, der passer til din computer – Linux, OS X (Mac) eller Windows.
+Der er vejledninger for de forskellige installationer på www siden.
+
+## RStudio
+Når R er installeret, kan du bruge det, men for at gøre det nemmere bruger vi et udviklingsmiljø, der hedder RStudio. Rstudio findes i flere forskellige versioner, den du skal bruge er *RStudio Desktop Open Source License* 
+
+Som du finder her: <a href="https://www.rstudio.com/products/rstudio/download/" target="_blank">https://www.rstudio.com/products/rstudio/download/</a> 
+Du skal her vælge den version, der passer til din computer.
+
+![](img/rstudio_editor.png)
+
+<!--chapter:end:02-RStudio.Rmd-->
+
+# Grundlæggende R {#grund}
+
+
+<!--chapter:end:03-grund.Rmd-->
+
+# Data {#data}
+
+
+<!--chapter:end:04-data.Rmd-->
+
+# Plots {#plots}
+
+
+
+<!--chapter:end:05-plot.Rmd-->
+
+# Demo Shiny {#shiny}
+Når du har lavet en ”analyse” i R vil et tit være en fordel at kunne dele denne med andre, det kan du gøre ved at sende den dit R script og data, men det er nok ikke den mest brugervenlige måde.
+En anden ulighed er vise det på en webside så det kan tilgås via en browser. Det kan du opnå via en R pakke der hedder shiny.
+Du kan finde en del eksempler på løsninger oprettet i shiny her: <a href="https://shiny.rstudio.com/gallery/#demos" target="_blank">shiny.rstudio.com/gallery/#demos</a>
+
+Det er også muligt at afvikle de 11 eksempler der følger med shiny på følgende måde:
+
+```
+# Shiny eksempler
+runExample("01_hello")
+runExample("02_text")
+runExample("03_reactivity")
+runExample("04_mpg")
+runExample("05_sliders")
+runExample("06_tabsets")
+runExample("07_widgets")
+runExample("08_html")
+runExample("09_upload")
+runExample("10_download")
+runExample("11_timer")
+```
+
+## Struktur af en Shiny app
+En Shimy App er ”samlet” i et enkelt script app.R som du kan afvikle.
+app.R består af tre dele:
+
+* Userinterface (ui.R) - *Her styrer du layout af din applikation*
+* Server (server.R) - *Her definere du det der skal til for at opbygge din løsning*
+* Kald til shinyApp function - *Her bygges selev løsningen*
+
+Du kan oprette en ny shiny App under: 
+**File – New File – Shiny Web App**
+I dette vindue skal du indtaste navnet på din App og placeringen. Du har også mulighed for at vælge mellem og din App skal opdeles i to file, **ui.R** og **server.R**, eller om du vil have alt i en fil. 
+
+Opdelingen i to filer giver dig de fleste muligheder og en bedre kontrol.
+
+Du får to filer der indeholder en demo løsning som du kan bruge som 
+udgangspunkt for din egen løsning.
+
+
+<!--chapter:end:06-demoshiny.Rmd-->
+
+# Links {#links}
+Her er en lille samling af nyttige links, det er på ingen måde en fuldstændig liste – Brug Google.
+
+* <a href="https://www.rproject.org" target="_blank">www.rproject.org</a> 
+* <a href="https://mran.microsoft.com/open" target="_blank">mran.microsoft.com/open</a> 
+* <a href="https://www.rstudio.com" target="_blank">www.rstudio.com</a> 
+* <a href="https://support.rstudio.com/hc/en-us/categories/200035113-Documentation" target="_blank">support.rstudio.com/hc/en-us/categories/200035113-Documentation</a> 
+* <a href="https://www.statmethods.net" target="_blank">www.statmethods.net</a> 
+
+
+
+
+<!--chapter:end:07-links.Rmd-->
+
