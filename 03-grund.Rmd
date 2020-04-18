@@ -1,2 +1,15 @@
-# Grundlæggende R {#grund}
+﻿# Grundlæggende R {#grund}
+Som alle andre programmeringssprog har R nogle forskellige regler for, hvordan koden skal bygges op – altså syntaksen for R.
+
+”Navne” i R skal overholde nogle regler:
+
+* Bogstaver – a til z – store og små. Du kan ikke bruge de danske tegn æøå
+* Tal
+* Tegnene ”.” og ”_”. Altså ikke mellemrum eller bindestreg
+* Et navn kan ikke starte med et Tal, men skal starte med et bogstav eller et gyldigt tegn
+* R er case-sensitiv. Der er forskel på store og små bogstaver
+
+
+*Husk, at dette også gælder for de mapper, du arbejder med.*
+
 
