@@ -23,7 +23,7 @@ Dette webinar er udviklet af Tue Hellstern i samarbejde med Jelgreen Consult.
 
 Dette materiale må ikke kopieres eller mangfoldiggøres uden forudgående aftale med Jelgren Consult.
 
-![Jelgreen Consult](img/jelgreen.png)
+![](img/jelgreen.png)
 
 
 ## Filer
