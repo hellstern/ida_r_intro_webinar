@@ -80,7 +80,7 @@
 
 \title{IDA Introduktion til R}
 \author{Tue Hellstern}
-\date{2020-04-18}
+\date{2020-04-19}
 
 \begin{document}
 \maketitle
@@ -129,8 +129,176 @@ Du skal her vælge den version, der passer til din computer.
 \hypertarget{grund}{%
 \chapter{Grundlæggende R}\label{grund}}
 
+Som alle andre programmeringssprog har R nogle forskellige regler for, hvordan koden skal bygges op -- altså syntaksen for R.
+
+\hypertarget{navne}{%
+\section{Navne}\label{navne}}
+
+''Navne'' i R skal overholde nogle regler:
+
+\begin{itemize}
+\tightlist
+\item
+  Bogstaver -- a til z -- store og små. Du kan ikke bruge de danske tegn æøå
+\item
+  Tal
+\item
+  Tegnene ''.'' og ''\_''. Altså ikke mellemrum eller bindestreg
+\item
+  Et navn kan ikke starte med et Tal, men skal starte med et bogstav eller et gyldigt tegn
+\item
+  R er case-sensitiv. Der er forskel på store og små bogstaver
+\end{itemize}
+
+\hypertarget{variable-objekter}{%
+\chapter{Variable / Objekter}\label{variable-objekter}}
+
+Alt hvad du kommer til at bruge i R vil blive gemt i Objekter, det kan være et enkelt tal eller et helt datasæt.
+I R skal du bruge ''\textless-'' for at gemme en værdi i et objekt. Mange andre programmeringssprog bruger her ''=''.
+
+´´´
+2 + 2 \# Beregn
+1:100 \# printer 1 til 100
+print(``Hej med dig'')
+
+x \textless- 2 \# Tildel x værdien 2
+x * 2
+x * x
+x + x
+x \# Viser værdien af x
+
+y \textless- c(6, 7, 8, 9, 10) \# Gemmer 6 til 10 i variablen y
+\# c() står for concatenate eller combine - Giver en vektor
+
+x + y \# x lagt sammen med y
+y
+x * 2 \# Ganger alle elementer i x med 2 - LOOP uden at være et LOOP ?
+
+ls() \# Vis / List alle objekter
+´´´
+
+\hypertarget{funktioner}{%
+\section{Funktioner}\label{funktioner}}
+
+R har de sammen funktioner som du måske kender fra Excel eller andre programeringssprog
+
+´´´
+length(y) \# Antallet af numre i vektoren
+min(y) \# Minimumsværdien
+max(y) \# Maksimumværdien
+median(y) \# Medianen
+sum(y) \# Summen
+mean(y) \# Gennemsnittet
+var(y) \# Variansen
+sd(y) \# Standardafvigelsen
+´´´
+
+\hypertarget{logiske-operatorer}{%
+\section{Logiske operatorer}\label{logiske-operatorer}}
+
+Meget af det du kommer til at arbejde med i R, vil kræve en eller anden form for logisk operator. Med en logisk operator finder du ud af om et udsagn er Sandt eller Falsk.
+
+´´´
+x == 2 \# ``=='' betyder ``lig med''
+x != 2 \# ``!='' betyder ``ikke lig med''
+x \textless{} 1 \# ``\textless{}'' betyder ``mindre end''
+x \textgreater{} 1 \# ``\textgreater{}'' betyder ``større end''
+x \textless= 2 \# ``\textless='' betyder "mindre eller lig med
+´´´
+
+\emph{Husk, at dette også gælder for de mapper, du arbejder med.}
+
+\hypertarget{hjuxe6lp}{%
+\section{Hjælp}\label{hjuxe6lp}}
+
+Du kan få hjælp direkte i R ved at bruge nedstående kommandoer:
+
+´´´
+help(``mean'') \# Hjælp til en specifik funktion - mean
+help(``plot'')
+
+?mean
+?plot
+
+\hypertarget{hjuxe6lp-til-en-specifik-pakke---base-og-tidyverse}{%
+\chapter{Hjælp til en specifik pakke - base og tidyverse}\label{hjuxe6lp-til-en-specifik-pakke---base-og-tidyverse}}
+
+help(package = ``base'')
+help(package = ``tidyverse'')
+´´´
+
+Hjælpen vises i vinduet nederst til højre
+
+\hypertarget{working-directory}{%
+\section{Working Directory}\label{working-directory}}
+
+R bruger en mappe som ''Working folder''. Det er nemmere at tilgå filer, der ligger i denne mappe.
+
+´´´
+getwd()
+setwd(``C:/Users/Tue Hellstern/Documents/GitHub/r\_webinar/r\_kode/webinar\_dag1'')
+´´´
+
+\hypertarget{pakker}{%
+\chapter{Pakker}\label{pakker}}
+
+Du kan ''tilføje'' funknationalitet til R ved at installere forskellige pakker. Du kan nederst til højre se, hvilke pakker du har installeret.
+Det er også her muligt at opdatere de pakker, du har installeret.
+Du kan finde en oversigt over de forskellige pakker her: cran.rstudio.com
+
+\hypertarget{installation-af-pakker}{%
+\section{Installation af pakker}\label{installation-af-pakker}}
+
+Du kan installere pakker på to måder:
+
+\begin{itemize}
+\tightlist
+\item
+  Via RStudio - GUI
+\item
+  Via R kode
+\end{itemize}
+
+\hypertarget{grafisk}{%
+\subsection{Grafisk}\label{grafisk}}
+
+I vinduet nederst til højre kan du klikke på fanen \textbf{Packages} og derefter på knappen \textbf{Install}, du skriver navnet på den eller de pakker du vil installere.
+
+\begin{figure}
+\centering
+\includegraphics{img/pakker.png}
+\caption{Pakker}
+\end{figure}
+
+Det er også muligt at opdatere dine pakker vi knappen \textbf{Update}
+
+I sammme vindue kan du også se hvilke pakker der er i \emph{brug}.
+
+\hypertarget{kode}{%
+\subsection{Kode}\label{kode}}
+
+Det er nemt at installere og bruge pakker via kode:
+
+\begin{verbatim}
+library()                     # Pakker der er på din computer
+install.packages("ggplot2")   # install
+library(dplyr)                # load
+
+update.packages("tidyverse")  # Update
+remove.packages("tidyverse")  # Fjern
+\end{verbatim}
+
 \hypertarget{data}{%
 \chapter{Data}\label{data}}
+
+For at arbejde med data skal de importeres ind i R. Det er simpelt, hvis de filer der skal importeres ligger i R's aktive bibliotek. Det er en god ide at organisere dine data inden de importeres, hvilket der findes mange gode værktøjer til.
+Du kan i RStudio vælge mellem at bruge den grafiske brugerflade (GUI) eller skrive den kode, du vil bruge til importen.
+
+\hypertarget{grafisk-gui}{%
+\section{Grafisk (GUI)}\label{grafisk-gui}}
+
+\hypertarget{kode-1}{%
+\section{Kode}\label{kode-1}}
 
 \hypertarget{plots}{%
 \chapter{Plots}\label{plots}}
