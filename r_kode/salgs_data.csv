@@ -1,0 +1,2156 @@
+OrderID;CompanyName;OrderDate;Country;Salesperson;CategoryName;Sale
+10248;Vins et alcools Chevalier;29-06-2016;France;Buchanan;Dairy Products;168
+10248;Toms Spezialitten;29-06-2016;France;Buchanan;Dairy Products;174
+10248;Hanari Carnes;29-06-2016;France;Buchanan;Grains/Cereals;98
+10249;Victuailles en stock;30-06-2016;Germany;Hellstern;Produce;167,4
+10249;Suprmes dlices;30-06-2016;Germany;Hellstern;Produce;1696
+10250;Hanari Carnes;03-07-2016;Brazil;Peacock;Condiments;252
+10250;Chop-suey Chinese;03-07-2016;Brazil;Peacock;Produce;1484
+10250;Richter Supermarkt;03-07-2016;Brazil;Peacock;Seafood;77
+10251;Wellington Importadora;03-07-2016;France;Leverling;Condiments;336
+10251;HILARION-Abastos;03-07-2016;France;Leverling;Grains/Cereals;100,8
+10251;Ernst Handel;03-07-2016;France;Leverling;Grains/Cereals;234
+10252;Centro comercial Moctezuma;04-07-2016;Belgium;Peacock;Confections;2592
+10252;Ottilies Kseladen;04-07-2016;Belgium;Peacock;Dairy Products;50
+10252;Que Delcia;04-07-2016;Belgium;Peacock;Dairy Products;1088
+10253;Rattlesnake Canyon Grocery;05-07-2016;Brazil;Leverling;Beverages;604,8
+10253;Ernst Handel;05-07-2016;Brazil;Leverling;Confections;640
+10253;Folk och f HB;05-07-2016;Brazil;Leverling;Dairy Products;200
+10254;Blondesddsl pre et fils;06-07-2016;Switzerland;Buchanan;Beverages;54
+10254;Wartian Herkku;06-07-2016;Switzerland;Buchanan;Meat/Poultry;403,2
+10254;Frankenversand;06-07-2016;Switzerland;Buchanan;Produce;168
+10255;GROSELLA-Restaurante;07-07-2016;Switzerland;Dodsworth;Beverages;304
+10255;White Clover Markets;07-07-2016;Switzerland;Dodsworth;Confections;486,5
+10255;Wartian Herkku;07-07-2016;Switzerland;Dodsworth;Dairy Products;1320
+10255;Split Rail Beer & Ale;07-07-2016;Switzerland;Dodsworth;Seafood;380
+10256;Rattlesnake Canyon Grocery;10-07-2016;Brazil;Leverling;Condiments;124,8
+10256;QUICK-Stop;10-07-2016;Brazil;Leverling;Meat/Poultry;393
+10257;Vins et alcools Chevalier;11-07-2016;Venezuela;Peacock;Beverages;86,4
+10257;Magazzini Alimentari Riuniti;11-07-2016;Venezuela;Peacock;Condiments;156
+10257;Tortuga Restaurante;11-07-2016;Venezuela;Peacock;Confections;877,5
+10258;Morgenstern Gesundkost;12-07-2016;Austria;Davolio;Beverages;760
+10258;Berglunds snabbkp;12-07-2016;Austria;Davolio;Condiments;1105
+10258;Lehmanns Marktstand;12-07-2016;Austria;Davolio;Dairy Products;153,6
+10259;Berglunds snabbkp;13-07-2016;Mexico;Peacock;Confections;80
+10259;Romero y tomillo;13-07-2016;Mexico;Peacock;Seafood;20,8
+10260;Romero y tomillo;14-07-2016;Germany;Peacock;Beverages;252
+10260;LILA-Supermercado;14-07-2016;Germany;Peacock;Confections;591
+10260;Lehmanns Marktstand;14-07-2016;Germany;Peacock;Grains/Cereals;780
+10260;QUICK-Stop;14-07-2016;Germany;Peacock;Seafood;123,2
+10261;QUICK-Stop;14-07-2016;Brazil;Peacock;Beverages;288
+10261;Ricardo Adocicados;14-07-2016;Brazil;Peacock;Confections;160
+10262;Reggiani Caseifici;17-07-2016;USA;Callahan;Condiments;204
+10262;B's Beverages;17-07-2016;USA;Callahan;Grains/Cereals;60,8
+10262;Comrcio Mineiro;17-07-2016;USA;Callahan;Produce;360
+10263;Que Delcia;18-07-2016;Austria;Dodsworth;Beverages;100,8
+10263;Tradio Hipermercados;18-07-2016;Austria;Dodsworth;Confections;834
+10263;Tortuga Restaurante;18-07-2016;Austria;Dodsworth;Produce;288
+10263;Rattlesnake Canyon Grocery;18-07-2016;Austria;Dodsworth;Seafood;1242
+10264;Vins et alcools Chevalier;19-07-2016;Sweden;Hellstern;Beverages;532
+10264;LILA-Supermercado;19-07-2016;Sweden;Hellstern;Seafood;192,5
+10265;Blondesddsl pre et fils;20-07-2016;France;Fuller;Beverages;240
+10265;Hungry Owl All-Night Grocers;20-07-2016;France;Fuller;Meat/Poultry;936
+10266;Ricardo Adocicados;21-07-2016;Finland;Leverling;Dairy Products;364,8
+10267;Magazzini Alimentari Riuniti;24-07-2016;Germany;Peacock;Beverages;216
+10267;Die Wandernde Kuh;24-07-2016;Germany;Peacock;Dairy Products;3080
+10267;Suprmes dlices;24-07-2016;Germany;Peacock;Seafood;735
+10268;Godos Cocina Tpica;25-07-2016;Venezuela;Callahan;Dairy Products;111,2
+10268;Tortuga Restaurante;25-07-2016;Venezuela;Callahan;Meat/Poultry;990
+10269;Old World Delicatessen;26-07-2016;USA;Buchanan;Dairy Products;120
+10269;Romero y tomillo;26-07-2016;USA;Buchanan;Dairy Products;556
+10270;Lonesome Pine Restaurant;27-07-2016;Finland;Davolio;Beverages;920
+10270;Ana Trujillo Emparedados y helados;27-07-2016;Finland;Davolio;Seafood;456
+10271;Hungry Owl All-Night Grocers;27-07-2016;USA;Hellstern;Dairy Products;48
+10272;The Big Cheese;28-07-2016;USA;Hellstern;Confections;388,8
+10272;Du monde entier;28-07-2016;USA;Hellstern;Dairy Products;400
+10272;Die Wandernde Kuh;28-07-2016;USA;Hellstern;Dairy Products;667,2
+10273;QUICK-Stop;31-07-2016;Germany;Leverling;Beverages;475,2
+10273;Rattlesnake Canyon Grocery;31-07-2016;Germany;Leverling;Dairy Products;150
+10273;Island Trading;31-07-2016;Germany;Leverling;Dairy Products;40
+10273;Rattlesnake Canyon Grocery;31-07-2016;Germany;Leverling;Seafood;595,2
+10273;Lonesome Pine Restaurant;31-07-2016;Germany;Leverling;Seafood;882
+10274;Island Trading;01-08-2016;France;Hellstern;Dairy Products;344
+10274;Tortuga Restaurante;01-08-2016;France;Hellstern;Dairy Products;194,6
+10275;Wartian Herkku;02-08-2016;Italy;Davolio;Beverages;43,2
+10275;Island Trading;02-08-2016;Italy;Davolio;Dairy Products;264
+10276;Pericles Comidas clsicas;03-08-2016;Mexico;Callahan;Seafood;372
+10276;Kniglich Essen;03-08-2016;Mexico;Callahan;Seafood;48
+10277;Save-a-lot Markets;04-08-2016;Germany;Fuller;Confections;472,8
+10277;Kniglich Essen;04-08-2016;Germany;Fuller;Produce;728
+10278;Blido Comidas preparadas;07-08-2016;Sweden;Callahan;Condiments;248
+10278;Folk och f HB;07-08-2016;Sweden;Callahan;Condiments;280,8
+10278;Furia Bacalhau e Frutos do Mar;07-08-2016;Sweden;Callahan;Dairy Products;660
+10278;Split Rail Beer & Ale;07-08-2016;Sweden;Callahan;Seafood;300
+10279;LILA-Supermercado;08-08-2016;Germany;Callahan;Meat/Poultry;468
+10280;Bon app';09-08-2016;Sweden;Fuller;Beverages;43,2
+10280;Mre Paillarde;09-08-2016;Sweden;Fuller;Beverages;186
+10280;Wartian Herkku;09-08-2016;Sweden;Fuller;Meat/Poultry;384
+10281;Victuailles en stock;09-08-2016;Spain;Peacock;Beverages;21,6
+10281;Hungry Owl All-Night Grocers;09-08-2016;Spain;Peacock;Beverages;57,6
+10281;Princesa Isabel Vinhos;09-08-2016;Spain;Peacock;Confections;7,3
+10282;Frankenversand;10-08-2016;Spain;Peacock;Grains/Cereals;31,2
+10282;Old World Delicatessen;10-08-2016;Spain;Peacock;Seafood;124,2
+10283;Mre Paillarde;11-08-2016;Venezuela;Leverling;Condiments;248
+10283;Bon app';11-08-2016;Venezuela;Leverling;Confections;131,4
+10283;Simons bistro;11-08-2016;Venezuela;Leverling;Dairy Products;952
+10283;Frankenversand;11-08-2016;Venezuela;Leverling;Dairy Products;83,4
+10284;Lehmanns Marktstand;14-08-2016;Germany;Peacock;Beverages;56
+10284;White Clover Markets;14-08-2016;Germany;Peacock;Condiments;325,5
+10284;QUICK-Stop;14-08-2016;Germany;Peacock;Confections;526,5
+10284;Rattlesnake Canyon Grocery;14-08-2016;Germany;Peacock;Dairy Products;544
+10285;Familia Arquibaldo;15-08-2016;Germany;Davolio;Beverages;648
+10285;Die Wandernde Kuh;15-08-2016;Germany;Davolio;Meat/Poultry;943,2
+10285;Split Rail Beer & Ale;15-08-2016;Germany;Davolio;Seafood;588
+10286;La maison d'Asie;16-08-2016;Germany;Callahan;Beverages;1440
+10286;Ernst Handel;16-08-2016;Germany;Callahan;Confections;1576
+10287;Furia Bacalhau e Frutos do Mar;17-08-2016;Brazil;Callahan;Beverages;224
+10287;Piccolo und mehr;17-08-2016;Brazil;Callahan;Confections;556
+10287;Pericles Comidas clsicas;17-08-2016;Brazil;Callahan;Seafood;144
+10288;Around the Horn;18-08-2016;Italy;Peacock;Confections;30
+10288;Die Wandernde Kuh;18-08-2016;Italy;Peacock;Meat/Poultry;59
+10289;LILA-Supermercado;21-08-2016;UK;King;Condiments;240
+10289;La maison d'Asie;21-08-2016;UK;King;Grains/Cereals;239,4
+10290;Seven Seas Imports;22-08-2016;Brazil;Callahan;Condiments;340
+10290;Blondesddsl pre et fils;22-08-2016;Brazil;Callahan;Condiments;104
+10290;QUICK-Stop;22-08-2016;Brazil;Callahan;Confections;240
+10290;Bon app';22-08-2016;Brazil;Callahan;Meat/Poultry;1485
+10291;Drachenblut Delikatessen;22-08-2016;Brazil;Hellstern;Condiments;372
+10291;Eastern Connection;22-08-2016;Brazil;Hellstern;Produce;84,8
+10291;Antonio Moreno Taquera;22-08-2016;Brazil;Hellstern;Seafood;96
+10292;Galera del gastrnomo;23-08-2016;Brazil;Davolio;Confections;1296
+10293;Vaffeljernet;24-08-2016;Mexico;Davolio;Beverages;36
+10293;Ernst Handel;24-08-2016;Mexico;Davolio;Beverages;37,2
+10293;Split Rail Beer & Ale;24-08-2016;Mexico;Davolio;Condiments;175,5
+10293;Chop-suey Chinese;24-08-2016;Mexico;Davolio;Seafood;600
+10294;La maison d'Asie;25-08-2016;USA;Peacock;Beverages;259,2
+10294;Queen Cozinha;25-08-2016;USA;Peacock;Beverages;552
+10294;Hungry Owl All-Night Grocers;25-08-2016;USA;Peacock;Beverages;37,2
+10294;Wolski  Zajazd;25-08-2016;USA;Peacock;Dairy Products;571,2
+10294;Hungry Coyote Import Store;25-08-2016;USA;Peacock;Meat/Poultry;468
+10295;Mre Paillarde;28-08-2016;France;Fuller;Grains/Cereals;121,6
+10296;Seven Seas Imports;29-08-2016;Venezuela;Hellstern;Confections;417
+10296;Folk och f HB;29-08-2016;Venezuela;Hellstern;Dairy Products;201,6
+10296;Que Delcia;29-08-2016;Venezuela;Hellstern;Dairy Products;432
+10297;Hungry Owl All-Night Grocers;30-08-2016;France;Buchanan;Beverages;864
+10297;LILA-Supermercado;30-08-2016;France;Buchanan;Dairy Products;556
+10298;Ernst Handel;31-08-2016;Ireland;Hellstern;Beverages;608
+10298;Around the Horn;31-08-2016;Ireland;Hellstern;Confections;591
+10298;Berglunds snabbkp;31-08-2016;Ireland;Hellstern;Dairy Products;1320
+10298;Split Rail Beer & Ale;31-08-2016;Ireland;Hellstern;Seafood;608
+10299;Familia Arquibaldo;01-09-2016;Brazil;Peacock;Beverages;240
+10299;Sant Gourmet;01-09-2016;Brazil;Peacock;Confections;109,5
+10300;Seven Seas Imports;04-09-2016;Italy;Fuller;Condiments;408
+10300;Bottom-Dollar Markets;04-09-2016;Italy;Fuller;Confections;200
+10301;Ernst Handel;04-09-2016;Germany;Callahan;Grains/Cereals;608
+10301;Drachenblut Delikatessen;04-09-2016;Germany;Callahan;Seafood;147
+10302;Piccolo und mehr;05-09-2016;Belgium;Peacock;Beverages;441,6
+10302;Save-a-lot Markets;05-09-2016;Belgium;Peacock;Meat/Poultry;1248
+10302;Hungry Coyote Import Store;05-09-2016;Belgium;Peacock;Produce;1019,2
+10303;HILARION-Abastos;06-09-2016;Spain;King;Condiments;504
+10303;Frankenversand;06-09-2016;Spain;King;Confections;150
+10303;Princesa Isabel Vinhos;06-09-2016;Spain;King;Seafood;588
+10304;Save-a-lot Markets;07-09-2016;Mexico;Davolio;Confections;480
+10304;Vaffeljernet;07-09-2016;Mexico;Davolio;Dairy Products;440
+10304;Eastern Connection;07-09-2016;Mexico;Davolio;Dairy Products;34,4
+10305;Rattlesnake Canyon Grocery;08-09-2016;USA;Callahan;Beverages;432
+10305;Ernst Handel;08-09-2016;USA;Callahan;Meat/Poultry;2475
+10305;Ernst Handel;08-09-2016;USA;Callahan;Seafood;1250
+10306;Magazzini Alimentari Riuniti;11-09-2016;Spain;Davolio;Meat/Poultry;262
+10306;LINO-Delicateses;11-09-2016;Spain;Davolio;Meat/Poultry;29,5
+10306;Queen Cozinha;11-09-2016;Spain;Davolio;Seafood;207
+10307;Ottilies Kseladen;12-09-2016;USA;Fuller;Confections;394
+10307;Folies gourmandes;12-09-2016;USA;Fuller;Confections;30
+10308;Ocano Atlntico Ltda.;13-09-2016;Mexico;King;Beverages;60
+10308;Bottom-Dollar Markets;13-09-2016;Mexico;King;Dairy Products;28,8
+10309;Bottom-Dollar Markets;14-09-2016;Ireland;Leverling;Beverages;736
+10309;Wartian Herkku;14-09-2016;Ireland;Leverling;Condiments;352
+10309;La maison d'Asie;14-09-2016;Ireland;Leverling;Condiments;600
+10309;Familia Arquibaldo;14-09-2016;Ireland;Leverling;Dairy Products;51,6
+10309;Hungry Coyote Import Store;14-09-2016;Ireland;Leverling;Grains/Cereals;22,4
+10310;Wartian Herkku;15-09-2016;USA;Callahan;Confections;139
+10310;Simons bistro;15-09-2016;USA;Callahan;Confections;197
+10311;QUICK-Stop;15-09-2016;France;Davolio;Dairy Products;201,6
+10311;Richter Supermarkt;15-09-2016;France;Davolio;Grains/Cereals;67,2
+10312;Wellington Importadora;18-09-2016;Germany;Fuller;Beverages;883,2
+10312;Que Delcia;18-09-2016;Germany;Fuller;Beverages;62
+10312;Franchi S.p.A.;18-09-2016;Germany;Fuller;Meat/Poultry;524
+10312;Gourmet Lanchonetes;18-09-2016;Germany;Fuller;Produce;145,6
+10313;Mre Paillarde;19-09-2016;Germany;Fuller;Seafood;182,4
+10314;La maison d'Asie;20-09-2016;USA;Davolio;Confections;985
+10314;Galera del gastrnomo;20-09-2016;USA;Davolio;Dairy Products;1024
+10314;Piccolo und mehr;20-09-2016;USA;Davolio;Seafood;318
+10315;Reggiani Caseifici;21-09-2016;UK;Peacock;Beverages;156,8
+10315;Hungry Owl All-Night Grocers;21-09-2016;UK;Peacock;Beverages;360
+10316;Ernst Handel;22-09-2016;USA;Davolio;Confections;2758
+10316;Bottom-Dollar Markets;22-09-2016;USA;Davolio;Seafood;77
+10317;Split Rail Beer & Ale;25-09-2016;USA;Hellstern;Beverages;288
+10318;Princesa Isabel Vinhos;26-09-2016;UK;Callahan;Beverages;86,4
+10318;Folk och f HB;26-09-2016;UK;Callahan;Seafood;154
+10319;Consolidated Holdings;27-09-2016;Mexico;King;Beverages;432
+10319;Blondesddsl pre et fils;27-09-2016;Mexico;King;Meat/Poultry;249,6
+10319;Wartian Herkku;27-09-2016;Mexico;King;Produce;509,6
+10320;Toms Spezialitten;28-09-2016;Finland;Buchanan;Dairy Products;516
+10321;Mre Paillarde;28-09-2016;UK;Leverling;Beverages;144
+10322;Save-a-lot Markets;29-09-2016;Mexico;King;Grains/Cereals;112
+10323;Old World Delicatessen;02-10-2016;Germany;Peacock;Beverages;57,6
+10323;Ernst Handel;02-10-2016;Germany;Peacock;Condiments;62
+10323;Reggiani Caseifici;02-10-2016;Germany;Peacock;Confections;44,8
+10324;Berglunds snabbkp;03-10-2016;USA;Dodsworth;Beverages;1008
+10324;Berglunds snabbkp;03-10-2016;USA;Dodsworth;Condiments;2808
+10324;Toms Spezialitten;03-10-2016;USA;Dodsworth;Confections;291,9
+10324;Ricardo Adocicados;03-10-2016;USA;Dodsworth;Dairy Products;1760
+10324;Rancho grande;03-10-2016;USA;Dodsworth;Seafood;288
+10325;Blondesddsl pre et fils;04-10-2016;Germany;Davolio;Condiments;120
+10325;Victuailles en stock;04-10-2016;Germany;Davolio;Dairy Products;40
+10325;QUICK-Stop;04-10-2016;Germany;Davolio;Dairy Products;1112
+10325;Save-a-lot Markets;04-10-2016;Germany;Davolio;Produce;167,4
+10325;Around the Horn;04-10-2016;Germany;Davolio;Seafood;57,6
+10326;La maison d'Asie;05-10-2016;Spain;Peacock;Beverages;310
+10326;Wartian Herkku;05-10-2016;Spain;Peacock;Condiments;422,4
+10326;Kniglich Essen;05-10-2016;Spain;Peacock;Grains/Cereals;249,6
+10327;Kniglich Essen;06-10-2016;Sweden;Fuller;Beverages;380
+10327;Suprmes dlices;06-10-2016;Sweden;Fuller;Dairy Products;840
+10327;Victuailles en stock;06-10-2016;Sweden;Fuller;Seafood;724,5
+10327;Folk och f HB;06-10-2016;Sweden;Fuller;Seafood;318
+10328;LILA-Supermercado;09-10-2016;Portugal;Peacock;Condiments;672
+10328;Consolidated Holdings;09-10-2016;Portugal;Peacock;Confections;100
+10328;Suprmes dlices;09-10-2016;Portugal;Peacock;Dairy Products;396
+10329;Furia Bacalhau e Frutos do Mar;10-10-2016;USA;Peacock;Beverages;4216
+10329;Vaffeljernet;10-10-2016;USA;Peacock;Confections;73
+10329;Comrcio Mineiro;10-10-2016;USA;Peacock;Grains/Cereals;364,8
+10329;Magazzini Alimentari Riuniti;10-10-2016;USA;Peacock;Seafood;165,6
+10330;Kniglich Essen;11-10-2016;Venezuela;Leverling;Confections;1245
+10330;White Clover Markets;11-10-2016;Venezuela;Leverling;Dairy Products;695
+10331;Bon app';11-10-2016;France;Dodsworth;Meat/Poultry;88,5
+10332;B's Beverages;12-10-2016;Canada;Leverling;Confections;121,6
+10332;Seven Seas Imports;12-10-2016;Canada;Leverling;Grains/Cereals;112
+10332;Island Trading;12-10-2016;Canada;Leverling;Seafood;2000
+10333;Pericles Comidas clsicas;13-10-2016;Finland;Buchanan;Confections;80
+10333;Suprmes dlices;13-10-2016;Finland;Buchanan;Dairy Products;688
+10333;HILARION-Abastos;13-10-2016;Finland;Buchanan;Produce;186
+10334;Princesa Isabel Vinhos;16-10-2016;France;Callahan;Confections;100
+10334;Victuailles en stock;16-10-2016;France;Callahan;Grains/Cereals;44,8
+10335;Rattlesnake Canyon Grocery;17-10-2016;Ireland;King;Beverages;106,4
+10335;Folies gourmandes;17-10-2016;Ireland;King;Dairy Products;250
+10335;Ricardo Adocicados;17-10-2016;Ireland;King;Dairy Products;153,6
+10335;Lazy K Kountry Store;17-10-2016;Ireland;King;Produce;2035,2
+10336;White Clover Markets;18-10-2016;Portugal;King;Condiments;316,8
+10337;B's Beverages;19-10-2016;Germany;Peacock;Confections;597,6
+10337;LINO-Delicateses;19-10-2016;Germany;Peacock;Dairy Products;695
+10337;HILARION-Abastos;19-10-2016;Germany;Peacock;Grains/Cereals;288
+10337;Queen Cozinha;19-10-2016;Germany;Peacock;Seafood;304
+10337;Frankenversand;19-10-2016;Germany;Peacock;Seafood;582,4
+10338;Piccolo und mehr;20-10-2016;USA;Peacock;Meat/Poultry;624
+10338;HILARION-Abastos;20-10-2016;USA;Peacock;Seafood;310,5
+10339;Furia Bacalhau e Frutos do Mar;23-10-2016;Canada;Fuller;Condiments;176
+10339;Bottom-Dollar Markets;23-10-2016;Canada;Fuller;Confections;1103,2
+10339;La maison d'Asie;23-10-2016;Canada;Fuller;Meat/Poultry;2184
+10340;Comrcio Mineiro;24-10-2016;France;Davolio;Beverages;1472
+10340;Laughing Bacchus Wine Cellars;24-10-2016;France;Davolio;Seafood;1000
+10340;Tradio Hipermercados;24-10-2016;France;Davolio;Seafood;92,4
+10341;Lehmanns Marktstand;24-10-2016;Denmark;King;Dairy Products;16
+10341;HILARION-Abastos;24-10-2016;Denmark;King;Dairy Products;396
+10342;LILA-Supermercado;25-10-2016;Germany;Peacock;Beverages;364,8
+10342;La maison d'Asie;25-10-2016;Germany;Peacock;Dairy Products;560
+10342;Blauer See Delikatessen;25-10-2016;Germany;Peacock;Meat/Poultry;768
+10342;Pericles Comidas clsicas;25-10-2016;Germany;Peacock;Seafood;608
+10343;Hungry Owl All-Night Grocers;26-10-2016;Germany;Peacock;Beverages;216
+10343;White Clover Markets;26-10-2016;Germany;Peacock;Confections;40
+10343;Mre Paillarde;26-10-2016;Germany;Peacock;Grains/Cereals;1330
+10344;Kniglich Essen;27-10-2016;USA;Peacock;Condiments;616
+10344;Antonio Moreno Taquera;27-10-2016;USA;Peacock;Condiments;2240
+10345;Ottilies Kseladen;30-10-2016;Germany;Fuller;Condiments;2240
+10345;Blauer See Delikatessen;30-10-2016;Germany;Fuller;Confections;584
+10345;Save-a-lot Markets;30-10-2016;Germany;Fuller;Grains/Cereals;100,8
+10346;Bon app';31-10-2016;USA;Leverling;Grains/Cereals;608
+10346;Familia Arquibaldo;31-10-2016;USA;Leverling;Meat/Poultry;1123,2
+10347;Die Wandernde Kuh;01-11-2016;Brazil;Peacock;Beverages;720
+10347;Ernst Handel;01-11-2016;Brazil;Peacock;Beverages;37,2
+10347;QUICK-Stop;01-11-2016;Brazil;Peacock;Confections;112
+10347;Hungry Owl All-Night Grocers;01-11-2016;Brazil;Peacock;Seafood;58,8
+10348;North/South;02-11-2016;Germany;Peacock;Beverages;216
+10348;Tortuga Restaurante;02-11-2016;Germany;Peacock;Grains/Cereals;180
+10349;Chop-suey Chinese;03-11-2016;USA;King;Meat/Poultry;141,6
+10350;Sant Gourmet;06-11-2016;France;Hellstern;Confections;195
+10350;Cactus Comidas para llevar;06-11-2016;France;Hellstern;Dairy Products;518,4
+10351;Lehmanns Marktstand;06-11-2016;Austria;Davolio;Beverages;4216
+10351;Seven Seas Imports;06-11-2016;Austria;Davolio;Condiments;1193,5
+10351;Berglunds snabbkp;06-11-2016;Austria;Davolio;Condiments;168
+10351;Bon app';06-11-2016;Austria;Davolio;Seafood;100,1
+10352;Wartian Herkku;07-11-2016;Portugal;Leverling;Beverages;36
+10352;QUICK-Stop;07-11-2016;Portugal;Leverling;Meat/Poultry;118
+10353;Great Lakes Food Market;08-11-2016;Austria;King;Beverages;10540
+10353;Maison Dewey;08-11-2016;Austria;King;Dairy Products;201,6
+10354;Piccolo und mehr;09-11-2016;Mexico;Callahan;Beverages;172,8
+10354;Ocano Atlntico Ltda.;09-11-2016;Mexico;Callahan;Meat/Poultry;396
+10355;Eastern Connection;10-11-2016;UK;Hellstern;Beverages;90
+10355;Folk och f HB;10-11-2016;UK;Hellstern;Grains/Cereals;390
+10356;Lehmanns Marktstand;13-11-2016;Germany;Hellstern;Dairy Products;300
+10356;Antonio Moreno Taquera;13-11-2016;Germany;Hellstern;Dairy Products;576
+10356;Lehmanns Marktstand;13-11-2016;Germany;Hellstern;Meat/Poultry;230,4
+10357;Richter Supermarkt;14-11-2016;Venezuela;Davolio;Confections;398,4
+10357;B's Beverages;14-11-2016;Venezuela;Davolio;Dairy Products;217,6
+10357;B's Beverages;14-11-2016;Venezuela;Davolio;Seafood;744
+10358;QUICK-Stop;15-11-2016;France;Buchanan;Beverages;36
+10358;Hanari Carnes;15-11-2016;France;Buchanan;Beverages;112
+10358;Kniglich Essen;15-11-2016;France;Buchanan;Seafood;304
+10359;LILA-Supermercado;16-11-2016;UK;Buchanan;Confections;778,4
+10359;Lonesome Pine Restaurant;16-11-2016;UK;Buchanan;Dairy Products;700
+10359;Lazy K Kountry Store;16-11-2016;UK;Buchanan;Dairy Products;2176
+10360;Victuailles en stock;17-11-2016;France;Peacock;Beverages;2108
+10360;Seven Seas Imports;17-11-2016;France;Peacock;Confections;560
+10360;Toms Spezialitten;17-11-2016;France;Peacock;Meat/Poultry;3465
+10360;QUICK-Stop;17-11-2016;France;Peacock;Meat/Poultry;165,2
+10360;Godos Cocina Tpica;17-11-2016;France;Peacock;Produce;1092
+10361;Furia Bacalhau e Frutos do Mar;17-11-2016;Germany;Davolio;Beverages;777,6
+10361;HILARION-Abastos;17-11-2016;Germany;Davolio;Dairy Products;1496
+10362;Wartian Herkku;20-11-2016;France;Leverling;Confections;560
+10362;Ottilies Kseladen;20-11-2016;France;Leverling;Meat/Poultry;141,6
+10362;Save-a-lot Markets;20-11-2016;France;Leverling;Produce;848
+10363;Simons bistro;21-11-2016;Germany;Peacock;Beverages;74,4
+10363;Lehmanns Marktstand;21-11-2016;Germany;Peacock;Beverages;172,8
+10363;Around the Horn;21-11-2016;Germany;Peacock;Dairy Products;200
+10364;Blondesddsl pre et fils;21-11-2016;UK;Davolio;Dairy Products;864
+10364;Frankenversand;21-11-2016;UK;Davolio;Dairy Products;86
+10365;Folk och f HB;22-11-2016;Mexico;Leverling;Dairy Products;403,2
+10366;Reggiani Caseifici;23-11-2016;Spain;Callahan;Condiments;84
+10366;Ricardo Adocicados;23-11-2016;Spain;Callahan;Condiments;52
+10367;Rattlesnake Canyon Grocery;23-11-2016;Denmark;King;Beverages;403,2
+10367;Mre Paillarde;23-11-2016;Denmark;King;Condiments;252
+10367;Blondesddsl pre et fils;23-11-2016;Denmark;King;Condiments;72,8
+10367;Hungry Owl All-Night Grocers;23-11-2016;Denmark;King;Meat/Poultry;106,2
+10368;Galera del gastrnomo;24-11-2016;Austria;Fuller;Confections;40
+10368;Rattlesnake Canyon Grocery;24-11-2016;Austria;Fuller;Grains/Cereals;390
+10368;Mre Paillarde;24-11-2016;Austria;Fuller;Grains/Cereals;931
+10368;Ernst Handel;24-11-2016;Austria;Fuller;Produce;473,2
+10369;Berglunds snabbkp;27-11-2016;USA;Callahan;Grains/Cereals;547,2
+10369;Antonio Moreno Taquera;27-11-2016;USA;Callahan;Meat/Poultry;1980
+10370;Trail's Head Gourmet Provisioners;28-11-2016;Switzerland;Hellstern;Beverages;216
+10370;Morgenstern Gesundkost;28-11-2016;Switzerland;Hellstern;Grains/Cereals;798
+10370;Tortuga Restaurante;28-11-2016;Switzerland;Hellstern;Produce;160
+10371;Trail's Head Gourmet Provisioners;28-11-2016;France;Davolio;Seafood;91,2
+10372;B's Beverages;29-11-2016;Brazil;Buchanan;Beverages;8432
+10372;Let's Stop N Shop;29-11-2016;Brazil;Buchanan;Confections;777,6
+10372;Ottilies Kseladen;29-11-2016;Brazil;Buchanan;Dairy Products;1904
+10372;Familia Arquibaldo;29-11-2016;Brazil;Buchanan;Dairy Products;1167,6
+10373;Blauer See Delikatessen;30-11-2016;Ireland;Peacock;Dairy Products;860
+10373;Wartian Herkku;30-11-2016;Ireland;Peacock;Seafood;848
+10374;Blondesddsl pre et fils;30-11-2016;Poland;Davolio;Dairy Products;300
+10374;Wellington Importadora;30-11-2016;Poland;Davolio;Seafood;159
+10375;Reggiani Caseifici;01-12-2016;USA;Leverling;Meat/Poultry;59
+10375;Que Delcia;01-12-2016;USA;Leverling;Produce;279
+10376;QUICK-Stop;04-12-2016;Canada;Davolio;Dairy Products;420
+10377;Great Lakes Food Market;04-12-2016;UK;Davolio;Beverages;288
+10377;Mre Paillarde;04-12-2016;UK;Davolio;Produce;728
+10378;Vaffeljernet;05-12-2016;Sweden;Buchanan;Dairy Products;103,2
+10379;Lehmanns Marktstand;06-12-2016;Brazil;Fuller;Condiments;561,6
+10379;Lehmanns Marktstand;06-12-2016;Brazil;Fuller;Condiments;336
+10379;Old World Delicatessen;06-12-2016;Brazil;Fuller;Seafood;61,6
+10380;Ernst Handel;07-12-2016;Ireland;Callahan;Beverages;360
+10380;White Clover Markets;07-12-2016;Ireland;Callahan;Dairy Products;163,2
+10380;Piccolo und mehr;07-12-2016;Ireland;Callahan;Meat/Poultry;524
+10380;Rattlesnake Canyon Grocery;07-12-2016;Ireland;Callahan;Seafood;372,6
+10381;B's Beverages;07-12-2016;Venezuela;Leverling;Produce;112
+10382;Hungry Coyote Import Store;08-12-2016;Austria;Peacock;Condiments;544
+10382;HILARION-Abastos;08-12-2016;Austria;Peacock;Dairy Products;120
+10382;Vaffeljernet;08-12-2016;Austria;Peacock;Meat/Poultry;1386
+10382;Save-a-lot Markets;08-12-2016;Austria;Peacock;Produce;400
+10382;Furia Bacalhau e Frutos do Mar;08-12-2016;Austria;Peacock;Seafood;450
+10383;Mre Paillarde;11-12-2016;UK;Callahan;Confections;195
+10383;Tradio Hipermercados;11-12-2016;UK;Callahan;Grains/Cereals;608
+10383;Save-a-lot Markets;11-12-2016;UK;Callahan;Seafood;96
+10384;Toms Spezialitten;11-12-2016;Sweden;Leverling;Confections;1814,4
+10384;Du monde entier;11-12-2016;Sweden;Leverling;Dairy Products;408
+10385;La maison d'Asie;12-12-2016;USA;Davolio;Confections;80
+10385;Wolski  Zajazd;12-12-2016;USA;Davolio;Dairy Products;544
+10385;Save-a-lot Markets;12-12-2016;USA;Davolio;Produce;240
+10386;HILARION-Abastos;13-12-2016;Brazil;Dodsworth;Beverages;54
+10386;Blauer See Delikatessen;13-12-2016;Brazil;Dodsworth;Beverages;112
+10387;Wilman Kala;13-12-2016;Norway;Davolio;Beverages;54
+10387;Great Lakes Food Market;13-12-2016;Norway;Davolio;Dairy Products;528
+10387;Great Lakes Food Market;13-12-2016;Norway;Davolio;Dairy Products;258
+10387;Mre Paillarde;13-12-2016;Norway;Davolio;Produce;218,4
+10388;Mre Paillarde;14-12-2016;UK;Fuller;Grains/Cereals;112
+10388;Laughing Bacchus Wine Cellars;14-12-2016;UK;Fuller;Meat/Poultry;1048
+10388;Island Trading;14-12-2016;UK;Fuller;Seafood;114
+10389;Ricardo Adocicados;15-12-2016;Canada;Peacock;Beverages;360
+10389;Frankenversand;15-12-2016;Canada;Peacock;Confections;788
+10389;The Cracker Box;15-12-2016;Canada;Peacock;Meat/Poultry;288
+10389;Ana Trujillo Emparedados y helados;15-12-2016;Canada;Peacock;Seafood;396,8
+10390;Berglunds snabbkp;18-12-2016;Austria;Hellstern;Beverages;576
+10390;Save-a-lot Markets;18-12-2016;Austria;Hellstern;Dairy Products;600
+10390;Blondesddsl pre et fils;18-12-2016;Austria;Hellstern;Dairy Products;667,2
+10390;Godos Cocina Tpica;18-12-2016;Austria;Hellstern;Seafood;432
+10391;Kniglich Essen;18-12-2016;Germany;Leverling;Seafood;86,4
+10392;La maison d'Asie;19-12-2016;Austria;Fuller;Dairy Products;1440
+10393;Die Wandernde Kuh;20-12-2016;USA;Davolio;Beverages;380
+10393;Ernst Handel;20-12-2016;USA;Davolio;Confections;78,4
+10393;Folies gourmandes;20-12-2016;USA;Davolio;Confections;1743
+10393;Magazzini Alimentari Riuniti;20-12-2016;USA;Davolio;Dairy Products;320
+10393;Wartian Herkku;20-12-2016;USA;Davolio;Produce;781,2
+10394;Queen Cozinha;20-12-2016;USA;Davolio;Confections;394
+10394;LINO-Delicateses;20-12-2016;USA;Davolio;Seafood;48
+10395;Sant Gourmet;21-12-2016;Venezuela;Hellstern;Dairy Products;230,4
+10395;Die Wandernde Kuh;21-12-2016;Venezuela;Hellstern;Meat/Poultry;1834
+10395;HILARION-Abastos;21-12-2016;Venezuela;Hellstern;Seafood;268,8
+10396;Simons bistro;22-12-2016;Germany;Davolio;Dairy Products;1032
+10396;Alfreds Futterkiste;22-12-2016;Germany;Davolio;Dairy Products;583,8
+10396;Wellington Importadora;22-12-2016;Germany;Davolio;Grains/Cereals;288
+10397;Hanari Carnes;22-12-2016;Portugal;Buchanan;Confections;80
+10397;Hungry Owl All-Night Grocers;22-12-2016;Portugal;Buchanan;Produce;763,2
+10398;Que Delcia;25-12-2016;USA;Fuller;Beverages;432
+10398;Ricardo Adocicados;25-12-2016;USA;Fuller;Meat/Poultry;2304
+10399;Maison Dewey;26-12-2016;Denmark;Callahan;Beverages;504
+10399;Familia Arquibaldo;26-12-2016;Denmark;Callahan;Condiments;145,6
+10399;Die Wandernde Kuh;26-12-2016;Denmark;Callahan;Confections;600
+10399;Gourmet Lanchonetes;26-12-2016;Denmark;Callahan;Dairy Products;516
+10400;Frankenversand;27-12-2016;UK;Davolio;Beverages;504
+10400;Berglunds snabbkp;27-12-2016;UK;Davolio;Confections;480
+10400;Reggiani Caseifici;27-12-2016;UK;Davolio;Meat/Poultry;2079
+10401;Great Lakes Food Market;27-12-2016;USA;Davolio;Condiments;336
+10401;Save-a-lot Markets;27-12-2016;USA;Davolio;Dairy Products;1032
+10401;QUICK-Stop;27-12-2016;USA;Davolio;Grains/Cereals;2128
+10401;Queen Cozinha;27-12-2016;USA;Davolio;Seafood;372,6
+10402;Hungry Coyote Import Store;28-12-2016;Austria;Callahan;Condiments;2281,5
+10402;Hungry Owl All-Night Grocers;28-12-2016;Austria;Callahan;Grains/Cereals;432
+10403;Lonesome Pine Restaurant;29-12-2016;Austria;Peacock;Confections;291,9
+10403;Bon app';29-12-2016;Austria;Peacock;Confections;714
+10404;Furia Bacalhau e Frutos do Mar;29-12-2016;Italy;Fuller;Confections;747
+10404;Lonesome Pine Restaurant;29-12-2016;Italy;Fuller;Confections;480
+10404;Richter Supermarkt;29-12-2016;Italy;Fuller;Grains/Cereals;448
+10405;Ernst Handel;01-01-2017;Venezuela;Davolio;Condiments;400
+10406;Die Wandernde Kuh;02-01-2017;Brazil;King;Beverages;144
+10406;Simons bistro;02-01-2017;Brazil;King;Confections;240
+10406;Frankenversand;02-01-2017;Brazil;King;Produce;1528,8
+10406;France restauration;02-01-2017;Brazil;King;Seafood;76
+10406;Berglunds snabbkp;02-01-2017;Brazil;King;Seafood;29,4
+10407;Wilman Kala;02-01-2017;Germany;Fuller;Dairy Products;504
+10407;Island Trading;02-01-2017;Germany;Fuller;Dairy Products;432
+10407;Frankenversand;02-01-2017;Germany;Fuller;Dairy Products;258
+10408;Tortuga Restaurante;03-01-2017;France;Callahan;Confections;1379
+10408;Antonio Moreno Taquera;03-01-2017;France;Callahan;Meat/Poultry;35,4
+10408;Save-a-lot Markets;03-01-2017;France;Callahan;Seafood;208
+10409;Blondesddsl pre et fils;04-01-2017;Argentina;Leverling;Confections;96
+10409;Old World Delicatessen;04-01-2017;Argentina;Leverling;Produce;223,2
+10410;Great Lakes Food Market;05-01-2017;Canada;Leverling;Dairy Products;98
+10410;Antonio Moreno Taquera;05-01-2017;Canada;Leverling;Dairy Products;704
+10411;Du monde entier;05-01-2017;Canada;Dodsworth;Condiments;620
+10411;Ottilies Kseladen;05-01-2017;Canada;Dodsworth;Dairy Products;396
+10411;Gourmet Lanchonetes;05-01-2017;Canada;Dodsworth;Seafood;192,5
+10412;Piccolo und mehr;08-01-2017;Finland;Callahan;Produce;372
+10413;Hungry Owl All-Night Grocers;09-01-2017;France;Leverling;Beverages;345,6
+10413;Vaffeljernet;09-01-2017;France;Leverling;Beverages;201,6
+10413;Berglunds snabbkp;09-01-2017;France;Leverling;Confections;1576
+10414;Hanari Carnes;09-01-2017;Brazil;Fuller;Confections;131,4
+10414;QUICK-Stop;09-01-2017;Brazil;Fuller;Dairy Products;100
+10415;Alfreds Futterkiste;10-01-2017;USA;Leverling;Dairy Products;40
+10415;White Clover Markets;10-01-2017;USA;Leverling;Meat/Poultry;62,4
+10416;QUICK-Stop;11-01-2017;Finland;Callahan;Confections;146
+10416;Wilman Kala;11-01-2017;Finland;Callahan;Grains/Cereals;312
+10416;White Clover Markets;11-01-2017;Finland;Callahan;Meat/Poultry;262
+10417;LINO-Delicateses;11-01-2017;Denmark;Peacock;Beverages;10540
+10417;Ernst Handel;11-01-2017;Denmark;Peacock;Condiments;364
+10417;Morgenstern Gesundkost;11-01-2017;Denmark;Peacock;Confections;360
+10417;Save-a-lot Markets;11-01-2017;Denmark;Peacock;Seafood;19,2
+10418;Hungry Owl All-Night Grocers;12-01-2017;Germany;Peacock;Beverages;912
+10418;Alfreds Futterkiste;12-01-2017;Germany;Peacock;Condiments;364,8
+10418;Folk och f HB;12-01-2017;Germany;Peacock;Confections;418
+10418;Queen Cozinha;12-01-2017;Germany;Peacock;Produce;120
+10419;HILARION-Abastos;15-01-2017;Switzerland;Peacock;Dairy Products;1632
+10419;Old World Delicatessen;15-01-2017;Switzerland;Peacock;Dairy Products;576
+10420;Around the Horn;16-01-2017;Brazil;Leverling;Beverages;96
+10420;The Big Cheese;16-01-2017;Brazil;Leverling;Meat/Poultry;1552
+10420;Gourmet Lanchonetes;16-01-2017;Brazil;Leverling;Seafood;9,6
+10420;Franchi S.p.A.;16-01-2017;Brazil;Leverling;Seafood;240
+10421;Save-a-lot Markets;16-01-2017;Brazil;Callahan;Condiments;104
+10421;Hungry Owl All-Night Grocers;16-01-2017;Brazil;Callahan;Confections;29,2
+10421;Save-a-lot Markets;16-01-2017;Brazil;Callahan;Confections;747
+10421;Save-a-lot Markets;16-01-2017;Brazil;Callahan;Meat/Poultry;393
+10422;Bon app';17-01-2017;Italy;Fuller;Confections;49,8
+10423;Rancho grande;18-01-2017;Brazil;Hellstern;Dairy Products;140
+10423;Frankenversand;18-01-2017;Brazil;Hellstern;Dairy Products;880
+10424;Kniglich Essen;18-01-2017;Canada;King;Beverages;864
+10424;Let's Stop N Shop;18-01-2017;Canada;King;Beverages;10329,2
+10424;Que Delcia;18-01-2017;Canada;King;Confections;300
+10425;QUICK-Stop;19-01-2017;France;Hellstern;Beverages;288
+10425;Save-a-lot Markets;19-01-2017;France;Hellstern;Meat/Poultry;192
+10426;White Clover Markets;22-01-2017;Spain;Peacock;Grains/Cereals;152
+10426;Mre Paillarde;22-01-2017;Spain;Peacock;Grains/Cereals;186,2
+10427;Familia Arquibaldo;22-01-2017;Austria;Peacock;Produce;651
+10428;Eastern Connection;23-01-2017;Italy;King;Seafood;192
+10429;Reggiani Caseifici;24-01-2017;Ireland;Leverling;Condiments;1228,5
+10429;Queen Cozinha;24-01-2017;Ireland;Leverling;Confections;520
+10430;LINO-Delicateses;25-01-2017;Austria;Peacock;Confections;400
+10430;Bon app';25-01-2017;Austria;Peacock;Dairy Products;3080
+10430;Chop-suey Chinese;25-01-2017;Austria;Peacock;Grains/Cereals;912
+10430;Bon app';25-01-2017;Austria;Peacock;Meat/Poultry;1404
+10431;Berglunds snabbkp;25-01-2017;Canada;Peacock;Confections;228
+10431;Gourmet Lanchonetes;25-01-2017;Canada;Peacock;Meat/Poultry;1560
+10431;Let's Stop N Shop;25-01-2017;Canada;Peacock;Seafood;735
+10432;Hungry Owl All-Night Grocers;26-01-2017;USA;Leverling;Confections;249
+10432;Vins et alcools Chevalier;26-01-2017;USA;Leverling;Meat/Poultry;236
+10433;Spcialits du monde;29-01-2017;Portugal;Leverling;Grains/Cereals;851,2
+10434;Vins et alcools Chevalier;29-01-2017;Sweden;Leverling;Beverages;259,2
+10434;White Clover Markets;29-01-2017;Sweden;Leverling;Dairy Products;100,8
+10435;Around the Horn;30-01-2017;UK;Callahan;Beverages;152
+10435;Bottom-Dollar Markets;30-01-2017;UK;Callahan;Dairy Products;278
+10435;Around the Horn;30-01-2017;UK;Callahan;Grains/Cereals;201,6
+10436;Vaffeljernet;31-01-2017;France;Leverling;Beverages;148,8
+10436;QUICK-Stop;31-01-2017;France;Leverling;Grains/Cereals;1216
+10436;Chop-suey Chinese;31-01-2017;France;Leverling;Grains/Cereals;798
+10436;Piccolo und mehr;31-01-2017;France;Leverling;Seafood;48
+10437;Save-a-lot Markets;31-01-2017;Finland;Callahan;Meat/Poultry;393
+10438;Island Trading;01-02-2017;Germany;Leverling;Beverages;224
+10438;Wartian Herkku;01-02-2017;Germany;Leverling;Confections;109,5
+10438;Richter Supermarkt;01-02-2017;Germany;Leverling;Grains/Cereals;234
+10439;North/South;02-02-2017;Canada;Hellstern;Confections;222,4
+10439;Franchi S.p.A.;02-02-2017;Canada;Hellstern;Dairy Products;456
+10439;Magazzini Alimentari Riuniti;02-02-2017;Canada;Hellstern;Grains/Cereals;159,6
+10439;Bon app';02-02-2017;Canada;Hellstern;Produce;240
+10440;Split Rail Beer & Ale;05-02-2017;USA;Peacock;Beverages;684
+10440;Save-a-lot Markets;05-02-2017;USA;Peacock;Condiments;2052
+10440;Richter Supermarkt;05-02-2017;USA;Peacock;Confections;681,1
+10440;Ana Trujillo Emparedados y helados;05-02-2017;USA;Peacock;Meat/Poultry;2376
+10441;Maison Dewey;05-02-2017;USA;Leverling;Confections;1755
+10442;Rattlesnake Canyon Grocery;06-02-2017;Austria;Leverling;Condiments;816
+10442;Folk och f HB;06-02-2017;Austria;Leverling;Dairy Products;504
+10442;Folies gourmandes;06-02-2017;Austria;Leverling;Meat/Poultry;472
+10443;Ernst Handel;07-02-2017;Italy;Callahan;Dairy Products;100,8
+10443;QUICK-Stop;07-02-2017;Italy;Callahan;Produce;436,8
+10444;Ottilies Kseladen;07-02-2017;Sweden;Leverling;Beverages;115,2
+10444;Suprmes dlices;07-02-2017;Sweden;Leverling;Confections;373,5
+10444;Around the Horn;07-02-2017;Sweden;Leverling;Meat/Poultry;312
+10444;Vaffeljernet;07-02-2017;Sweden;Leverling;Seafood;231
+10445;Hanari Carnes;08-02-2017;Sweden;Leverling;Beverages;86,4
+10445;Ernst Handel;08-02-2017;Sweden;Leverling;Meat/Poultry;88,5
+10446;Lehmanns Marktstand;09-02-2017;Germany;Hellstern;Beverages;72
+10446;Ernst Handel;09-02-2017;Germany;Hellstern;Confections;87,6
+10446;Folk och f HB;09-02-2017;Germany;Hellstern;Dairy Products;30
+10446;The Cracker Box;09-02-2017;Germany;Hellstern;Grains/Cereals;84
+10447;Ernst Handel;09-02-2017;Brazil;Peacock;Condiments;588
+10447;Gourmet Lanchonetes;09-02-2017;Brazil;Peacock;Confections;292
+10447;Berglunds snabbkp;09-02-2017;Brazil;Peacock;Dairy Products;34,4
+10448;Morgenstern Gesundkost;12-02-2017;Argentina;Peacock;Confections;149,4
+10448;LILA-Supermercado;12-02-2017;Argentina;Peacock;Seafood;294
+10449;Wartian Herkku;13-02-2017;France;Leverling;Confections;1379
+10449;Cactus Comidas para llevar;13-02-2017;France;Leverling;Grains/Cereals;112
+10449;Hanari Carnes;13-02-2017;France;Leverling;Seafood;347,2
+10450;Magazzini Alimentari Riuniti;14-02-2017;France;Callahan;Meat/Poultry;35,4
+10450;GROSELLA-Restaurante;14-02-2017;France;Callahan;Seafood;496
+10451;Queen Cozinha;14-02-2017;Germany;Peacock;Condiments;470,4
+10451;La maison d'Asie;14-02-2017;Germany;Peacock;Condiments;572
+10451;QUICK-Stop;14-02-2017;Germany;Peacock;Grains/Cereals;931
+10451;Folies gourmandes;14-02-2017;Germany;Peacock;Meat/Poultry;2304
+10452;Gourmet Lanchonetes;15-02-2017;USA;Callahan;Condiments;1550
+10452;Frankenversand;15-02-2017;USA;Callahan;Produce;546
+10453;Wolski  Zajazd;16-02-2017;UK;Davolio;Beverages;300
+10453;Around the Horn;16-02-2017;UK;Davolio;Confections;153
+10454;Que Delcia;16-02-2017;France;Peacock;Confections;278
+10454;Ernst Handel;16-02-2017;France;Peacock;Dairy Products;40
+10454;HILARION-Abastos;16-02-2017;France;Peacock;Seafood;96
+10455;Drachenblut Delikatessen;19-02-2017;Finland;Callahan;Beverages;288
+10455;Island Trading;19-02-2017;Finland;Callahan;Condiments;570
+10455;Kniglich Essen;19-02-2017;Finland;Callahan;Dairy Products;516
+10455;Seven Seas Imports;19-02-2017;Finland;Callahan;Meat/Poultry;1310
+10456;Blido Comidas preparadas;20-02-2017;Germany;Callahan;Confections;320
+10456;Simons bistro;20-02-2017;Germany;Callahan;Confections;336
+10457;Wellington Importadora;20-02-2017;Germany;Fuller;Dairy Products;1584
+10458;Seven Seas Imports;21-02-2017;Belgium;King;Beverages;736
+10458;The Big Cheese;21-02-2017;Belgium;King;Confections;747
+10458;Victuailles en stock;21-02-2017;Belgium;King;Dairy Products;860
+10458;Franchi S.p.A.;21-02-2017;Belgium;King;Grains/Cereals;456
+10458;Old World Delicatessen;21-02-2017;Belgium;King;Produce;1092
+10459;Wellington Importadora;22-02-2017;France;Peacock;Dairy Products;1112
+10459;Laughing Bacchus Wine Cellars;22-02-2017;France;Peacock;Produce;384
+10459;LINO-Delicateses;22-02-2017;France;Peacock;Seafood;192
+10460;Reggiani Caseifici;23-02-2017;Sweden;Callahan;Beverages;24,8
+10460;Ricardo Adocicados;23-02-2017;Sweden;Callahan;Confections;210
+10461;Victuailles en stock;23-02-2017;Venezuela;Davolio;Confections;320
+10461;Save-a-lot Markets;23-02-2017;Venezuela;Davolio;Meat/Poultry;1152
+10461;Great Lakes Food Market;23-02-2017;Venezuela;Davolio;Seafood;579,6
+10462;Kniglich Essen;26-02-2017;UK;Fuller;Grains/Cereals;151,2
+10462;Magazzini Alimentari Riuniti;26-02-2017;UK;Fuller;Seafood;4,8
+10463;Cactus Comidas para llevar;27-02-2017;Belgium;Buchanan;Confections;153,3
+10463;Rattlesnake Canyon Grocery;27-02-2017;Belgium;Buchanan;Grains/Cereals;560
+10464;Split Rail Beer & Ale;27-02-2017;Portugal;Peacock;Beverages;110,4
+10464;Trail's Head Gourmet Provisioners;27-02-2017;Portugal;Peacock;Condiments;281,6
+10464;LILA-Supermercado;27-02-2017;Portugal;Peacock;Dairy Products;544
+10464;Folk och f HB;27-02-2017;Portugal;Peacock;Grains/Cereals;912
+10465;Drachenblut Delikatessen;28-02-2017;Denmark;Davolio;Beverages;90
+10465;Blondesddsl pre et fils;28-02-2017;Denmark;Davolio;Confections;325
+10465;Bon app';28-02-2017;Denmark;Davolio;Meat/Poultry;1782
+10465;Rancho grande;28-02-2017;Denmark;Davolio;Seafood;294
+10465;Island Trading;28-02-2017;Denmark;Davolio;Seafood;228
+10466;Tradio Hipermercados;01-03-2017;Brazil;Peacock;Dairy Products;168
+10466;Sant Gourmet;01-03-2017;Brazil;Peacock;Seafood;48
+10467;La maison d'Asie;01-03-2017;Italy;Callahan;Beverages;100,8
+10467;Ottilies Kseladen;01-03-2017;Italy;Callahan;Confections;134,4
+10468;Tradio Hipermercados;02-03-2017;Germany;Leverling;Beverages;552
+10468;Alfreds Futterkiste;02-03-2017;Germany;Leverling;Seafood;165,6
+10469;Ernst Handel;05-03-2017;USA;Davolio;Beverages;608
+10469;Berglunds snabbkp;05-03-2017;USA;Davolio;Condiments;31
+10469;LINO-Delicateses;05-03-2017;USA;Davolio;Confections;486,5
+10470;Tradio Hipermercados;06-03-2017;France;Peacock;Grains/Cereals;108
+10470;LINO-Delicateses;06-03-2017;France;Peacock;Grains/Cereals;212,8
+10470;Suprmes dlices;06-03-2017;France;Peacock;Seafood;1500
+10471;Tortuga Restaurante;06-03-2017;UK;Fuller;Grains/Cereals;608
+10471;Victuailles en stock;06-03-2017;UK;Fuller;Produce;720
+10472;Piccolo und mehr;07-03-2017;UK;Callahan;Beverages;288
+10472;QUICK-Stop;07-03-2017;UK;Callahan;Produce;763,2
+10473;Suprmes dlices;08-03-2017;UK;Davolio;Dairy Products;24
+10473;Save-a-lot Markets;08-03-2017;UK;Davolio;Dairy Products;206,4
+10474;Consolidated Holdings;08-03-2017;Mexico;Buchanan;Beverages;62
+10474;Kniglich Essen;08-03-2017;Mexico;Buchanan;Produce;223,2
+10474;Victuailles en stock;08-03-2017;Mexico;Buchanan;Produce;655,2
+10474;Ricardo Adocicados;08-03-2017;Mexico;Buchanan;Seafood;308,7
+10475;Rattlesnake Canyon Grocery;09-03-2017;Belgium;Dodsworth;Beverages;604,8
+10475;Blauer See Delikatessen;09-03-2017;Belgium;Dodsworth;Condiments;816
+10475;Ernst Handel;09-03-2017;Belgium;Dodsworth;Dairy Products;350
+10476;Old World Delicatessen;12-03-2017;Venezuela;Callahan;Beverages;144
+10476;Antonio Moreno Taquera;12-03-2017;Venezuela;Callahan;Meat/Poultry;38,4
+10477;Berglunds snabbkp;12-03-2017;Portugal;Buchanan;Beverages;216
+10477;La corne d'abondance;12-03-2017;Portugal;Buchanan;Beverages;288
+10477;Frankenversand;12-03-2017;Portugal;Buchanan;Confections;168
+10478;France restauration;13-03-2017;France;Fuller;Seafood;496
+10479;White Clover Markets;14-03-2017;USA;Leverling;Beverages;6324
+10479;Lehmanns Marktstand;14-03-2017;USA;Leverling;Dairy Products;2640
+10479;HILARION-Abastos;14-03-2017;USA;Leverling;Grains/Cereals;798
+10479;Around the Horn;14-03-2017;USA;Leverling;Meat/Poultry;733,6
+10480;QUICK-Stop;15-03-2017;France;Hellstern;Confections;228
+10480;Berglunds snabbkp;15-03-2017;France;Hellstern;Dairy Products;528
+10481;Lonesome Pine Restaurant;15-03-2017;Brazil;Callahan;Confections;384
+10481;Queen Cozinha;15-03-2017;Brazil;Callahan;Dairy Products;1088
+10482;Seven Seas Imports;16-03-2017;USA;Davolio;Seafood;147
+10483;Wolski  Zajazd;19-03-2017;USA;King;Beverages;392
+10483;Bon app';19-03-2017;USA;King;Condiments;312
+10484;Godos Cocina Tpica;19-03-2017;UK;Leverling;Confections;112
+10484;Wilman Kala;19-03-2017;UK;Leverling;Produce;127,2
+10484;Godos Cocina Tpica;19-03-2017;UK;Leverling;Seafood;147
+10485;Berglunds snabbkp;20-03-2017;Venezuela;Peacock;Beverages;304
+10485;Bon app';20-03-2017;Venezuela;Peacock;Beverages;720
+10485;Ricardo Adocicados;20-03-2017;Venezuela;Peacock;Condiments;160
+10485;QUICK-Stop;20-03-2017;Venezuela;Peacock;Meat/Poultry;576
+10486;Wilman Kala;21-03-2017;Venezuela;Davolio;Dairy Products;84
+10486;Folk och f HB;21-03-2017;Venezuela;Davolio;Produce;1060
+10486;Cactus Comidas para llevar;21-03-2017;Venezuela;Davolio;Produce;128
+10487;Save-a-lot Markets;21-03-2017;Brazil;Fuller;Confections;36,5
+10487;Lonesome Pine Restaurant;21-03-2017;Brazil;Fuller;Confections;747
+10487;Let's Stop N Shop;21-03-2017;Brazil;Fuller;Meat/Poultry;141,6
+10488;Suprmes dlices;22-03-2017;Germany;Callahan;Dairy Products;1320
+10488;Hanari Carnes;22-03-2017;Germany;Callahan;Seafood;240
+10489;Galera del gastrnomo;23-03-2017;Austria;Hellstern;Confections;250,2
+10489;Godos Cocina Tpica;23-03-2017;Austria;Hellstern;Dairy Products;252
+10490;Rattlesnake Canyon Grocery;26-03-2017;Venezuela;King;Beverages;223,2
+10490;Du monde entier;26-03-2017;Venezuela;King;Confections;300
+10490;Lehmanns Marktstand;26-03-2017;Venezuela;King;Dairy Products;2640
+10491;Maison Dewey;26-03-2017;Portugal;Callahan;Condiments;232,5
+10491;Kniglich Essen;26-03-2017;Portugal;Callahan;Condiments;72,8
+10492;Save-a-lot Markets;27-03-2017;Canada;Leverling;Confections;672
+10492;Ernst Handel;27-03-2017;Canada;Leverling;Grains/Cereals;224
+10493;Maison Dewey;28-03-2017;France;Peacock;Condiments;252
+10493;Hungry Owl All-Night Grocers;28-03-2017;France;Peacock;Condiments;136
+10493;Ocano Atlntico Ltda.;28-03-2017;France;Peacock;Dairy Products;288
+10494;LILA-Supermercado;28-03-2017;Brazil;Peacock;Grains/Cereals;912
+10495;Wellington Importadora;29-03-2017;Canada;Leverling;Condiments;52
+10495;HILARION-Abastos;29-03-2017;Canada;Leverling;Grains/Cereals;72
+10495;Folk och f HB;29-03-2017;Canada;Leverling;Seafood;154
+10496;Hanari Carnes;30-03-2017;Brazil;King;Dairy Products;200
+10497;White Clover Markets;30-03-2017;Germany;King;Condiments;260
+10497;Wellington Importadora;30-03-2017;Germany;King;Dairy Products;695
+10497;Wolski  Zajazd;30-03-2017;Germany;King;Grains/Cereals;425,6
+10498;Spcialits du monde;02-04-2017;Venezuela;Callahan;Beverages;63
+10498;Reggiani Caseifici;02-04-2017;Venezuela;Callahan;Grains/Cereals;420
+10498;Sant Gourmet;02-04-2017;Venezuela;Callahan;Seafood;92
+10499;Wilman Kala;03-04-2017;Venezuela;Peacock;Confections;500
+10499;Godos Cocina Tpica;03-04-2017;Venezuela;Peacock;Produce;912
+10500;Hungry Owl All-Night Grocers;04-04-2017;France;Hellstern;Condiments;186
+10500;Queen Cozinha;04-04-2017;France;Hellstern;Produce;364,8
+10501;Queen Cozinha;04-04-2017;Germany;Dodsworth;Meat/Poultry;149
+10502;Tortuga Restaurante;05-04-2017;Mexico;Fuller;Beverages;420
+10502;Rancho grande;05-04-2017;Mexico;Fuller;Meat/Poultry;196,8
+10502;Romero y tomillo;05-04-2017;Mexico;Fuller;Seafood;199,5
+10503;Bottom-Dollar Markets;06-04-2017;Ireland;Hellstern;Condiments;421
+10503;LINO-Delicateses;06-04-2017;Ireland;Hellstern;Produce;1627,5
+10504;Around the Horn;06-04-2017;USA;Peacock;Beverages;228
+10504;Vaffeljernet;06-04-2017;USA;Peacock;Condiments;712,5
+10504;Hanari Carnes;06-04-2017;USA;Peacock;Confections;120
+10504;La maison d'Asie;06-04-2017;USA;Peacock;Meat/Poultry;328
+10505;Berglunds snabbkp;09-04-2017;Canada;Leverling;Confections;147,9
+10506;Hanari Carnes;10-04-2017;Germany;Dodsworth;Beverages;210
+10506;Ana Trujillo Emparedados y helados;10-04-2017;Germany;Dodsworth;Confections;252
+10507;La corne d'abondance;10-04-2017;Mexico;King;Beverages;690
+10507;Galera del gastrnomo;10-04-2017;Mexico;King;Confections;191,25
+10508;Frankenversand;11-04-2017;Germany;Davolio;Beverages;180
+10508;Suprmes dlices;11-04-2017;Germany;Davolio;Seafood;60
+10509;Richter Supermarkt;12-04-2017;Germany;Peacock;Produce;136,8
+10510;Bon app';13-04-2017;USA;Hellstern;Beverages;279
+10510;Island Trading;13-04-2017;USA;Hellstern;Meat/Poultry;4456,44
+10511;Lehmanns Marktstand;13-04-2017;France;Peacock;Condiments;1100
+10511;Wellington Importadora;13-04-2017;France;Peacock;Condiments;400
+10511;Great Lakes Food Market;13-04-2017;France;Peacock;Produce;1500
+10512;Cactus Comidas para llevar;16-04-2017;Brazil;King;Beverages;45
+10512;QUICK-Stop;16-04-2017;Brazil;King;Confections;57
+10512;Magazzini Alimentari Riuniti;16-04-2017;Brazil;King;Dairy Products;408
+10512;Bon app';16-04-2017;Brazil;King;Seafood;108
+10513;Save-a-lot Markets;17-04-2017;Germany;King;Condiments;427,5
+10513;Reggiani Caseifici;17-04-2017;Germany;King;Confections;400
+10513;B's Beverages;17-04-2017;Germany;King;Dairy Products;1600
+10514;Bottom-Dollar Markets;17-04-2017;Austria;Leverling;Beverages;387,5
+10514;Morgenstern Gesundkost;17-04-2017;Austria;Leverling;Condiments;820,95
+10514;Vaffeljernet;17-04-2017;Austria;Leverling;Confections;3159
+10514;B's Beverages;17-04-2017;Austria;Leverling;Grains/Cereals;2660
+10514;Godos Cocina Tpica;17-04-2017;Austria;Leverling;Produce;1596
+10515;Bottom-Dollar Markets;18-04-2017;Germany;Fuller;Confections;872,5
+10515;Magazzini Alimentari Riuniti;18-04-2017;Germany;Fuller;Confections;5268
+10515;Richter Supermarkt;18-04-2017;Germany;Fuller;Dairy Products;40
+10515;Alfreds Futterkiste;18-04-2017;Germany;Fuller;Dairy Products;2856
+10515;Around the Horn;18-04-2017;Germany;Fuller;Meat/Poultry;1552
+10516;LINO-Delicateses;19-04-2017;Ireland;Fuller;Grains/Cereals;280
+10516;Folk och f HB;19-04-2017;Ireland;Fuller;Seafood;1562,5
+10516;Blauer See Delikatessen;19-04-2017;Ireland;Fuller;Seafood;772
+10517;HILARION-Abastos;19-04-2017;UK;Leverling;Beverages;90
+10517;Ocano Atlntico Ltda.;19-04-2017;UK;Leverling;Dairy Products;220
+10517;Gourmet Lanchonetes;19-04-2017;UK;Leverling;Grains/Cereals;42
+10518;HILARION-Abastos;20-04-2017;Mexico;Peacock;Beverages;22,5
+10518;Queen Cozinha;20-04-2017;Mexico;Peacock;Beverages;3952,5
+10518;QUICK-Stop;20-04-2017;Mexico;Peacock;Condiments;175,05
+10519;Furia Bacalhau e Frutos do Mar;23-04-2017;Switzerland;Hellstern;Dairy Products;340
+10519;Spcialits du monde;23-04-2017;Switzerland;Hellstern;Grains/Cereals;1520
+10519;Old World Delicatessen;23-04-2017;Switzerland;Hellstern;Seafood;496
+10520;Chop-suey Chinese;24-04-2017;Norway;King;Beverages;36
+10520;Toms Spezialitten;24-04-2017;Norway;King;Meat/Poultry;164
+10521;Ernst Handel;24-04-2017;Argentina;Callahan;Beverages;54
+10521;Comrcio Mineiro;24-04-2017;Argentina;Callahan;Confections;75
+10521;Blido Comidas preparadas;24-04-2017;Argentina;Callahan;Seafood;96,5
+10522;France restauration;25-04-2017;Germany;Peacock;Beverages;720
+10522;La corne d'abondance;25-04-2017;Germany;Peacock;Condiments;960
+10522;La corne d'abondance;25-04-2017;Germany;Peacock;Seafood;517,8
+10522;Split Rail Beer & Ale;25-04-2017;Germany;Peacock;Seafood;460
+10523;Bottom-Dollar Markets;26-04-2017;UK;King;Confections;1215
+10523;HILARION-Abastos;26-04-2017;UK;King;Meat/Poultry;975
+10523;Folk och f HB;26-04-2017;UK;King;Seafood;468
+10523;Maison Dewey;26-04-2017;UK;King;Seafood;57,9
+10524;Ernst Handel;26-04-2017;Sweden;Davolio;Beverages;2760
+10524;Folk och f HB;26-04-2017;Sweden;Davolio;Meat/Poultry;111,75
+10524;Hanari Carnes;26-04-2017;Sweden;Davolio;Seafood;62
+10524;Bottom-Dollar Markets;26-04-2017;Sweden;Davolio;Seafood;258,9
+10525;Save-a-lot Markets;27-04-2017;France;Davolio;Seafood;570
+10525;Save-a-lot Markets;27-04-2017;France;Davolio;Seafood;276
+10526;Hungry Owl All-Night Grocers;30-04-2017;Finland;Peacock;Beverages;144
+10526;Ocano Atlntico Ltda.;30-04-2017;Finland;Peacock;Grains/Cereals;1140
+10526;Eastern Connection;30-04-2017;Finland;Peacock;Seafood;60
+10527;Rattlesnake Canyon Grocery;30-04-2017;Germany;King;Condiments;1100
+10527;Que Delcia;30-04-2017;Germany;King;Seafood;570
+10528;Ernst Handel;01-05-2017;USA;Hellstern;Dairy Products;63
+10528;QUICK-Stop;01-05-2017;USA;Hellstern;Dairy Products;20
+10528;The Big Cheese;01-05-2017;USA;Hellstern;Dairy Products;313,2
+10529;Folk och f HB;02-05-2017;Belgium;Buchanan;Confections;250
+10529;Vaffeljernet;02-05-2017;Belgium;Buchanan;Dairy Products;360
+10529;Pericles Comidas clsicas;02-05-2017;Belgium;Buchanan;Meat/Poultry;336
+10530;QUICK-Stop;03-05-2017;Austria;Leverling;Beverages;1150
+10530;LILA-Supermercado;03-05-2017;Austria;Leverling;Beverages;900
+10530;Wolski  Zajazd;03-05-2017;Austria;Leverling;Condiments;570
+10530;Ottilies Kseladen;03-05-2017;Austria;Leverling;Meat/Poultry;1560
+10531;Rattlesnake Canyon Grocery;03-05-2017;Argentina;King;Dairy Products;110
+10532;Folk och f HB;04-05-2017;UK;King;Condiments;408
+10532;Save-a-lot Markets;04-05-2017;UK;King;Seafood;388,35
+10533;The Cracker Box;07-05-2017;Sweden;Callahan;Condiments;1100
+10533;Maison Dewey;07-05-2017;Sweden;Callahan;Dairy Products;835,2
+10533;Wilman Kala;07-05-2017;Sweden;Callahan;Seafood;360
+10534;Great Lakes Food Market;07-05-2017;Germany;Callahan;Meat/Poultry;74,5
+10534;Princesa Isabel Vinhos;07-05-2017;Germany;Callahan;Seafood;258,9
+10534;Ernst Handel;07-05-2017;Germany;Callahan;Seafood;184
+10535;Godos Cocina Tpica;08-05-2017;Mexico;Peacock;Dairy Products;1050
+10535;Reggiani Caseifici;08-05-2017;Mexico;Peacock;Dairy Products;825
+10535;Alfreds Futterkiste;08-05-2017;Mexico;Peacock;Grains/Cereals;97,5
+10535;Frankenversand;08-05-2017;Mexico;Peacock;Seafood;184
+10536;Romero y tomillo;09-05-2017;Germany;Leverling;Dairy Products;570
+10536;LINO-Delicateses;09-05-2017;Germany;Leverling;Dairy Products;250
+10536;Sant Gourmet;09-05-2017;Germany;Leverling;Dairy Products;75
+10536;Around the Horn;09-05-2017;Germany;Leverling;Dairy Products;1190
+10537;Ernst Handel;09-05-2017;Switzerland;Davolio;Dairy Products;375
+10537;Lonesome Pine Restaurant;09-05-2017;Switzerland;Davolio;Dairy Products;730,8
+10537;Rancho grande;09-05-2017;Switzerland;Davolio;Produce;318
+10537;Ottilies Kseladen;09-05-2017;Switzerland;Davolio;Seafood;265
+10537;QUICK-Stop;09-05-2017;Switzerland;Davolio;Seafood;135
+10538;Hanari Carnes;10-05-2017;UK;Dodsworth;Beverages;105
+10538;B's Beverages;10-05-2017;UK;Dodsworth;Dairy Products;34,8
+10539;Eastern Connection;11-05-2017;UK;Hellstern;Confections;150
+10539;Wartian Herkku;11-05-2017;UK;Hellstern;Confections;120
+10539;Franchi S.p.A.;11-05-2017;UK;Hellstern;Dairy Products;37,5
+10539;Bottom-Dollar Markets;11-05-2017;UK;Hellstern;Seafood;48
+10540;Kniglich Essen;14-05-2017;Germany;Leverling;Beverages;7905
+10540;Chop-suey Chinese;14-05-2017;Germany;Leverling;Condiments;600
+10540;Save-a-lot Markets;14-05-2017;Germany;Leverling;Confections;1249,2
+10540;Save-a-lot Markets;14-05-2017;Germany;Leverling;Confections;437,5
+10541;White Clover Markets;14-05-2017;Brazil;Fuller;Beverages;157,5
+10541;Richter Supermarkt;14-05-2017;Brazil;Fuller;Beverages;1054
+10541;Old World Delicatessen;14-05-2017;Brazil;Fuller;Condiments;757,8
+10541;Suprmes dlices;14-05-2017;Brazil;Fuller;Dairy Products;193,5
+10542;Drachenblut Delikatessen;15-05-2017;Germany;Davolio;Dairy Products;315
+10542;Godos Cocina Tpica;15-05-2017;Germany;Davolio;Meat/Poultry;178,8
+10543;Suprmes dlices;16-05-2017;Venezuela;Callahan;Dairy Products;1140
+10543;LINO-Delicateses;16-05-2017;Venezuela;Callahan;Grains/Cereals;630
+10544;Great Lakes Food Market;16-05-2017;USA;Peacock;Beverages;98
+10544;Chop-suey Chinese;16-05-2017;USA;Peacock;Produce;319,2
+10545;Comrcio Mineiro;17-05-2017;USA;Callahan;Dairy Products;210
+10546;Spcialits du monde;18-05-2017;France;Davolio;Beverages;540
+10546;Wolski  Zajazd;18-05-2017;France;Davolio;Confections;1972
+10546;Bottom-Dollar Markets;18-05-2017;France;Davolio;Produce;300
+10547;Die Wandernde Kuh;18-05-2017;UK;Leverling;Dairy Products;768
+10547;Eastern Connection;18-05-2017;UK;Leverling;Seafood;1140
+10548;Bottom-Dollar Markets;21-05-2017;Germany;Leverling;Beverages;140
+10548;Gourmet Lanchonetes;21-05-2017;Germany;Leverling;Seafood;135,1
+10549;Folk och f HB;22-05-2017;Germany;Buchanan;Dairy Products;687,5
+10549;La maison d'Asie;22-05-2017;Germany;Buchanan;Produce;2544
+10549;Hanari Carnes;22-05-2017;Germany;Buchanan;Seafood;950
+10550;Piccolo und mehr;23-05-2017;Spain;King;Condiments;285
+10550;Cactus Comidas para llevar;23-05-2017;Spain;King;Confections;92
+10550;HILARION-Abastos;23-05-2017;Spain;King;Confections;60
+10550;Eastern Connection;23-05-2017;Spain;King;Meat/Poultry;312
+10551;North/South;23-05-2017;Portugal;Peacock;Beverages;360
+10551;Blauer See Delikatessen;23-05-2017;Portugal;Peacock;Condiments;778
+10551;Ricardo Adocicados;23-05-2017;Portugal;Peacock;Confections;698
+10552;Franchi S.p.A.;24-05-2017;Venezuela;Fuller;Beverages;232,5
+10552;Great Lakes Food Market;24-05-2017;Venezuela;Fuller;Dairy Products;648
+10553;Reggiani Caseifici;25-05-2017;Finland;Fuller;Beverages;108
+10553;Hungry Owl All-Night Grocers;25-05-2017;Finland;Fuller;Confections;244,3
+10553;Save-a-lot Markets;25-05-2017;Finland;Fuller;Dairy Products;315
+10553;LILA-Supermercado;25-05-2017;Finland;Fuller;Dairy Products;375
+10553;White Clover Markets;25-05-2017;Finland;Fuller;Grains/Cereals;504
+10554;Drachenblut Delikatessen;25-05-2017;Germany;Peacock;Condiments;130
+10554;Queen Cozinha;25-05-2017;Germany;Peacock;Confections;523,5
+10554;Tortuga Restaurante;25-05-2017;Germany;Peacock;Confections;986
+10554;Lehmanns Marktstand;25-05-2017;Germany;Peacock;Grains/Cereals;180
+10555;LILA-Supermercado;28-05-2017;USA;Hellstern;Beverages;81
+10555;Ernst Handel;28-05-2017;USA;Hellstern;Confections;322
+10555;Pericles Comidas clsicas;28-05-2017;USA;Hellstern;Grains/Cereals;1520
+10555;Simons bistro;28-05-2017;USA;Hellstern;Produce;697,5
+10555;Richter Supermarkt;28-05-2017;USA;Hellstern;Produce;1060
+10556;Bon app';29-05-2017;Denmark;Fuller;Dairy Products;835,2
+10557;Rattlesnake Canyon Grocery;29-05-2017;Germany;Dodsworth;Beverages;155
+10557;Wellington Importadora;29-05-2017;Germany;Dodsworth;Grains/Cereals;997,5
+10558;HILARION-Abastos;30-05-2017;UK;Davolio;Confections;237,5
+10558;Ernst Handel;30-05-2017;UK;Davolio;Grains/Cereals;210
+10558;Centro comercial Moctezuma;30-05-2017;UK;Davolio;Meat/Poultry;590,4
+10558;Ottilies Kseladen;30-05-2017;UK;Davolio;Produce;1060
+10558;Que Delcia;30-05-2017;UK;Davolio;Seafood;45
+10559;Rattlesnake Canyon Grocery;31-05-2017;France;Hellstern;Meat/Poultry;432
+10559;Ernst Handel;31-05-2017;France;Hellstern;Seafood;115,8
+10560;Folk och f HB;01-06-2017;Germany;Callahan;Confections;739,5
+10560;Blondesddsl pre et fils;01-06-2017;Germany;Callahan;Seafood;517,8
+10561;Wartian Herkku;01-06-2017;Sweden;Fuller;Condiments;194,5
+10561;Frankenversand;01-06-2017;Sweden;Fuller;Produce;2650
+10562;GROSELLA-Restaurante;04-06-2017;Italy;Davolio;Confections;493
+10562;White Clover Markets;04-06-2017;Italy;Davolio;Dairy Products;50
+10563;Wartian Herkku;05-06-2017;Brazil;Fuller;Grains/Cereals;490
+10563;Split Rail Beer & Ale;05-06-2017;Brazil;Fuller;Seafood;475
+10564;Rattlesnake Canyon Grocery;05-06-2017;USA;Peacock;Dairy Products;75
+10564;QUICK-Stop;05-06-2017;USA;Peacock;Meat/Poultry;624
+10564;Vins et alcools Chevalier;05-06-2017;USA;Peacock;Meat/Poultry;600
+10565;Magazzini Alimentari Riuniti;06-06-2017;Canada;Callahan;Beverages;112,5
+10565;Tortuga Restaurante;06-06-2017;Canada;Callahan;Grains/Cereals;598,5
+10566;Morgenstern Gesundkost;07-06-2017;France;Dodsworth;Beverages;180
+10566;Berglunds snabbkp;07-06-2017;France;Dodsworth;Dairy Products;735
+10566;Lehmanns Marktstand;07-06-2017;France;Dodsworth;Seafood;1125
+10567;Berglunds snabbkp;07-06-2017;Ireland;Davolio;Dairy Products;750
+10567;Romero y tomillo;07-06-2017;Ireland;Davolio;Dairy Products;2200
+10567;Romero y tomillo;07-06-2017;Ireland;Davolio;Produce;159
+10568;LILA-Supermercado;08-06-2017;Spain;Leverling;Seafood;155
+10569;Lehmanns Marktstand;11-06-2017;USA;Buchanan;Beverages;540
+10569;QUICK-Stop;11-06-2017;USA;Buchanan;Dairy Products;437,5
+10570;QUICK-Stop;12-06-2017;Canada;Leverling;Dairy Products;315
+10570;Ricardo Adocicados;12-06-2017;Canada;Leverling;Grains/Cereals;2280
+10571;Reggiani Caseifici;12-06-2017;Austria;Callahan;Grains/Cereals;392
+10571;B's Beverages;12-06-2017;Austria;Callahan;Produce;255,75
+10572;Comrcio Mineiro;13-06-2017;Sweden;Leverling;Beverages;116,25
+10572;Que Delcia;13-06-2017;Sweden;Leverling;Confections;209,4
+10572;Tradio Hipermercados;13-06-2017;Sweden;Leverling;Dairy Products;320
+10572;Tortuga Restaurante;13-06-2017;Sweden;Leverling;Seafood;920
+10573;Rattlesnake Canyon Grocery;14-06-2017;Mexico;King;Beverages;560
+10573;Vins et alcools Chevalier;14-06-2017;Mexico;King;Meat/Poultry;702
+10573;LILA-Supermercado;14-06-2017;Mexico;King;Meat/Poultry;820
+10574;Blondesddsl pre et fils;14-06-2017;USA;Peacock;Confections;493
+10574;Hungry Owl All-Night Grocers;14-06-2017;USA;Peacock;Dairy Products;35
+10574;Ricardo Adocicados;14-06-2017;USA;Peacock;Grains/Cereals;199,5
+10574;Magazzini Alimentari Riuniti;14-06-2017;USA;Peacock;Seafood;36,8
+10575;Die Wandernde Kuh;15-06-2017;Germany;Buchanan;Beverages;180
+10575;Suprmes dlices;15-06-2017;Germany;Buchanan;Condiments;263,4
+10575;Godos Cocina Tpica;15-06-2017;Germany;Buchanan;Dairy Products;660
+10575;Tortuga Restaurante;15-06-2017;Germany;Buchanan;Dairy Products;1044
+10576;Old World Delicatessen;18-06-2017;Mexico;Leverling;Beverages;180
+10576;Romero y tomillo;18-06-2017;Mexico;Leverling;Condiments;408,45
+10576;Lonesome Pine Restaurant;18-06-2017;Mexico;Leverling;Dairy Products;250
+10577;Ana Trujillo Emparedados y helados;18-06-2017;USA;Dodsworth;Beverages;180
+10577;Hungry Owl All-Night Grocers;18-06-2017;USA;Dodsworth;Beverages;155
+10577;The Big Cheese;18-06-2017;USA;Dodsworth;Condiments;234
+10578;Du monde entier;19-06-2017;UK;Peacock;Beverages;360
+10578;Die Wandernde Kuh;19-06-2017;UK;Peacock;Grains/Cereals;117
+10579;QUICK-Stop;20-06-2017;USA;Davolio;Beverages;162,75
+10579;Rattlesnake Canyon Grocery;20-06-2017;USA;Davolio;Condiments;155
+10580;Island Trading;21-06-2017;Germany;Peacock;Condiments;631,5
+10580;Rattlesnake Canyon Grocery;21-06-2017;Germany;Peacock;Produce;348,75
+10580;Lonesome Pine Restaurant;21-06-2017;Germany;Peacock;Seafood;86,85
+10581;Island Trading;21-06-2017;Brazil;Leverling;Beverages;387,5
+10582;Tortuga Restaurante;22-06-2017;Germany;Leverling;Beverages;252
+10582;Wartian Herkku;22-06-2017;Germany;Leverling;Grains/Cereals;78
+10583;Island Trading;25-06-2017;Finland;Fuller;Dairy Products;816
+10583;Pericles Comidas clsicas;25-06-2017;Finland;Fuller;Dairy Products;360
+10583;Kniglich Essen;25-06-2017;Finland;Fuller;Meat/Poultry;1237,9
+10584;Save-a-lot Markets;25-06-2017;France;Peacock;Dairy Products;625
+10585;Kniglich Essen;26-06-2017;Brazil;King;Confections;142,5
+10586;Blido Comidas preparadas;27-06-2017;Italy;Dodsworth;Grains/Cereals;28
+10587;Folk och f HB;27-06-2017;Brazil;Davolio;Beverages;360
+10587;Furia Bacalhau e Frutos do Mar;27-06-2017;Brazil;Davolio;Condiments;260
+10587;Split Rail Beer & Ale;27-06-2017;Brazil;Davolio;Confections;187,38
+10588;LILA-Supermercado;28-06-2017;Germany;Fuller;Grains/Cereals;1400
+10588;Bon app';28-06-2017;Germany;Fuller;Seafood;2500
+10589;Mre Paillarde;29-06-2017;USA;Callahan;Beverages;72
+10590;Wartian Herkku;02-07-2017;Canada;Peacock;Beverages;360
+10590;Victuailles en stock;02-07-2017;Canada;Peacock;Condiments;780
+10591;Hungry Owl All-Night Grocers;02-07-2017;Denmark;Davolio;Condiments;140
+10591;Princesa Isabel Vinhos;02-07-2017;Denmark;Davolio;Meat/Poultry;372,5
+10591;Frankenversand;02-07-2017;Denmark;Davolio;Produce;300
+10592;Old World Delicatessen;03-07-2017;Germany;Leverling;Condiments;387,5
+10592;Mre Paillarde;03-07-2017;Germany;Leverling;Confections;156,15
+10593;Bon app';04-07-2017;Germany;King;Beverages;72
+10593;Simons bistro;04-07-2017;Germany;King;Confections;1701
+10593;Frankenversand;04-07-2017;Germany;King;Dairy Products;720
+10594;Lehmanns Marktstand;04-07-2017;USA;Leverling;Grains/Cereals;168
+10594;White Clover Markets;04-07-2017;USA;Leverling;Seafood;397,5
+10595;QUICK-Stop;05-07-2017;Austria;Fuller;Beverages;540
+10595;Rattlesnake Canyon Grocery;05-07-2017;Austria;Fuller;Condiments;3420
+10595;Familia Arquibaldo;05-07-2017;Austria;Fuller;Dairy Products;2340
+10596;Die Wandernde Kuh;06-07-2017;USA;Callahan;Beverages;232,5
+10596;Split Rail Beer & Ale;06-07-2017;USA;Callahan;Condiments;1053,6
+10596;La maison d'Asie;06-07-2017;USA;Callahan;Grains/Cereals;190
+10597;Ernst Handel;06-07-2017;Austria;King;Beverages;157,5
+10597;Furia Bacalhau e Frutos do Mar;06-07-2017;Austria;King;Condiments;252,6
+10597;Piccolo und mehr;06-07-2017;Austria;King;Grains/Cereals;390
+10598;Pericles Comidas clsicas;09-07-2017;USA;Davolio;Confections;2195
+10598;Around the Horn;09-07-2017;USA;Davolio;Dairy Products;193,5
+10599;Die Wandernde Kuh;10-07-2017;UK;Hellstern;Confections;493
+10600;LILA-Supermercado;11-07-2017;USA;Peacock;Meat/Poultry;29,8
+10600;La maison d'Asie;11-07-2017;USA;Peacock;Seafood;450
+10601;Seven Seas Imports;11-07-2017;Venezuela;King;Dairy Products;1925
+10601;Blondesddsl pre et fils;11-07-2017;Venezuela;King;Seafood;360
+10602;QUICK-Stop;12-07-2017;Denmark;Callahan;Condiments;65
+10603;Bon app';13-07-2017;USA;Callahan;Confections;500
+10603;Drachenblut Delikatessen;13-07-2017;USA;Callahan;Grains/Cereals;1008
+10604;Eastern Connection;13-07-2017;Portugal;Davolio;Beverages;180
+10604;Antonio Moreno Taquera;13-07-2017;Portugal;Davolio;Confections;76,5
+10605;Galera del gastrnomo;16-07-2017;Canada;Davolio;Confections;523,5
+10605;Vaffeljernet;16-07-2017;Canada;Davolio;Dairy Products;1100
+10605;Ernst Handel;16-07-2017;Canada;Davolio;Dairy Products;2380
+10605;Split Rail Beer & Ale;16-07-2017;Canada;Davolio;Dairy Products;322,5
+10606;Chop-suey Chinese;17-07-2017;Brazil;Peacock;Condiments;440
+10606;La maison d'Asie;17-07-2017;Brazil;Peacock;Confections;493
+10606;Queen Cozinha;17-07-2017;Brazil;Peacock;Meat/Poultry;480
+10607;Hungry Owl All-Night Grocers;17-07-2017;USA;Buchanan;Dairy Products;35
+10607;Wolski  Zajazd;17-07-2017;USA;Buchanan;Dairy Products;417,6
+10607;Hungry Coyote Import Store;17-07-2017;USA;Buchanan;Meat/Poultry;3900
+10607;Mre Paillarde;17-07-2017;USA;Buchanan;Produce;1350
+10607;Seven Seas Imports;17-07-2017;USA;Buchanan;Seafood;772,8
+10608;Folk och f HB;18-07-2017;Germany;Peacock;Grains/Cereals;1064
+10609;Que Delcia;19-07-2017;France;King;Beverages;54
+10609;Hungry Owl All-Night Grocers;19-07-2017;France;King;Confections;60
+10609;LILA-Supermercado;19-07-2017;France;King;Seafood;310
+10610;Ernst Handel;20-07-2017;France;Callahan;Seafood;399
+10611;Around the Horn;20-07-2017;Poland;Hellstern;Beverages;108
+10611;Berglunds snabbkp;20-07-2017;Poland;Hellstern;Beverages;190
+10611;Split Rail Beer & Ale;20-07-2017;Poland;Hellstern;Dairy Products;510
+10612;Familia Arquibaldo;23-07-2017;USA;Davolio;Beverages;1440
+10612;Sant Gourmet;23-07-2017;USA;Davolio;Confections;360
+10612;Seven Seas Imports;23-07-2017;USA;Davolio;Dairy Products;1360
+10612;Bottom-Dollar Markets;23-07-2017;USA;Davolio;Seafood;2170
+10612;Ernst Handel;23-07-2017;USA;Davolio;Seafood;1045
+10613;Drachenblut Delikatessen;24-07-2017;Venezuela;Peacock;Beverages;310
+10613;Piccolo und mehr;24-07-2017;Venezuela;Peacock;Seafood;48
+10614;Save-a-lot Markets;24-07-2017;Germany;Callahan;Beverages;90
+10614;Hungry Coyote Import Store;24-07-2017;Germany;Callahan;Confections;80
+10614;HILARION-Abastos;24-07-2017;Germany;Callahan;Dairy Products;294
+10615;Frankenversand;25-07-2017;Finland;Fuller;Meat/Poultry;120
+10616;Princesa Isabel Vinhos;26-07-2017;USA;Davolio;Beverages;3952,5
+10616;Save-a-lot Markets;26-07-2017;USA;Davolio;Beverages;225
+10616;Vaffeljernet;26-07-2017;USA;Davolio;Dairy Products;322,5
+10616;Eastern Connection;26-07-2017;USA;Davolio;Grains/Cereals;532
+10617;Rattlesnake Canyon Grocery;26-07-2017;USA;Peacock;Dairy Products;1650
+10618;Ernst Handel;27-07-2017;Canada;Davolio;Condiments;1750
+10618;Ernst Handel;27-07-2017;Canada;Davolio;Confections;187,5
+10618;Magazzini Alimentari Riuniti;27-07-2017;Canada;Davolio;Grains/Cereals;760
+10619;LINO-Delicateses;30-07-2017;Canada;Leverling;Confections;420
+10619;Queen Cozinha;30-07-2017;Canada;Leverling;Grains/Cereals;840
+10620;Ottilies Kseladen;31-07-2017;Canada;Fuller;Beverages;22,5
+10620;Folies gourmandes;31-07-2017;Canada;Fuller;Grains/Cereals;35
+10621;Ocano Atlntico Ltda.;31-07-2017;UK;Peacock;Beverages;300
+10621;Bottom-Dollar Markets;31-07-2017;UK;Peacock;Confections;46
+10621;Bottom-Dollar Markets;31-07-2017;UK;Peacock;Dairy Products;322,5
+10621;Wartian Herkku;31-07-2017;UK;Peacock;Grains/Cereals;90
+10622;La maison d'Asie;01-08-2017;Brazil;Peacock;Beverages;380
+10622;Familia Arquibaldo;01-08-2017;Brazil;Peacock;Confections;225
+10623;Hungry Coyote Import Store;02-08-2017;Germany;Callahan;Beverages;13,5
+10623;Wartian Herkku;02-08-2017;Germany;Callahan;Beverages;540
+10623;Simons bistro;02-08-2017;Germany;Callahan;Confections;138
+10623;QUICK-Stop;02-08-2017;Germany;Callahan;Confections;250
+10623;Richter Supermarkt;02-08-2017;Germany;Callahan;Produce;488,25
+10624;Wellington Importadora;02-08-2017;USA;Peacock;Condiments;194,5
+10624;Que Delcia;02-08-2017;USA;Peacock;Meat/Poultry;742,74
+10624;Franchi S.p.A.;02-08-2017;USA;Peacock;Produce;456
+10625;Gourmet Lanchonetes;03-08-2017;Mexico;Leverling;Dairy Products;340
+10625;Mre Paillarde;03-08-2017;Mexico;Leverling;Grains/Cereals;70
+10625;La maison d'Asie;03-08-2017;Mexico;Leverling;Produce;69,75
+10626;Galera del gastrnomo;06-08-2017;Sweden;Davolio;Dairy Products;680
+10626;Piccolo und mehr;06-08-2017;Sweden;Davolio;Dairy Products;430
+10626;Reggiani Caseifici;06-08-2017;Sweden;Davolio;Meat/Poultry;393,6
+10627;Hungry Owl All-Night Grocers;06-08-2017;USA;Callahan;Confections;739,5
+10627;Ernst Handel;06-08-2017;USA;Callahan;Seafood;525
+10628;Bottom-Dollar Markets;07-08-2017;France;Peacock;Beverages;450
+10629;Split Rail Beer & Ale;07-08-2017;Spain;Peacock;Grains/Cereals;299,25
+10629;Princesa Isabel Vinhos;07-08-2017;Spain;Peacock;Meat/Poultry;2475,8
+10630;Folk och f HB;08-08-2017;Germany;Davolio;Beverages;630
+10630;Consolidated Holdings;08-08-2017;Germany;Davolio;Meat/Poultry;288
+10631;Blondesddsl pre et fils;09-08-2017;France;Callahan;Beverages;62
+10632;Wartian Herkku;09-08-2017;Germany;Callahan;Beverages;570
+10632;Toms Spezialitten;09-08-2017;Germany;Callahan;Dairy Products;50
+10633;Mre Paillarde;10-08-2017;Austria;King;Confections;1093,05
+10633;Save-a-lot Markets;10-08-2017;Austria;King;Confections;3944
+10633;Old World Delicatessen;10-08-2017;Austria;King;Dairy Products;1368
+10633;Ernst Handel;10-08-2017;Austria;King;Seafood;78
+10634;Reggiani Caseifici;10-08-2017;France;Peacock;Beverages;15,5
+10634;Berglunds snabbkp;10-08-2017;France;Peacock;Produce;1050
+10634;Berglunds snabbkp;10-08-2017;France;Peacock;Produce;795
+10634;Toms Spezialitten;10-08-2017;France;Peacock;Seafood;3125
+10635;Ricardo Adocicados;13-08-2017;Italy;Callahan;Condiments;220
+10635;Rancho grande;13-08-2017;Italy;Callahan;Condiments;320,25
+10635;Blondesddsl pre et fils;13-08-2017;Italy;Callahan;Grains/Cereals;840
+10636;Victuailles en stock;14-08-2017;Finland;Peacock;Condiments;550
+10636;QUICK-Stop;14-08-2017;Finland;Peacock;Seafood;79,5
+10637;Save-a-lot Markets;14-08-2017;Brazil;Hellstern;Confections;406,25
+10637;Around the Horn;14-08-2017;Brazil;Hellstern;Dairy Products;210
+10637;La maison d'Asie;14-08-2017;Brazil;Hellstern;Grains/Cereals;2280
+10638;Wartian Herkku;15-08-2017;Venezuela;Leverling;Condiments;442,05
+10638;Kniglich Essen;15-08-2017;Venezuela;Leverling;Dairy Products;2088
+10638;Kniglich Essen;15-08-2017;Venezuela;Leverling;Seafood;190
+10639;Suprmes dlices;15-08-2017;Norway;King;Seafood;500
+10640;Victuailles en stock;16-08-2017;Germany;Peacock;Beverages;225
+10640;Folk och f HB;16-08-2017;Germany;Peacock;Dairy Products;720
+10641;LILA-Supermercado;17-08-2017;Venezuela;Peacock;Beverages;950
+10641;Consolidated Holdings;17-08-2017;Venezuela;Peacock;Seafood;1104
+10642;Suprmes dlices;17-08-2017;Denmark;King;Condiments;570
+10642;Furia Bacalhau e Frutos do Mar;17-08-2017;Denmark;King;Confections;300
+10643;Vaffeljernet;20-08-2017;Germany;Hellstern;Beverages;378
+10643;Comrcio Mineiro;20-08-2017;Germany;Hellstern;Produce;684
+10643;Magazzini Alimentari Riuniti;20-08-2017;Germany;Hellstern;Seafood;24
+10644;Kniglich Essen;20-08-2017;Brazil;Leverling;Beverages;920
+10644;White Clover Markets;20-08-2017;Brazil;Leverling;Seafood;250
+10644;Bon app';20-08-2017;Brazil;Leverling;Seafood;252
+10645;B's Beverages;21-08-2017;Brazil;Peacock;Seafood;1250
+10645;Seven Seas Imports;21-08-2017;Brazil;Peacock;Seafood;285
+10646;Island Trading;22-08-2017;Ireland;Dodsworth;Beverages;270
+10646;Pericles Comidas clsicas;22-08-2017;Ireland;Dodsworth;Condiments;455
+10646;Suprmes dlices;22-08-2017;Ireland;Dodsworth;Dairy Products;645
+10646;HILARION-Abastos;22-08-2017;Ireland;Dodsworth;Seafood;558
+10647;Princesa Isabel Vinhos;22-08-2017;Brazil;Peacock;Beverages;360
+10647;Victuailles en stock;22-08-2017;Brazil;Peacock;Confections;276
+10648;Rattlesnake Canyon Grocery;23-08-2017;Brazil;Buchanan;Beverages;67,5
+10648;Folies gourmandes;23-08-2017;Brazil;Buchanan;Grains/Cereals;315
+10649;Ricardo Adocicados;23-08-2017;Belgium;Buchanan;Dairy Products;522
+10649;Lazy K Kountry Store;23-08-2017;Belgium;Buchanan;Produce;912
+10650;White Clover Markets;24-08-2017;Brazil;Buchanan;Meat/Poultry;820
+10650;B's Beverages;24-08-2017;Brazil;Buchanan;Meat/Poultry;223,5
+10650;LINO-Delicateses;24-08-2017;Brazil;Buchanan;Seafood;776,7
+10651;HILARION-Abastos;27-08-2017;Germany;Callahan;Confections;110,4
+10651;Queen Cozinha;27-08-2017;Germany;Callahan;Grains/Cereals;420
+10652;Frankenversand;27-08-2017;Brazil;Peacock;Grains/Cereals;280
+10652;Piccolo und mehr;27-08-2017;Brazil;Peacock;Seafood;51,78
+10653;HILARION-Abastos;28-08-2017;Germany;Davolio;Confections;523,5
+10653;Furia Bacalhau e Frutos do Mar;28-08-2017;Germany;Davolio;Dairy Products;680
+10654;Bottom-Dollar Markets;28-08-2017;Sweden;Buchanan;Beverages;360
+10654;La maison d'Asie;28-08-2017;Sweden;Buchanan;Condiments;264
+10654;Comrcio Mineiro;28-08-2017;Sweden;Buchanan;Meat/Poultry;44,7
+10655;Laughing Bacchus Wine Cellars;29-08-2017;Italy;Davolio;Seafood;193
+10656;Tradio Hipermercados;30-08-2017;USA;Hellstern;Condiments;544,6
+10656;Lehmanns Marktstand;30-08-2017;USA;Hellstern;Confections;57
+10656;HILARION-Abastos;30-08-2017;USA;Hellstern;Produce;69,75
+10657;LILA-Supermercado;30-08-2017;USA;Fuller;Condiments;775
+10657;La maison d'Asie;30-08-2017;USA;Fuller;Confections;95
+10657;Blauer See Delikatessen;30-08-2017;USA;Fuller;Dairy Products;1020
+10657;Pericles Comidas clsicas;30-08-2017;USA;Fuller;Grains/Cereals;1710
+10657;Hungry Owl All-Night Grocers;30-08-2017;USA;Fuller;Seafood;231,6
+10657;White Clover Markets;30-08-2017;USA;Fuller;Seafood;540
+10658;Mre Paillarde;31-08-2017;Germany;Peacock;Condiments;910
+10658;Kniglich Essen;31-08-2017;Germany;Peacock;Confections;600
+10658;Antonio Moreno Taquera;31-08-2017;Germany;Peacock;Dairy Products;1870
+10658;Ottilies Kseladen;31-08-2017;Germany;Peacock;Seafood;1288
+10659;Blauer See Delikatessen;31-08-2017;Brazil;King;Beverages;600
+10659;Save-a-lot Markets;31-08-2017;Brazil;King;Dairy Products;250
+10659;Bon app';31-08-2017;Brazil;King;Seafood;441,6
+10660;Familia Arquibaldo;03-09-2017;USA;Callahan;Confections;1701
+10661;Die Wandernde Kuh;04-09-2017;Ireland;King;Beverages;54
+10661;Ernst Handel;04-09-2017;Ireland;King;Seafood;649,25
+10662;QUICK-Stop;04-09-2017;USA;Leverling;Confections;125
+10663;Hungry Owl All-Night Grocers;05-09-2017;France;Fuller;Grains/Cereals;420
+10663;North/South;05-09-2017;France;Fuller;Produce;1060
+10663;Tortuga Restaurante;05-09-2017;France;Fuller;Seafood;552
+10664;Chop-suey Chinese;05-09-2017;Portugal;Davolio;Condiments;315,75
+10664;Sant Gourmet;05-09-2017;Portugal;Davolio;Grains/Cereals;456
+10664;Cactus Comidas para llevar;05-09-2017;Portugal;Davolio;Seafood;744
+10665;Lehmanns Marktstand;06-09-2017;USA;Davolio;Beverages;180
+10665;Seven Seas Imports;06-09-2017;USA;Davolio;Dairy Products;55
+10665;Berglunds snabbkp;06-09-2017;USA;Davolio;Produce;1060
+10666;Bon app';07-09-2017;Switzerland;King;Condiments;210,5
+10666;Wartian Herkku;07-09-2017;Switzerland;King;Meat/Poultry;4456,44
+10667;QUICK-Stop;07-09-2017;Austria;King;Dairy Products;1620
+10667;Great Lakes Food Market;07-09-2017;Austria;King;Dairy Products;301
+10668;Maison Dewey;10-09-2017;Germany;Davolio;Dairy Products;100
+10668;Piccolo und mehr;10-09-2017;Germany;Davolio;Grains/Cereals;498,75
+10668;Ocano Atlntico Ltda.;10-09-2017;Germany;Davolio;Meat/Poultry;96
+10669;Eastern Connection;10-09-2017;Denmark;Fuller;Seafood;570
+10670;Folk och f HB;11-09-2017;Germany;Peacock;Beverages;350
+10670;Lehmanns Marktstand;11-09-2017;Germany;Peacock;Beverages;193,75
+10670;Antonio Moreno Taquera;11-09-2017;Germany;Peacock;Grains/Cereals;288
+10670;Lehmanns Marktstand;11-09-2017;Germany;Peacock;Seafood;720
+10670;Richter Supermarkt;11-09-2017;Germany;Peacock;Seafood;750
+10671;B's Beverages;12-09-2017;France;Davolio;Condiments;252,6
+10671;B's Beverages;12-09-2017;France;Davolio;Confections;174,5
+10671;QUICK-Stop;12-09-2017;France;Davolio;Confections;493
+10672;Hanari Carnes;12-09-2017;Sweden;Dodsworth;Beverages;3952,5
+10672;Kniglich Essen;12-09-2017;Sweden;Dodsworth;Dairy Products;258
+10673;LILA-Supermercado;13-09-2017;Finland;Fuller;Beverages;276
+10673;Lonesome Pine Restaurant;13-09-2017;Finland;Fuller;Confections;52,35
+10673;Lazy K Kountry Store;13-09-2017;Finland;Fuller;Grains/Cereals;84
+10674;Victuailles en stock;13-09-2017;UK;Peacock;Grains/Cereals;45
+10675;Seven Seas Imports;14-09-2017;Germany;Buchanan;Meat/Poultry;328
+10675;Toms Spezialitten;14-09-2017;Germany;Buchanan;Produce;697,5
+10675;QUICK-Stop;14-09-2017;Germany;Buchanan;Seafood;397,5
+10676;Godos Cocina Tpica;17-09-2017;Mexico;Fuller;Condiments;408,45
+10676;Furia Bacalhau e Frutos do Mar;17-09-2017;Mexico;Fuller;Confections;64,4
+10676;HILARION-Abastos;17-09-2017;Mexico;Fuller;Seafood;62
+10677;Wartian Herkku;17-09-2017;Mexico;Davolio;Confections;936,9
+10677;Ottilies Kseladen;17-09-2017;Mexico;Davolio;Dairy Products;20
+10678;Save-a-lot Markets;18-09-2017;USA;King;Dairy Products;3800
+10678;Simons bistro;18-09-2017;USA;King;Dairy Products;75
+10678;Lehmanns Marktstand;18-09-2017;USA;King;Meat/Poultry;223,5
+10678;Around the Horn;18-09-2017;USA;King;Seafood;1158
+10679;Blondesddsl pre et fils;18-09-2017;France;Callahan;Dairy Products;660
+10680;Frankenversand;19-09-2017;USA;Davolio;Confections;872,5
+10680;Folk och f HB;19-09-2017;USA;Davolio;Dairy Products;250
+10680;Reggiani Caseifici;19-09-2017;USA;Davolio;Grains/Cereals;560
+10681;Ricardo Adocicados;20-09-2017;USA;Leverling;Confections;276
+10681;Rattlesnake Canyon Grocery;20-09-2017;USA;Leverling;Confections;120
+10681;Mre Paillarde;20-09-2017;USA;Leverling;Grains/Cereals;931
+10682;Blondesddsl pre et fils;20-09-2017;Mexico;Leverling;Beverages;232,5
+10682;Hungry Owl All-Night Grocers;20-09-2017;Mexico;Leverling;Condiments;68
+10682;Galera del gastrnomo;20-09-2017;Mexico;Leverling;Dairy Products;75
+10683;Rattlesnake Canyon Grocery;21-09-2017;France;Fuller;Grains/Cereals;63
+10684;Mre Paillarde;21-09-2017;Germany;Leverling;Confections;380
+10684;Ernst Handel;21-09-2017;Germany;Leverling;Dairy Products;1020
+10684;Berglunds snabbkp;21-09-2017;Germany;Leverling;Seafood;368
+10685;Antonio Moreno Taquera;24-09-2017;Brazil;Peacock;Confections;142,5
+10685;Trail's Head Gourmet Provisioners;24-09-2017;Brazil;Peacock;Seafood;620
+10685;Morgenstern Gesundkost;24-09-2017;Brazil;Peacock;Seafood;38,6
+10686;Tortuga Restaurante;25-09-2017;Austria;Fuller;Confections;468,45
+10686;Trail's Head Gourmet Provisioners;25-09-2017;Austria;Fuller;Meat/Poultry;1170
+10687;B's Beverages;25-09-2017;Ireland;Dodsworth;Meat/Poultry;4850
+10687;Let's Stop N Shop;25-09-2017;Ireland;Dodsworth;Meat/Poultry;1237,9
+10687;Ottilies Kseladen;25-09-2017;Ireland;Dodsworth;Seafood;114
+10688;Familia Arquibaldo;26-09-2017;Denmark;Peacock;Beverages;196
+10688;Blauer See Delikatessen;26-09-2017;Denmark;Peacock;Produce;2736
+10688;Wartian Herkku;26-09-2017;Denmark;Peacock;Seafood;558
+10689;Blondesddsl pre et fils;26-09-2017;Sweden;Davolio;Beverages;630
+10690;Wellington Importadora;27-09-2017;Brazil;Davolio;Condiments;390
+10690;Reggiani Caseifici;27-09-2017;Brazil;Davolio;Grains/Cereals;760
+10691;Que Delcia;28-09-2017;Germany;Fuller;Beverages;540
+10691;QUICK-Stop;28-09-2017;Germany;Fuller;Beverages;1840
+10691;Great Lakes Food Market;28-09-2017;Germany;Fuller;Condiments;466,8
+10691;Mre Paillarde;28-09-2017;Germany;Fuller;Confections;2366,4
+10691;Vaffeljernet;28-09-2017;Germany;Fuller;Meat/Poultry;4951,6
+10692;Lehmanns Marktstand;28-09-2017;Germany;Peacock;Condiments;878
+10693;Lehmanns Marktstand;01-10-2017;USA;Leverling;Dairy Products;1080
+10693;Old World Delicatessen;01-10-2017;USA;Leverling;Meat/Poultry;582
+10693;Ernst Handel;01-10-2017;USA;Leverling;Meat/Poultry;447
+10693;White Clover Markets;01-10-2017;USA;Leverling;Seafood;225
+10694;Piccolo und mehr;01-10-2017;Germany;Callahan;Beverages;750
+10694;Rattlesnake Canyon Grocery;01-10-2017;Germany;Callahan;Dairy Products;1375
+10694;B's Beverages;01-10-2017;Germany;Callahan;Produce;2700
+10695;Hungry Coyote Import Store;02-10-2017;Finland;King;Beverages;90
+10695;HILARION-Abastos;02-10-2017;Finland;King;Condiments;400
+10695;Vaffeljernet;02-10-2017;Finland;King;Dairy Products;152
+10696;Save-a-lot Markets;03-10-2017;USA;Callahan;Meat/Poultry;780
+10696;Furia Bacalhau e Frutos do Mar;03-10-2017;USA;Callahan;Seafood;216
+10697;Mre Paillarde;03-10-2017;Venezuela;Leverling;Beverages;162
+10697;Tradio Hipermercados;03-10-2017;Venezuela;Leverling;Beverages;450
+10697;Save-a-lot Markets;03-10-2017;Venezuela;Leverling;Confections;64,4
+10697;Toms Spezialitten;03-10-2017;Venezuela;Leverling;Seafood;397,5
+10698;Du monde entier;04-10-2017;Austria;Peacock;Beverages;120
+10698;La maison d'Asie;04-10-2017;Austria;Peacock;Condiments;1368,25
+10698;Wolski  Zajazd;04-10-2017;Austria;Peacock;Dairy Products;315
+10698;Save-a-lot Markets;04-10-2017;Austria;Peacock;Meat/Poultry;312
+10698;HILARION-Abastos;04-10-2017;Austria;Peacock;Meat/Poultry;1485,48
+10699;Blauer See Delikatessen;04-10-2017;Germany;Leverling;Confections;114
+10700;Wilman Kala;05-10-2017;USA;Leverling;Beverages;90
+10700;Great Lakes Food Market;05-10-2017;USA;Leverling;Beverages;168
+10700;Great Lakes Food Market;05-10-2017;USA;Leverling;Confections;500
+10700;Mre Paillarde;05-10-2017;USA;Leverling;Dairy Products;1290
+10701;Mre Paillarde;08-10-2017;Ireland;Hellstern;Beverages;630
+10701;Laughing Bacchus Wine Cellars;08-10-2017;Ireland;Hellstern;Dairy Products;2310
+10701;Island Trading;08-10-2017;Ireland;Hellstern;Dairy Products;430
+10702;Ricardo Adocicados;08-10-2017;Germany;Peacock;Beverages;270
+10702;Frankenversand;08-10-2017;Germany;Peacock;Condiments;60
+10703;The Cracker Box;09-10-2017;Sweden;Hellstern;Beverages;95
+10703;Ana Trujillo Emparedados y helados;09-10-2017;Sweden;Hellstern;Dairy Products;1925
+10703;Berglunds snabbkp;09-10-2017;Sweden;Hellstern;Seafood;525
+10704;Save-a-lot Markets;09-10-2017;Brazil;Hellstern;Beverages;157,5
+10704;Blondesddsl pre et fils;09-10-2017;Brazil;Hellstern;Condiments;132
+10704;Godos Cocina Tpica;09-10-2017;Brazil;Hellstern;Confections;306
+10705;Kniglich Essen;10-10-2017;Venezuela;Dodsworth;Dairy Products;250
+10705;La maison d'Asie;10-10-2017;Venezuela;Dodsworth;Dairy Products;128
+10706;Die Wandernde Kuh;11-10-2017;USA;Callahan;Beverages;1104
+10706;Ernst Handel;11-10-2017;USA;Callahan;Confections;349
+10706;Folies gourmandes;11-10-2017;USA;Callahan;Dairy Products;440
+10707;Magazzini Alimentari Riuniti;11-10-2017;UK;Peacock;Beverages;420
+10707;Wartian Herkku;11-10-2017;UK;Peacock;Grains/Cereals;780
+10707;Queen Cozinha;11-10-2017;UK;Peacock;Meat/Poultry;504
+10708;LINO-Delicateses;12-10-2017;USA;Hellstern;Condiments;85,4
+10708;Sant Gourmet;12-10-2017;USA;Hellstern;Seafood;95
+10709;Die Wandernde Kuh;12-10-2017;Brazil;Davolio;Condiments;1600
+10709;HILARION-Abastos;12-10-2017;Brazil;Davolio;Dairy Products;340
+10709;Simons bistro;12-10-2017;Brazil;Davolio;Produce;1484
+10710;Alfreds Futterkiste;15-10-2017;Italy;Davolio;Confections;46
+10710;Wellington Importadora;15-10-2017;Italy;Davolio;Confections;47,5
+10711;Hanari Carnes;16-10-2017;USA;Buchanan;Confections;110,4
+10711;Hungry Owl All-Night Grocers;16-10-2017;USA;Buchanan;Meat/Poultry;3936
+10711;Que Delcia;16-10-2017;USA;Buchanan;Seafood;405,3
+10712;Ricardo Adocicados;16-10-2017;Ireland;Leverling;Grains/Cereals;1140
+10712;Maison Dewey;16-10-2017;Ireland;Leverling;Meat/Poultry;98,4
+10713;Familia Arquibaldo;17-10-2017;USA;Davolio;Confections;936,9
+10713;Die Wandernde Kuh;17-10-2017;USA;Davolio;Seafood;558
+10713;Gourmet Lanchonetes;17-10-2017;USA;Davolio;Seafood;1045
+10713;Frankenversand;17-10-2017;USA;Davolio;Seafood;288
+10714;Berglunds snabbkp;17-10-2017;USA;Buchanan;Beverages;570
+10714;Reggiani Caseifici;17-10-2017;USA;Buchanan;Confections;475
+10714;Great Lakes Food Market;17-10-2017;USA;Buchanan;Grains/Cereals;684
+10714;Save-a-lot Markets;17-10-2017;USA;Buchanan;Meat/Poultry;1053
+10714;QUICK-Stop;17-10-2017;USA;Buchanan;Seafood;159
+10715;Queen Cozinha;18-10-2017;France;Leverling;Dairy Products;645
+10715;Hungry Coyote Import Store;18-10-2017;France;Leverling;Seafood;651
+10716;Hungry Owl All-Night Grocers;19-10-2017;Argentina;Peacock;Condiments;285
+10716;Lonesome Pine Restaurant;19-10-2017;Argentina;Peacock;Confections;50
+10716;Bon app';19-10-2017;Argentina;Peacock;Produce;371
+10717;Furia Bacalhau e Frutos do Mar;19-10-2017;Germany;Davolio;Confections;320
+10717;Lonesome Pine Restaurant;19-10-2017;Germany;Davolio;Dairy Products;900
+10717;Richter Supermarkt;19-10-2017;Germany;Davolio;Meat/Poultry;111,75
+10718;Ernst Handel;22-10-2017;Germany;Davolio;Confections;349
+10718;Die Wandernde Kuh;22-10-2017;Germany;Davolio;Confections;986
+10718;Simons bistro;22-10-2017;Germany;Davolio;Dairy Products;1368
+10718;Frankenversand;22-10-2017;Germany;Davolio;Seafood;760
+10719;France restauration;22-10-2017;USA;Callahan;Meat/Poultry;298
+10719;Berglunds snabbkp;22-10-2017;USA;Callahan;Seafood;750
+10719;Wilman Kala;22-10-2017;USA;Callahan;Seafood;77,67
+10720;Island Trading;23-10-2017;Brazil;Callahan;Beverages;378
+10720;Frankenversand;23-10-2017;Brazil;Callahan;Dairy Products;172
+10721;Tortuga Restaurante;24-10-2017;Germany;Buchanan;Condiments;972,5
+10722;Antonio Moreno Taquera;24-10-2017;USA;Callahan;Beverages;57
+10722;Save-a-lot Markets;24-10-2017;USA;Callahan;Beverages;325,5
+10722;Blondesddsl pre et fils;24-10-2017;USA;Callahan;Confections;562,5
+10722;Old World Delicatessen;24-10-2017;USA;Callahan;Dairy Products;625
+10723;Great Lakes Food Market;25-10-2017;USA;Leverling;Confections;468,45
+10724;Antonio Moreno Taquera;25-10-2017;Canada;Callahan;Condiments;142,5
+10724;Du monde entier;25-10-2017;Canada;Callahan;Seafood;496
+10725;Ottilies Kseladen;26-10-2017;Brazil;Peacock;Grains/Cereals;28
+10725;Gourmet Lanchonetes;26-10-2017;Brazil;Peacock;Meat/Poultry;144
+10725;Piccolo und mehr;26-10-2017;Brazil;Peacock;Seafood;115,8
+10726;Hungry Owl All-Night Grocers;29-10-2017;UK;Peacock;Condiments;550
+10726;Vaffeljernet;29-10-2017;UK;Peacock;Dairy Products;105
+10727;Berglunds snabbkp;29-10-2017;Italy;Fuller;Dairy Products;550
+10727;Hanari Carnes;29-10-2017;Italy;Fuller;Grains/Cereals;380
+10727;QUICK-Stop;29-10-2017;Italy;Fuller;Meat/Poultry;780
+10728;Alfreds Futterkiste;30-10-2017;Brazil;Peacock;Dairy Products;510
+10728;White Clover Markets;30-10-2017;Brazil;Peacock;Meat/Poultry;288
+10728;QUICK-Stop;30-10-2017;Brazil;Peacock;Seafood;388,35
+10728;Wilman Kala;30-10-2017;Brazil;Peacock;Seafood;110,4
+10729;White Clover Markets;30-10-2017;Venezuela;Callahan;Beverages;900
+10729;LINO-Delicateses;30-10-2017;Venezuela;Callahan;Confections;300
+10729;Ernst Handel;30-10-2017;Venezuela;Callahan;Confections;650
+10730;Morgenstern Gesundkost;31-10-2017;France;Buchanan;Condiments;210,5
+10730;Save-a-lot Markets;31-10-2017;France;Buchanan;Confections;261,75
+10730;Hungry Owl All-Night Grocers;31-10-2017;France;Buchanan;Dairy Products;37,5
+10731;Alfreds Futterkiste;01-11-2017;Switzerland;King;Confections;400
+10731;Folk och f HB;01-11-2017;Switzerland;King;Produce;1590
+10732;Queen Cozinha;01-11-2017;France;Leverling;Beverages;360
+10733;HILARION-Abastos;02-11-2017;Sweden;Davolio;Grains/Cereals;175
+10733;Old World Delicatessen;02-11-2017;Sweden;Davolio;Produce;372
+10733;Around the Horn;02-11-2017;Sweden;Davolio;Produce;912
+10734;The Big Cheese;02-11-2017;Brazil;Fuller;Beverages;360
+10734;Gourmet Lanchonetes;02-11-2017;Brazil;Fuller;Condiments;750
+10734;Franchi S.p.A.;02-11-2017;Brazil;Fuller;Seafood;388,35
+10735;Save-a-lot Markets;05-11-2017;USA;Hellstern;Condiments;570
+10735;Hungry Owl All-Night Grocers;05-11-2017;USA;Hellstern;Condiments;26
+10736;Save-a-lot Markets;06-11-2017;Ireland;Dodsworth;Beverages;155
+10736;Save-a-lot Markets;06-11-2017;Ireland;Dodsworth;Condiments;842
+10737;Bon app';06-11-2017;France;Fuller;Seafood;24
+10737;Rancho grande;06-11-2017;France;Fuller;Seafood;115,8
+10738;Frankenversand;07-11-2017;France;Fuller;Confections;52,35
+10739;Kniglich Essen;07-11-2017;France;Leverling;Grains/Cereals;126
+10739;Let's Stop N Shop;07-11-2017;France;Leverling;Seafood;114
+10740;Que Delcia;08-11-2017;USA;Peacock;Beverages;630
+10740;QUICK-Stop;08-11-2017;USA;Peacock;Grains/Cereals;532
+10740;Save-a-lot Markets;08-11-2017;USA;Peacock;Produce;228
+10740;White Clover Markets;08-11-2017;USA;Peacock;Seafood;380
+10741;Mre Paillarde;09-11-2017;UK;Peacock;Beverages;285
+10742;Familia Arquibaldo;09-11-2017;Canada;Leverling;Condiments;200
+10742;Eastern Connection;09-11-2017;Canada;Leverling;Dairy Products;1700
+10742;Reggiani Caseifici;09-11-2017;Canada;Leverling;Dairy Products;1218
+10743;Queen Cozinha;12-11-2017;UK;Davolio;Seafood;336
+10744;LINO-Delicateses;12-11-2017;Denmark;Hellstern;Seafood;920
+10745;Bon app';13-11-2017;Germany;Dodsworth;Condiments;311,2
+10745;Chop-suey Chinese;13-11-2017;Germany;Dodsworth;Dairy Products;2475
+10745;Bon app';13-11-2017;Germany;Dodsworth;Dairy Products;243,6
+10745;Berglunds snabbkp;13-11-2017;Germany;Dodsworth;Seafood;1500
+10746;Gourmet Lanchonetes;14-11-2017;Switzerland;Davolio;Confections;443,7
+10746;Let's Stop N Shop;14-11-2017;Switzerland;Davolio;Dairy Products;1440
+10746;Hungry Owl All-Night Grocers;14-11-2017;Switzerland;Davolio;Grains/Cereals;392
+10746;Vins et alcools Chevalier;14-11-2017;Switzerland;Davolio;Seafood;36
+10747;Spcialits du monde;14-11-2017;Austria;Hellstern;Condiments;395,1
+10747;Vins et alcools Chevalier;14-11-2017;Austria;Hellstern;Dairy Products;100
+10747;White Clover Markets;14-11-2017;Austria;Hellstern;Dairy Products;1080
+10747;Around the Horn;14-11-2017;Austria;Hellstern;Seafood;337,75
+10748;Bottom-Dollar Markets;15-11-2017;USA;Leverling;Grains/Cereals;396
+10748;Around the Horn;15-11-2017;USA;Leverling;Grains/Cereals;1064
+10748;Vaffeljernet;15-11-2017;USA;Leverling;Seafood;736
+10749;QUICK-Stop;15-11-2017;UK;Peacock;Beverages;180
+10749;Chop-suey Chinese;15-11-2017;UK;Peacock;Dairy Products;330
+10749;Piccolo und mehr;15-11-2017;UK;Peacock;Grains/Cereals;570
+10750;Save-a-lot Markets;16-11-2017;Finland;Dodsworth;Dairy Products;1375
+10750;Island Trading;16-11-2017;Finland;Dodsworth;Produce;116,25
+10750;Wartian Herkku;16-11-2017;Finland;Dodsworth;Seafood;380
+10751;Richter Supermarkt;19-11-2017;Switzerland;Leverling;Confections;374,76
+10751;North/South;19-11-2017;Switzerland;Leverling;Confections;325
+10751;Franchi S.p.A.;19-11-2017;Switzerland;Leverling;Seafood;776,7
+10751;Magazzini Alimentari Riuniti;19-11-2017;Switzerland;Leverling;Seafood;225
+10752;Bon app';19-11-2017;UK;Fuller;Beverages;144
+10752;Split Rail Beer & Ale;19-11-2017;UK;Fuller;Dairy Products;108
+10753;Save-a-lot Markets;20-11-2017;Italy;Leverling;Produce;50
+10753;Richter Supermarkt;20-11-2017;Italy;Leverling;Seafood;38
+10754;Ana Trujillo Emparedados y helados;20-11-2017;Italy;Hellstern;Seafood;55,2
+10755;Maison Dewey;21-11-2017;France;Peacock;Confections;285
+10755;Rattlesnake Canyon Grocery;21-11-2017;France;Peacock;Dairy Products;900
+10755;Folk och f HB;21-11-2017;France;Peacock;Grains/Cereals;1140
+10755;Folies gourmandes;21-11-2017;France;Peacock;Grains/Cereals;273
+10756;Ernst Handel;22-11-2017;USA;Callahan;Confections;75
+10756;QUICK-Stop;22-11-2017;USA;Callahan;Dairy Products;720
+10756;Ottilies Kseladen;22-11-2017;USA;Callahan;Seafood;1312,5
+10756;Suprmes dlices;22-11-2017;USA;Callahan;Seafood;380
+10757;Around the Horn;22-11-2017;USA;Hellstern;Beverages;420
+10757;Vaffeljernet;22-11-2017;USA;Hellstern;Confections;1479
+10757;Hanari Carnes;22-11-2017;USA;Hellstern;Dairy Products;385
+10757;Ernst Handel;22-11-2017;USA;Hellstern;Grains/Cereals;798
+10758;Lehmanns Marktstand;23-11-2017;Switzerland;Leverling;Beverages;600
+10758;Ernst Handel;23-11-2017;Switzerland;Leverling;Confections;624,6
+10758;Folk och f HB;23-11-2017;Switzerland;Leverling;Grains/Cereals;420
+10759;The Cracker Box;23-11-2017;Mexico;Leverling;Dairy Products;320
+10760;Ernst Handel;26-11-2017;Belgium;Peacock;Beverages;1380
+10760;Gourmet Lanchonetes;26-11-2017;Belgium;Peacock;Confections;168
+10760;Berglunds snabbkp;26-11-2017;Belgium;Peacock;Confections;1756
+10761;Morgenstern Gesundkost;27-11-2017;USA;Buchanan;Beverages;139,5
+10761;LILA-Supermercado;27-11-2017;USA;Buchanan;Confections;490
+10762;Wartian Herkku;27-11-2017;Sweden;Leverling;Beverages;288
+10762;Cactus Comidas para llevar;27-11-2017;Sweden;Leverling;Confections;285
+10762;Hanari Carnes;27-11-2017;Sweden;Leverling;Grains/Cereals;2280
+10762;Magazzini Alimentari Riuniti;27-11-2017;Sweden;Leverling;Produce;1484
+10763;GROSELLA-Restaurante;28-11-2017;France;Leverling;Beverages;90
+10763;Queen Cozinha;28-11-2017;France;Leverling;Confections;400
+10763;La maison d'Asie;28-11-2017;France;Leverling;Grains/Cereals;126
+10764;QUICK-Stop;28-11-2017;Austria;Hellstern;Beverages;2340
+10764;Folies gourmandes;28-11-2017;Austria;Hellstern;Condiments;200
+10765;Gourmet Lanchonetes;29-11-2017;Germany;Leverling;Condiments;1684
+10766;Frankenversand;30-11-2017;Germany;Peacock;Beverages;760
+10766;Wolski  Zajazd;30-11-2017;Germany;Peacock;Confections;500
+10766;Around the Horn;30-11-2017;Germany;Peacock;Produce;1050
+10767;Que Delcia;30-11-2017;Belgium;Peacock;Grains/Cereals;28
+10768;Ernst Handel;03-12-2017;UK;Leverling;Dairy Products;625
+10768;HILARION-Abastos;03-12-2017;UK;Leverling;Dairy Products;510
+10768;Drachenblut Delikatessen;03-12-2017;UK;Leverling;Dairy Products;258
+10768;Island Trading;03-12-2017;UK;Leverling;Grains/Cereals;84
+10769;Kniglich Essen;03-12-2017;Denmark;Leverling;Condiments;570
+10769;Seven Seas Imports;03-12-2017;Denmark;Leverling;Confections;739,5
+10769;Blido Comidas preparadas;03-12-2017;Denmark;Leverling;Grains/Cereals;105
+10769;Simons bistro;03-12-2017;Denmark;Leverling;Seafood;289,5
+10770;Wellington Importadora;04-12-2017;Brazil;Callahan;Dairy Products;315
+10771;Seven Seas Imports;05-12-2017;Austria;Dodsworth;Dairy Products;344
+10772;The Big Cheese;05-12-2017;Germany;Leverling;Dairy Products;1375
+10772;Victuailles en stock;05-12-2017;Germany;Leverling;Meat/Poultry;2228,22
+10773;Franchi S.p.A.;06-12-2017;Austria;Davolio;Beverages;54,25
+10773;Old World Delicatessen;06-12-2017;Austria;Davolio;Dairy Products;875
+10773;Wellington Importadora;06-12-2017;Austria;Davolio;Meat/Poultry;1287
+10774;Laughing Bacchus Wine Cellars;06-12-2017;Sweden;Peacock;Condiments;850
+10774;LINO-Delicateses;06-12-2017;Sweden;Peacock;Dairy Products;25
+10775;Reggiani Caseifici;07-12-2017;USA;King;Beverages;42
+10775;Ricardo Adocicados;07-12-2017;USA;King;Seafood;186
+10776;Victuailles en stock;10-12-2017;Austria;Davolio;Dairy Products;200
+10776;Save-a-lot Markets;10-12-2017;Austria;Davolio;Grains/Cereals;168
+10776;Great Lakes Food Market;10-12-2017;Austria;Davolio;Produce;6360
+10776;Kniglich Essen;10-12-2017;Austria;Davolio;Seafood;256,5
+10777;Magazzini Alimentari Riuniti;10-12-2017;Brazil;King;Grains/Cereals;280
+10778;Cactus Comidas para llevar;11-12-2017;Sweden;Leverling;Seafood;96,5
+10779;Rattlesnake Canyon Grocery;11-12-2017;Germany;Leverling;Confections;349
+10779;Split Rail Beer & Ale;11-12-2017;Germany;Leverling;Confections;986
+10780;Trail's Head Gourmet Provisioners;11-12-2017;Venezuela;Fuller;Beverages;525
+10780;LILA-Supermercado;11-12-2017;Venezuela;Fuller;Condiments;195
+10781;Folk och f HB;12-12-2017;Finland;Fuller;Grains/Cereals;760
+10781;Drachenblut Delikatessen;12-12-2017;Finland;Fuller;Meat/Poultry;22,35
+10781;Blondesddsl pre et fils;12-12-2017;Finland;Fuller;Produce;350
+10782;Bon app';12-12-2017;Argentina;Dodsworth;Dairy Products;12,5
+10783;Rancho grande;13-12-2017;Brazil;Peacock;Beverages;1317,5
+10783;Island Trading;13-12-2017;Brazil;Peacock;Dairy Products;125
+10784;Tradio Hipermercados;13-12-2017;Italy;Peacock;Beverages;36
+10784;Sant Gourmet;13-12-2017;Italy;Peacock;Dairy Products;1044
+10784;La maison d'Asie;13-12-2017;Italy;Peacock;Seafood;570
+10785;Ottilies Kseladen;13-12-2017;Venezuela;Davolio;Beverages;77,5
+10785;Tradio Hipermercados;13-12-2017;Venezuela;Davolio;Seafood;310
+10786;Alfreds Futterkiste;14-12-2017;Brazil;Callahan;Beverages;325,5
+10786;Ernst Handel;14-12-2017;Brazil;Callahan;Condiments;1200
+10786;Berglunds snabbkp;14-12-2017;Brazil;Callahan;Seafood;388,35
+10787;LINO-Delicateses;14-12-2017;France;Fuller;Beverages;285
+10787;Tradio Hipermercados;14-12-2017;France;Fuller;Meat/Poultry;2475,8
+10788;LINO-Delicateses;17-12-2017;Germany;Davolio;Beverages;310
+10788;Suprmes dlices;17-12-2017;Germany;Davolio;Confections;460
+10789;Tortuga Restaurante;17-12-2017;France;Davolio;Beverages;270
+10789;Victuailles en stock;17-12-2017;France;Davolio;Condiments;1317
+10789;Piccolo und mehr;17-12-2017;France;Davolio;Confections;225
+10789;QUICK-Stop;17-12-2017;France;Davolio;Seafood;1875
+10790;Suprmes dlices;17-12-2017;Brazil;Hellstern;Grains/Cereals;760
+10790;Save-a-lot Markets;17-12-2017;Brazil;Hellstern;Produce;90
+10791;Consolidated Holdings;18-12-2017;Germany;Hellstern;Meat/Poultry;1733,06
+10791;Kniglich Essen;18-12-2017;Germany;Hellstern;Seafood;193
+10792;Victuailles en stock;18-12-2017;Poland;Davolio;Beverages;190
+10792;Ricardo Adocicados;18-12-2017;Poland;Davolio;Confections;187,5
+10792;Rattlesnake Canyon Grocery;18-12-2017;Poland;Davolio;Meat/Poultry;22,35
+10793;Blauer See Delikatessen;19-12-2017;UK;Leverling;Grains/Cereals;56
+10793;Ernst Handel;19-12-2017;UK;Leverling;Seafood;135,1
+10794;Old World Delicatessen;19-12-2017;Brazil;Hellstern;Meat/Poultry;44,7
+10794;Antonio Moreno Taquera;19-12-2017;Brazil;Hellstern;Produce;348,75
+10795;Berglunds snabbkp;19-12-2017;Austria;Callahan;Confections;1134,25
+10795;La corne d'abondance;19-12-2017;Austria;Callahan;Meat/Poultry;1365
+10796;Frankenversand;20-12-2017;Venezuela;Leverling;Condiments;194,5
+10796;France restauration;20-12-2017;Venezuela;Leverling;Confections;655,83
+10796;White Clover Markets;20-12-2017;Venezuela;Leverling;Dairy Products;864
+10796;Lehmanns Marktstand;20-12-2017;Venezuela;Leverling;Grains/Cereals;1163,75
+10797;HILARION-Abastos;20-12-2017;Germany;King;Dairy Products;420
+10798;Around the Horn;21-12-2017;UK;Fuller;Confections;98,6
+10798;QUICK-Stop;21-12-2017;UK;Fuller;Dairy Products;348
+10799;Berglunds snabbkp;21-12-2017;Germany;Dodsworth;Beverages;90
+10799;Lonesome Pine Restaurant;21-12-2017;Germany;Dodsworth;Dairy Products;1375
+10799;Queen Cozinha;21-12-2017;Germany;Dodsworth;Seafood;120
+10800;Seven Seas Imports;21-12-2017;UK;Davolio;Dairy Products;1050
+10800;Wolski  Zajazd;21-12-2017;UK;Davolio;Meat/Poultry;52,15
+10800;Bon app';21-12-2017;UK;Davolio;Produce;530
+10801;Godos Cocina Tpica;24-12-2017;Spain;Peacock;Meat/Poultry;1560
+10801;Wilman Kala;24-12-2017;Spain;Peacock;Meat/Poultry;2475,8
+10802;Godos Cocina Tpica;24-12-2017;Denmark;Peacock;Confections;246,5
+10802;Berglunds snabbkp;24-12-2017;Denmark;Peacock;Meat/Poultry;1440
+10802;Bon app';24-12-2017;Denmark;Peacock;Produce;1590
+10802;Ricardo Adocicados;24-12-2017;Denmark;Peacock;Seafood;647,25
+10803;QUICK-Stop;25-12-2017;Brazil;Peacock;Confections;220,8
+10803;Wilman Kala;25-12-2017;Brazil;Peacock;Confections;210
+10803;Folk och f HB;25-12-2017;Brazil;Peacock;Dairy Products;825
+10804;Cactus Comidas para llevar;25-12-2017;UK;Hellstern;Confections;80
+10804;Save-a-lot Markets;25-12-2017;UK;Hellstern;Produce;1094,4
+10804;Lonesome Pine Restaurant;25-12-2017;UK;Hellstern;Seafood;1116
+10805;Let's Stop N Shop;25-12-2017;USA;Fuller;Beverages;140
+10805;Suprmes dlices;25-12-2017;USA;Fuller;Beverages;2635
+10806;Hanari Carnes;26-12-2017;France;Leverling;Beverages;380
+10806;Galera del gastrnomo;26-12-2017;France;Leverling;Condiments;42,1
+10806;Godos Cocina Tpica;26-12-2017;France;Leverling;Produce;150
+10807;Rattlesnake Canyon Grocery;26-12-2017;Italy;Peacock;Seafood;18,4
+10808;Du monde entier;27-12-2017;USA;Fuller;Beverages;900
+10808;Lehmanns Marktstand;27-12-2017;USA;Fuller;Grains/Cereals;760
+10809;Maison Dewey;27-12-2017;Brazil;King;Grains/Cereals;140
+10810;Kniglich Essen;27-12-2017;Canada;Fuller;Beverages;75
+10810;Save-a-lot Markets;27-12-2017;Canada;Fuller;Confections;70
+10810;Ernst Handel;27-12-2017;Canada;Fuller;Seafood;42
+10811;Maison Dewey;28-12-2017;Venezuela;Callahan;Confections;138
+10811;Hungry Owl All-Night Grocers;28-12-2017;Venezuela;Callahan;Grains/Cereals;162
+10811;Ocano Atlntico Ltda.;28-12-2017;Venezuela;Callahan;Seafood;552
+10812;LILA-Supermercado;28-12-2017;Italy;Buchanan;Condiments;260
+10812;Wellington Importadora;28-12-2017;Italy;Buchanan;Dairy Products;200
+10812;HILARION-Abastos;28-12-2017;Italy;Buchanan;Dairy Products;1392
+10813;Folk och f HB;31-12-2017;Brazil;Davolio;Beverages;228
+10813;Hanari Carnes;31-12-2017;Brazil;Davolio;Seafood;420
+10814;White Clover Markets;31-12-2017;France;Leverling;Beverages;920
+10814;Wellington Importadora;31-12-2017;France;Leverling;Condiments;855
+10814;Wolski  Zajazd;31-12-2017;France;Leverling;Confections;102
+10814;Spcialits du monde;31-12-2017;France;Leverling;Seafood;193
+10815;Reggiani Caseifici;31-12-2017;USA;Fuller;Dairy Products;40
+10816;Sant Gourmet;01-01-2018;USA;Peacock;Beverages;7905
+10816;Wilman Kala;01-01-2018;USA;Peacock;Confections;986
+10817;Godos Cocina Tpica;01-01-2018;Germany;Leverling;Beverages;7905
+10817;Hungry Owl All-Night Grocers;01-01-2018;Germany;Leverling;Confections;1249,2
+10817;Queen Cozinha;01-01-2018;Germany;Leverling;Confections;1232,5
+10817;Queen Cozinha;01-01-2018;Germany;Leverling;Seafood;1104
+10818;Tortuga Restaurante;02-01-2018;Italy;King;Dairy Products;640
+10818;Rancho grande;02-01-2018;Italy;King;Seafood;193
+10819;Romero y tomillo;02-01-2018;Argentina;Fuller;Beverages;322
+10819;Bottom-Dollar Markets;02-01-2018;Argentina;Fuller;Beverages;155
+10820;LINO-Delicateses;02-01-2018;USA;Leverling;Grains/Cereals;1140
+10821;Around the Horn;03-01-2018;USA;Davolio;Beverages;360
+10821;Vaffeljernet;03-01-2018;USA;Davolio;Produce;318
+10822;Hanari Carnes;03-01-2018;USA;Hellstern;Beverages;90
+10822;La maison d'Asie;03-01-2018;USA;Hellstern;Confections;147,9
+10823;Berglunds snabbkp;04-01-2018;Venezuela;Buchanan;Condiments;195
+10823;Hanari Carnes;04-01-2018;Venezuela;Buchanan;Dairy Products;420
+10823;Ana Trujillo Emparedados y helados;04-01-2018;Venezuela;Buchanan;Dairy Products;2200
+10823;La corne d'abondance;04-01-2018;Venezuela;Buchanan;Grains/Cereals;292,5
+10824;Galera del gastrnomo;04-01-2018;Sweden;Callahan;Beverages;135
+10824;Frankenversand;04-01-2018;Sweden;Callahan;Seafood;115,8
+10825;Suprmes dlices;04-01-2018;Germany;Davolio;Confections;374,76
+10825;Richter Supermarkt;04-01-2018;Germany;Davolio;Meat/Poultry;656
+10826;Bon app';07-01-2018;France;Hellstern;Dairy Products;437,5
+10826;Island Trading;07-01-2018;France;Hellstern;Grains/Cereals;292,5
+10827;Lehmanns Marktstand;07-01-2018;France;Davolio;Beverages;378
+10827;Wellington Importadora;07-01-2018;France;Davolio;Seafood;465
+10828;Great Lakes Food Market;08-01-2018;Argentina;Dodsworth;Beverages;527
+10828;Cactus Comidas para llevar;08-01-2018;Argentina;Dodsworth;Confections;405
+10829;QUICK-Stop;08-01-2018;UK;Dodsworth;Beverages;190
+10829;Magazzini Alimentari Riuniti;08-01-2018;UK;Dodsworth;Condiments;800
+10829;Bon app';08-01-2018;UK;Dodsworth;Dairy Products;714
+10829;Save-a-lot Markets;08-01-2018;UK;Dodsworth;Seafood;60
+10830;Reggiani Caseifici;08-01-2018;Brazil;Peacock;Beverages;504
+10830;B's Beverages;08-01-2018;Brazil;Peacock;Condiments;150
+10830;Bottom-Dollar Markets;08-01-2018;Brazil;Peacock;Confections;300
+10830;Morgenstern Gesundkost;08-01-2018;Brazil;Peacock;Dairy Products;1020
+10831;Vaffeljernet;09-01-2018;Norway;Leverling;Beverages;144
+10831;B's Beverages;09-01-2018;Norway;Leverling;Beverages;2108
+10831;Godos Cocina Tpica;09-01-2018;Norway;Leverling;Beverages;414
+10831;Bottom-Dollar Markets;09-01-2018;Norway;Leverling;Confections;18,4
+10832;Magazzini Alimentari Riuniti;09-01-2018;France;Fuller;Condiments;311,2
+10832;Richter Supermarkt;09-01-2018;France;Fuller;Confections;140
+10832;Alfreds Futterkiste;09-01-2018;France;Fuller;Grains/Cereals;99,75
+10832;Around the Horn;09-01-2018;France;Fuller;Seafood;18
+10833;LINO-Delicateses;10-01-2018;Germany;Hellstern;Dairy Products;112,5
+10833;Folk och f HB;10-01-2018;Germany;Hellstern;Meat/Poultry;295,2
+10833;Blauer See Delikatessen;10-01-2018;Germany;Hellstern;Produce;600
+10834;HILARION-Abastos;10-01-2018;Brazil;Davolio;Meat/Poultry;990,32
+10834;Ocano Atlntico Ltda.;10-01-2018;Brazil;Davolio;Seafood;517,8
+10835;Gourmet Lanchonetes;10-01-2018;Germany;Davolio;Condiments;26
+10835;HILARION-Abastos;10-01-2018;Germany;Davolio;Dairy Products;825
+10836;Queen Cozinha;11-01-2018;Austria;King;Beverages;108
+10836;QUICK-Stop;11-01-2018;Austria;King;Dairy Products;2040
+10836;Furia Bacalhau e Frutos do Mar;11-01-2018;Austria;King;Grains/Cereals;1092
+10836;Spcialits du monde;11-01-2018;Austria;King;Grains/Cereals;468
+10836;Old World Delicatessen;11-01-2018;Austria;King;Grains/Cereals;997,5
+10837;Chop-suey Chinese;11-01-2018;Sweden;Dodsworth;Beverages;378
+10837;Toms Spezialitten;11-01-2018;Sweden;Dodsworth;Confections;380
+10837;Ernst Handel;11-01-2018;Sweden;Dodsworth;Seafood;36
+10837;Comrcio Mineiro;11-01-2018;Sweden;Dodsworth;Seafood;460
+10838;Blido Comidas preparadas;14-01-2018;Venezuela;Leverling;Beverages;72
+10838;France restauration;14-01-2018;Venezuela;Leverling;Seafood;1562,5
+10838;La corne d'abondance;14-01-2018;Venezuela;Leverling;Seafood;950
+10839;La corne d'abondance;14-01-2018;Brazil;Leverling;Dairy Products;522
+10839;Split Rail Beer & Ale;14-01-2018;Brazil;Leverling;Seafood;397,5
+10840;Bottom-Dollar Markets;14-01-2018;Venezuela;Peacock;Beverages;180
+10840;HILARION-Abastos;14-01-2018;Venezuela;Peacock;Confections;84
+10841;Folk och f HB;15-01-2018;Belgium;Buchanan;Condiments;195
+10841;Maison Dewey;15-01-2018;Belgium;Buchanan;Dairy Products;2750
+10841;Ernst Handel;15-01-2018;Belgium;Buchanan;Grains/Cereals;1140
+10841;Folk och f HB;15-01-2018;Belgium;Buchanan;Seafood;496
+10842;Hanari Carnes;15-01-2018;Mexico;Davolio;Beverages;230
+10842;Bottom-Dollar Markets;15-01-2018;Mexico;Davolio;Beverages;180
+10842;Save-a-lot Markets;15-01-2018;Mexico;Davolio;Confections;250
+10842;Save-a-lot Markets;15-01-2018;Mexico;Davolio;Dairy Products;315
+10843;Hungry Owl All-Night Grocers;16-01-2018;France;Peacock;Produce;212
+10844;Ocano Atlntico Ltda.;16-01-2018;Austria;Callahan;Grains/Cereals;735
+10845;Eastern Connection;16-01-2018;Germany;Callahan;Beverages;450
+10845;Rattlesnake Canyon Grocery;16-01-2018;Germany;Callahan;Grains/Cereals;630
+10845;Que Delcia;16-01-2018;Germany;Callahan;Grains/Cereals;588
+10845;Ernst Handel;16-01-2018;Germany;Callahan;Grains/Cereals;1596
+10845;QUICK-Stop;16-01-2018;Germany;Callahan;Seafood;795
+10846;The Big Cheese;17-01-2018;Belgium;Fuller;Beverages;450
+10846;Folk och f HB;17-01-2018;Belgium;Fuller;Condiments;462
+10846;Vaffeljernet;17-01-2018;Belgium;Fuller;Produce;200
+10847;Pericles Comidas clsicas;17-01-2018;USA;Peacock;Beverages;1440
+10847;QUICK-Stop;17-01-2018;USA;Peacock;Confections;110,4
+10847;LILA-Supermercado;17-01-2018;USA;Peacock;Dairy Products;1530
+10847;Wolski  Zajazd;17-01-2018;USA;Peacock;Dairy Products;1182,5
+10847;Ottilies Kseladen;17-01-2018;USA;Peacock;Seafood;1560
+10847;Rattlesnake Canyon Grocery;17-01-2018;USA;Peacock;Seafood;342
+10848;Folk och f HB;18-01-2018;UK;King;Condiments;640,5
+10848;Save-a-lot Markets;18-01-2018;UK;King;Meat/Poultry;291
+10849;The Cracker Box;18-01-2018;Germany;Dodsworth;Condiments;490
+10849;Maison Dewey;18-01-2018;Germany;Dodsworth;Confections;562,14
+10850;Wilman Kala;18-01-2018;France;Davolio;Beverages;450
+10850;Great Lakes Food Market;18-01-2018;France;Davolio;Confections;280
+10850;Princesa Isabel Vinhos;18-01-2018;France;Davolio;Dairy Products;10
+10851;Ernst Handel;21-01-2018;Brazil;Buchanan;Beverages;95
+10851;Godos Cocina Tpica;21-01-2018;Brazil;Buchanan;Confections;140
+10851;Reggiani Caseifici;21-01-2018;Brazil;Buchanan;Dairy Products;2310
+10851;Alfreds Futterkiste;21-01-2018;Brazil;Buchanan;Grains/Cereals;195
+10852;Frankenversand;21-01-2018;USA;Callahan;Beverages;285
+10852;Romero y tomillo;21-01-2018;USA;Callahan;Confections;2465
+10852;LINO-Delicateses;21-01-2018;USA;Callahan;Meat/Poultry;234
+10853;Sant Gourmet;22-01-2018;Germany;Dodsworth;Seafood;625
+10854;Around the Horn;22-01-2018;Austria;Leverling;Seafood;3100
+10854;Ernst Handel;22-01-2018;Austria;Leverling;Seafood;390
+10855;Lonesome Pine Restaurant;22-01-2018;USA;Leverling;Condiments;315,75
+10855;Rancho grande;22-01-2018;USA;Leverling;Confections;872,5
+10855;Ottilies Kseladen;22-01-2018;USA;Leverling;Dairy Products;175
+10855;QUICK-Stop;22-01-2018;USA;Leverling;Grains/Cereals;912
+10856;Hanari Carnes;23-01-2018;Mexico;Leverling;Beverages;380
+10856;B's Beverages;23-01-2018;Mexico;Leverling;Grains/Cereals;280
+10857;Eastern Connection;23-01-2018;Sweden;Callahan;Condiments;300
+10857;Wartian Herkku;23-01-2018;Sweden;Callahan;Confections;1093,05
+10857;Franchi S.p.A.;23-01-2018;Sweden;Callahan;Meat/Poultry;1237,9
+10858;Bottom-Dollar Markets;24-01-2018;France;Fuller;Beverages;60
+10858;Kniglich Essen;24-01-2018;France;Fuller;Confections;439
+10858;Chop-suey Chinese;24-01-2018;France;Fuller;Produce;150
+10859;Save-a-lot Markets;24-01-2018;Germany;Davolio;Beverages;180
+10859;Save-a-lot Markets;24-01-2018;Germany;Davolio;Grains/Cereals;997,5
+10859;White Clover Markets;24-01-2018;Germany;Davolio;Meat/Poultry;260,75
+10860;Richter Supermarkt;24-01-2018;France;Leverling;Beverages;360
+10860;Old World Delicatessen;24-01-2018;France;Leverling;Produce;159
+10861;Suprmes dlices;25-01-2018;USA;Peacock;Confections;400
+10861;Drachenblut Delikatessen;25-01-2018;USA;Peacock;Confections;147,9
+10861;Godos Cocina Tpica;25-01-2018;USA;Peacock;Dairy Products;87,5
+10861;Suprmes dlices;25-01-2018;USA;Peacock;Meat/Poultry;1638
+10861;LINO-Delicateses;25-01-2018;USA;Peacock;Seafood;1250
+10862;Great Lakes Food Market;25-01-2018;Germany;Callahan;Dairy Products;525
+10862;Chop-suey Chinese;25-01-2018;Germany;Callahan;Grains/Cereals;56
+10863;Comrcio Mineiro;28-01-2018;Venezuela;Peacock;Beverages;360
+10863;Spcialits du monde;28-01-2018;Venezuela;Peacock;Seafood;159
+10864;Wolski  Zajazd;28-01-2018;UK;Peacock;Beverages;72
+10864;Bottom-Dollar Markets;28-01-2018;UK;Peacock;Beverages;210
+10865;Die Wandernde Kuh;28-01-2018;Germany;Fuller;Beverages;15810
+10865;Eastern Connection;28-01-2018;Germany;Fuller;Beverages;1440
+10866;Bottom-Dollar Markets;29-01-2018;Sweden;Buchanan;Beverages;399
+10866;Gourmet Lanchonetes;29-01-2018;Sweden;Buchanan;Beverages;27
+10866;Folk och f HB;29-01-2018;Sweden;Buchanan;Seafood;1035,6
+10867;La maison d'Asie;29-01-2018;USA;Hellstern;Meat/Poultry;98,4
+10868;Hanari Carnes;30-01-2018;Brazil;King;Beverages;540
+10868;Piccolo und mehr;30-01-2018;Brazil;King;Confections;624,6
+10868;Cactus Comidas para llevar;30-01-2018;Brazil;King;Confections;840
+10869;HILARION-Abastos;30-01-2018;UK;Buchanan;Beverages;720
+10869;Eastern Connection;30-01-2018;UK;Buchanan;Confections;250
+10869;North/South;30-01-2018;UK;Buchanan;Dairy Products;210
+10869;Blauer See Delikatessen;30-01-2018;UK;Buchanan;Grains/Cereals;450
+10870;Ricardo Adocicados;30-01-2018;Poland;Buchanan;Beverages;54
+10870;Franchi S.p.A.;30-01-2018;Poland;Buchanan;Produce;106
+10871;Great Lakes Food Market;31-01-2018;France;Dodsworth;Condiments;1250
+10871;Reggiani Caseifici;31-01-2018;France;Dodsworth;Confections;209,4
+10871;Hungry Owl All-Night Grocers;31-01-2018;France;Dodsworth;Meat/Poultry;624
+10872;Save-a-lot Markets;31-01-2018;Spain;Buchanan;Condiments;442,05
+10872;LILA-Supermercado;31-01-2018;Spain;Buchanan;Confections;986
+10872;White Clover Markets;31-01-2018;Spain;Buchanan;Grains/Cereals;498,75
+10872;Drachenblut Delikatessen;31-01-2018;Spain;Buchanan;Meat/Poultry;240
+10873;Queen Cozinha;01-02-2018;Finland;Peacock;Confections;200
+10873;Tortuga Restaurante;01-02-2018;Finland;Peacock;Produce;136,8
+10874;Lehmanns Marktstand;01-02-2018;Spain;Buchanan;Seafood;310
+10875;LILA-Supermercado;01-02-2018;Sweden;Peacock;Confections;230
+10875;Ernst Handel;01-02-2018;Sweden;Peacock;Confections;199,5
+10875;Pericles Comidas clsicas;01-02-2018;Sweden;Peacock;Confections;300
+10876;Simons bistro;04-02-2018;France;King;Grains/Cereals;665
+10876;Richter Supermarkt;04-02-2018;France;King;Seafood;252
+10877;Bon app';04-02-2018;Brazil;Davolio;Confections;523,5
+10877;Rattlesnake Canyon Grocery;04-02-2018;Brazil;Davolio;Seafood;1562,5
+10878;Wellington Importadora;05-02-2018;Germany;Peacock;Confections;1620
+10879;HILARION-Abastos;05-02-2018;Finland;Leverling;Beverages;180
+10879;Ernst Handel;05-02-2018;Finland;Leverling;Condiments;210,5
+10879;Centro comercial Moctezuma;05-02-2018;Finland;Leverling;Seafood;220,8
+10880;Ottilies Kseladen;05-02-2018;Sweden;King;Beverages;750
+10880;Que Delcia;05-02-2018;Sweden;King;Condiments;855
+10880;Rattlesnake Canyon Grocery;05-02-2018;Sweden;King;Grains/Cereals;270
+10881;Ernst Handel;06-02-2018;Argentina;Peacock;Seafood;150
+10882;Folk och f HB;06-02-2018;USA;Peacock;Confections;400
+10882;Blondesddsl pre et fils;06-02-2018;USA;Peacock;Grains/Cereals;350
+10882;Wartian Herkku;06-02-2018;USA;Peacock;Meat/Poultry;238,4
+10883;Frankenversand;07-02-2018;USA;Callahan;Beverages;36
+10884;GROSELLA-Restaurante;07-02-2018;USA;Peacock;Condiments;252,6
+10884;White Clover Markets;07-02-2018;USA;Peacock;Confections;400
+10884;Wartian Herkku;07-02-2018;USA;Peacock;Grains/Cereals;798
+10885;Split Rail Beer & Ale;07-02-2018;Belgium;Hellstern;Beverages;380
+10885;Rattlesnake Canyon Grocery;07-02-2018;Belgium;Hellstern;Beverages;54
+10885;QUICK-Stop;07-02-2018;Belgium;Hellstern;Beverages;450
+10885;Vins et alcools Chevalier;07-02-2018;Belgium;Hellstern;Condiments;325
+10886;Magazzini Alimentari Riuniti;08-02-2018;Brazil;Davolio;Condiments;520
+10886;Tortuga Restaurante;08-02-2018;Brazil;Davolio;Dairy Products;437,5
+10886;Morgenstern Gesundkost;08-02-2018;Brazil;Davolio;Seafood;2170
+10887;Berglunds snabbkp;08-02-2018;Spain;Callahan;Confections;70
+10888;Lehmanns Marktstand;11-02-2018;Spain;Davolio;Beverages;380
+10888;Berglunds snabbkp;11-02-2018;Spain;Davolio;Confections;225
+10889;Romero y tomillo;11-02-2018;USA;Dodsworth;Beverages;10540
+10889;Romero y tomillo;11-02-2018;USA;Dodsworth;Dairy Products;840
+10890;LILA-Supermercado;11-02-2018;France;King;Beverages;140
+10890;Lehmanns Marktstand;11-02-2018;France;King;Meat/Poultry;585
+10890;QUICK-Stop;11-02-2018;France;King;Seafood;135,1
+10891;QUICK-Stop;12-02-2018;Germany;King;Seafood;388,35
+10892;Ricardo Adocicados;12-02-2018;Belgium;Peacock;Dairy Products;2200
+10893;Reggiani Caseifici;13-02-2018;Germany;Dodsworth;Beverages;45
+10893;B's Beverages;13-02-2018;Germany;Dodsworth;Condiments;1200
+10893;Comrcio Mineiro;13-02-2018;Germany;Dodsworth;Meat/Poultry;2970,96
+10893;Que Delcia;13-02-2018;Germany;Dodsworth;Seafood;906,15
+10893;Tradio Hipermercados;13-02-2018;Germany;Dodsworth;Seafood;380
+10894;Tortuga Restaurante;13-02-2018;USA;Davolio;Beverages;930
+10894;Rattlesnake Canyon Grocery;13-02-2018;USA;Davolio;Dairy Products;1800
+10894;Vins et alcools Chevalier;13-02-2018;USA;Davolio;Seafood;168
+10895;LILA-Supermercado;13-02-2018;Austria;Leverling;Beverages;495
+10895;Blondesddsl pre et fils;13-02-2018;Austria;Leverling;Beverages;810
+10895;Hungry Owl All-Night Grocers;13-02-2018;Austria;Leverling;Dairy Products;3400
+10895;Ricardo Adocicados;13-02-2018;Austria;Leverling;Seafood;1674,4
+10896;Magazzini Alimentari Riuniti;14-02-2018;Belgium;King;Grains/Cereals;608
+10896;Die Wandernde Kuh;14-02-2018;Belgium;King;Seafood;142,5
+10897;Suprmes dlices;14-02-2018;Ireland;Leverling;Meat/Poultry;9903,2
+10897;Godos Cocina Tpica;14-02-2018;Ireland;Leverling;Seafood;932,04
+10898;Tortuga Restaurante;15-02-2018;Argentina;Peacock;Seafood;30
+10899;Old World Delicatessen;15-02-2018;Venezuela;Buchanan;Beverages;144
+10900;Romero y tomillo;15-02-2018;Brazil;Davolio;Beverages;45
+10901;Lonesome Pine Restaurant;18-02-2018;Venezuela;Peacock;Dairy Products;645
+10901;Ana Trujillo Emparedados y helados;18-02-2018;Venezuela;Peacock;Seafood;289,5
+10902;Hungry Owl All-Night Grocers;18-02-2018;Sweden;Davolio;Confections;295,8
+10902;The Big Cheese;18-02-2018;Sweden;Davolio;Meat/Poultry;720
+10903;Du monde entier;19-02-2018;Brazil;Leverling;Condiments;442,05
+10903;Die Wandernde Kuh;19-02-2018;Brazil;Leverling;Confections;250
+10903;QUICK-Stop;19-02-2018;Brazil;Leverling;Seafood;240
+10904;Rattlesnake Canyon Grocery;19-02-2018;USA;Leverling;Confections;1725,5
+10904;Island Trading;19-02-2018;USA;Leverling;Seafood;198,75
+10905;Rattlesnake Canyon Grocery;19-02-2018;Brazil;Dodsworth;Beverages;360
+10906;Lonesome Pine Restaurant;20-02-2018;Poland;Peacock;Condiments;427,5
+10907;Island Trading;20-02-2018;France;Hellstern;Beverages;108,5
+10908;Tortuga Restaurante;21-02-2018;Italy;Peacock;Grains/Cereals;98
+10908;Wartian Herkku;21-02-2018;Italy;Peacock;Produce;600
+10909;Island Trading;21-02-2018;Norway;Davolio;Confections;261,75
+10909;Pericles Comidas clsicas;21-02-2018;Norway;Davolio;Produce;360
+10909;Kniglich Essen;21-02-2018;Norway;Davolio;Seafood;48,25
+10910;Save-a-lot Markets;21-02-2018;Finland;Davolio;Condiments;142,5
+10910;Kniglich Essen;21-02-2018;Finland;Davolio;Confections;110,4
+10910;Blido Comidas preparadas;21-02-2018;Finland;Davolio;Confections;200
+10911;Folk och f HB;21-02-2018;Spain;Leverling;Beverages;180
+10911;Furia Bacalhau e Frutos do Mar;21-02-2018;Spain;Leverling;Beverages;210
+10911;Split Rail Beer & Ale;21-02-2018;Spain;Leverling;Meat/Poultry;468
+10912;LILA-Supermercado;21-02-2018;Ireland;Fuller;Dairy Products;840
+10912;Bon app';21-02-2018;Ireland;Fuller;Meat/Poultry;7427,4
+10913;Mre Paillarde;21-02-2018;Brazil;Peacock;Condiments;660
+10913;Wartian Herkku;21-02-2018;Brazil;Peacock;Dairy Products;100
+10913;Victuailles en stock;21-02-2018;Brazil;Peacock;Seafood;198,75
+10914;Hungry Owl All-Night Grocers;22-02-2018;Brazil;Hellstern;Dairy Products;537,5
+10915;Princesa Isabel Vinhos;22-02-2018;Mexico;Fuller;Dairy Products;75
+10915;Frankenversand;22-02-2018;Mexico;Fuller;Meat/Poultry;390
+10915;Old World Delicatessen;22-02-2018;Mexico;Fuller;Meat/Poultry;74,5
+10916;Mre Paillarde;22-02-2018;Argentina;Davolio;Confections;104,7
+10916;Bon app';22-02-2018;Argentina;Davolio;Dairy Products;192
+10916;Simons bistro;22-02-2018;Argentina;Davolio;Grains/Cereals;390
+10917;Frankenversand;25-02-2018;Spain;Peacock;Dairy Products;340
+10917;Lehmanns Marktstand;25-02-2018;Spain;Peacock;Seafood;25,89
+10918;White Clover Markets;25-02-2018;Canada;Leverling;Beverages;1080
+10918;QUICK-Stop;25-02-2018;Canada;Leverling;Dairy Products;850
+10919;Rattlesnake Canyon Grocery;25-02-2018;Venezuela;Fuller;Confections;418,8
+10919;Familia Arquibaldo;25-02-2018;Venezuela;Fuller;Confections;336
+10919;Die Wandernde Kuh;25-02-2018;Venezuela;Fuller;Seafood;368
+10920;Split Rail Beer & Ale;26-02-2018;UK;Peacock;Confections;390
+10921;La maison d'Asie;26-02-2018;Denmark;Davolio;Beverages;180
+10921;Ernst Handel;26-02-2018;Denmark;Davolio;Condiments;1756
+10922;Furia Bacalhau e Frutos do Mar;26-02-2018;Brazil;Buchanan;Beverages;157,5
+10922;Piccolo und mehr;26-02-2018;Brazil;Buchanan;Meat/Poultry;585
+10923;Pericles Comidas clsicas;26-02-2018;France;King;Beverages;460
+10923;Around the Horn;26-02-2018;France;King;Beverages;336
+10923;Die Wandernde Kuh;26-02-2018;France;King;Grains/Cereals;140
+10924;LILA-Supermercado;27-02-2018;Sweden;Leverling;Beverages;46,5
+10924;La maison d'Asie;27-02-2018;Sweden;Leverling;Produce;1368
+10924;Seven Seas Imports;27-02-2018;Sweden;Leverling;Seafood;620
+10925;Blondesddsl pre et fils;27-02-2018;Brazil;Leverling;Grains/Cereals;84
+10925;QUICK-Stop;27-02-2018;Brazil;Leverling;Seafood;475
+10926;Bon app';27-02-2018;Mexico;Peacock;Confections;64,4
+10926;Drachenblut Delikatessen;27-02-2018;Mexico;Peacock;Dairy Products;42
+10926;Eastern Connection;27-02-2018;Mexico;Peacock;Dairy Products;348
+10926;Antonio Moreno Taquera;27-02-2018;Mexico;Peacock;Seafood;60
+10927;Galera del gastrnomo;28-02-2018;France;Peacock;Beverages;360
+10927;Vaffeljernet;28-02-2018;France;Peacock;Confections;405
+10927;Ernst Handel;28-02-2018;France;Peacock;Grains/Cereals;35
+10928;Split Rail Beer & Ale;28-02-2018;Spain;Davolio;Beverages;90
+10928;Chop-suey Chinese;28-02-2018;Spain;Davolio;Confections;47,5
+10929;La maison d'Asie;28-02-2018;Germany;Hellstern;Beverages;379,75
+10929;Queen Cozinha;28-02-2018;Germany;Hellstern;Condiments;195
+10929;Hungry Owl All-Night Grocers;28-02-2018;Germany;Hellstern;Confections;600
+10930;Wolski  Zajazd;01-03-2018;Belgium;Peacock;Confections;360
+10930;Hungry Coyote Import Store;01-03-2018;Belgium;Peacock;Confections;1097,5
+10930;Mre Paillarde;01-03-2018;Belgium;Peacock;Meat/Poultry;600
+10930;Seven Seas Imports;01-03-2018;Belgium;Peacock;Seafood;397,5
+10931;Folk och f HB;01-03-2018;Switzerland;Peacock;Grains/Cereals;585
+10931;Que Delcia;01-03-2018;Switzerland;Peacock;Seafood;252
+10932;Hungry Owl All-Night Grocers;01-03-2018;France;Callahan;Beverages;155
+10932;LILA-Supermercado;01-03-2018;France;Callahan;Confections;523,5
+10932;Ernst Handel;01-03-2018;France;Callahan;Confections;690,2
+10932;Around the Horn;01-03-2018;France;Callahan;Dairy Products;556,8
+10933;Berglunds snabbkp;01-03-2018;UK;Hellstern;Condiments;855
+10933;Split Rail Beer & Ale;01-03-2018;UK;Hellstern;Meat/Poultry;65,6
+10934;Familia Arquibaldo;04-03-2018;Germany;Leverling;Condiments;500
+10935;Sant Gourmet;04-03-2018;Brazil;Peacock;Beverages;378
+10935;Seven Seas Imports;04-03-2018;Brazil;Peacock;Grains/Cereals;72
+10935;Bottom-Dollar Markets;04-03-2018;Brazil;Peacock;Seafood;250
+10936;Ernst Handel;04-03-2018;USA;Leverling;Seafood;570
+10937;Drachenblut Delikatessen;05-03-2018;Argentina;King;Beverages;280
+10937;Piccolo und mehr;05-03-2018;Argentina;King;Produce;364,8
+10938;Save-a-lot Markets;05-03-2018;Germany;Leverling;Beverages;1104
+10938;Hungry Coyote Import Store;05-03-2018;Germany;Leverling;Dairy Products;1666
+10938;HILARION-Abastos;05-03-2018;Germany;Leverling;Dairy Products;752,5
+10938;Frankenversand;05-03-2018;Germany;Leverling;Seafood;120
+10939;Princesa Isabel Vinhos;05-03-2018;Italy;Fuller;Beverages;190
+10939;Save-a-lot Markets;05-03-2018;Italy;Fuller;Beverages;560
+10940;Vaffeljernet;06-03-2018;France;Callahan;Produce;240
+10940;Eastern Connection;06-03-2018;France;Callahan;Seafood;120
+10941;Rattlesnake Canyon Grocery;06-03-2018;USA;King;Confections;1479
+10941;Ernst Handel;06-03-2018;USA;King;Confections;1000
+10941;Ernst Handel;06-03-2018;USA;King;Dairy Products;550
+10941;Magazzini Alimentari Riuniti;06-03-2018;USA;King;Dairy Products;1740
+10942;LINO-Delicateses;06-03-2018;Italy;Dodsworth;Confections;560
+10943;Queen Cozinha;06-03-2018;UK;Peacock;Grains/Cereals;441
+10943;Ottilies Kseladen;06-03-2018;UK;Peacock;Seafood;90
+10943;Folies gourmandes;06-03-2018;UK;Peacock;Seafood;180
+10944;Ocano Atlntico Ltda.;07-03-2018;Canada;Hellstern;Condiments;350,1
+10944;Bottom-Dollar Markets;07-03-2018;Canada;Hellstern;Dairy Products;105
+10944;Bottom-Dollar Markets;07-03-2018;Canada;Hellstern;Grains/Cereals;684
+10945;Wartian Herkku;07-03-2018;Germany;Peacock;Dairy Products;125
+10945;La maison d'Asie;07-03-2018;Germany;Peacock;Seafood;120
+10946;Familia Arquibaldo;07-03-2018;Denmark;Davolio;Beverages;112,5
+10946;Hungry Coyote Import Store;07-03-2018;Denmark;Davolio;Condiments;520
+10946;Wartian Herkku;07-03-2018;Denmark;Davolio;Seafood;775
+10947;Simons bistro;08-03-2018;UK;Leverling;Dairy Products;220
+10948;QUICK-Stop;08-03-2018;Spain;Leverling;Confections;146,25
+10948;Richter Supermarkt;08-03-2018;Spain;Leverling;Meat/Poultry;96
+10948;Wellington Importadora;08-03-2018;Spain;Leverling;Produce;2120
+10949;Que Delcia;08-03-2018;Canada;Fuller;Condiments;300
+10949;Franchi S.p.A.;08-03-2018;Canada;Fuller;Confections;2958
+10949;Gourmet Lanchonetes;08-03-2018;Canada;Fuller;Meat/Poultry;234
+10949;Mre Paillarde;08-03-2018;Canada;Fuller;Seafood;930
+10950;La maison d'Asie;11-03-2018;Italy;Davolio;Condiments;110
+10951;Galera del gastrnomo;11-03-2018;Switzerland;Dodsworth;Beverages;387,5
+10951;Piccolo und mehr;11-03-2018;Switzerland;Dodsworth;Dairy Products;37,5
+10951;Reggiani Caseifici;11-03-2018;Switzerland;Dodsworth;Seafood;57,9
+10952;Hungry Owl All-Night Grocers;11-03-2018;Germany;Davolio;Condiments;400
+10952;Ernst Handel;11-03-2018;Germany;Davolio;Produce;91,2
+10953;Bottom-Dollar Markets;11-03-2018;UK;Dodsworth;Confections;4050
+10953;Split Rail Beer & Ale;11-03-2018;UK;Dodsworth;Dairy Products;625
+10954;Princesa Isabel Vinhos;12-03-2018;Venezuela;Buchanan;Confections;488,6
+10954;Folk och f HB;12-03-2018;Venezuela;Buchanan;Dairy Products;312,5
+10954;Consolidated Holdings;12-03-2018;Venezuela;Buchanan;Dairy Products;816
+10954;Blondesddsl pre et fils;12-03-2018;Venezuela;Buchanan;Seafood;285
+10955;Wartian Herkku;12-03-2018;Sweden;Callahan;Beverages;93
+10956;Toms Spezialitten;12-03-2018;Germany;Hellstern;Confections;120
+10956;Mre Paillarde;12-03-2018;Germany;Hellstern;Confections;133
+10956;Save-a-lot Markets;12-03-2018;Germany;Hellstern;Produce;424
+10957;Old World Delicatessen;13-03-2018;Venezuela;Callahan;Beverages;720
+10957;Ernst Handel;13-03-2018;Venezuela;Callahan;Grains/Cereals;266
+10957;Reggiani Caseifici;13-03-2018;Venezuela;Callahan;Seafood;776,7
+10958;Berglunds snabbkp;13-03-2018;Argentina;King;Condiments;427
+10958;Berglunds snabbkp;13-03-2018;Argentina;King;Dairy Products;174
+10958;Toms Spezialitten;13-03-2018;Argentina;King;Produce;180
+10959;Ricardo Adocicados;13-03-2018;Brazil;Hellstern;Beverages;155
+10960;Rancho grande;14-03-2018;Venezuela;Leverling;Beverages;45
+10960;Blondesddsl pre et fils;14-03-2018;Venezuela;Leverling;Seafood;231,6
+10961;Victuailles en stock;14-03-2018;Brazil;Callahan;Beverages;1080
+10961;QUICK-Stop;14-03-2018;Brazil;Callahan;Grains/Cereals;42
+10962;Save-a-lot Markets;14-03-2018;Germany;Callahan;Beverages;792
+10962;Around the Horn;14-03-2018;Germany;Callahan;Dairy Products;324
+10962;La maison d'Asie;14-03-2018;Germany;Callahan;Meat/Poultry;656
+10962;Wartian Herkku;14-03-2018;Germany;Callahan;Produce;1350
+10962;Kniglich Essen;14-03-2018;Germany;Callahan;Seafood;462
+10963;Kniglich Essen;14-03-2018;Portugal;Dodsworth;Dairy Products;68
+10964;Suprmes dlices;15-03-2018;France;Leverling;Beverages;1317,5
+10964;Victuailles en stock;15-03-2018;France;Leverling;Dairy Products;360
+10964;Folk och f HB;15-03-2018;France;Leverling;Seafood;375
+10965;LILA-Supermercado;15-03-2018;USA;Hellstern;Produce;848
+10966;Consolidated Holdings;15-03-2018;Switzerland;Peacock;Confections;591,6
+10966;Suprmes dlices;15-03-2018;Switzerland;Peacock;Grains/Cereals;456
+10966;Furia Bacalhau e Frutos do Mar;15-03-2018;Switzerland;Peacock;Seafood;208
+10967;Vaffeljernet;18-03-2018;Germany;Fuller;Confections;110,4
+10967;Comrcio Mineiro;18-03-2018;Germany;Fuller;Confections;800
+10968;Magazzini Alimentari Riuniti;18-03-2018;Austria;Davolio;Beverages;135
+10968;Kniglich Essen;18-03-2018;Austria;Davolio;Dairy Products;1140
+10968;White Clover Markets;18-03-2018;Austria;Davolio;Grains/Cereals;133
+10969;Bon app';18-03-2018;Brazil;Davolio;Seafood;108
+10970;B's Beverages;19-03-2018;Spain;Dodsworth;Grains/Cereals;280
+10971;Seven Seas Imports;19-03-2018;France;Fuller;Meat/Poultry;1733,06
+10972;Island Trading;19-03-2018;France;Peacock;Dairy Products;17,5
+10972;Pericles Comidas clsicas;19-03-2018;France;Peacock;Meat/Poultry;234
+10973;Suprmes dlices;19-03-2018;France;Hellstern;Beverages;77,5
+10973;HILARION-Abastos;19-03-2018;France;Hellstern;Confections;156,15
+10973;Princesa Isabel Vinhos;19-03-2018;France;Hellstern;Seafood;57,9
+10974;Victuailles en stock;20-03-2018;USA;Leverling;Condiments;439
+10975;Rattlesnake Canyon Grocery;20-03-2018;Canada;Davolio;Beverages;77,5
+10975;Folies gourmandes;20-03-2018;Canada;Davolio;Condiments;640
+10976;Ricardo Adocicados;20-03-2018;Venezuela;Davolio;Produce;912
+10977;Lazy K Kountry Store;21-03-2018;Sweden;Callahan;Beverages;540
+10977;White Clover Markets;21-03-2018;Sweden;Callahan;Condiments;878
+10977;B's Beverages;21-03-2018;Sweden;Callahan;Confections;285
+10977;LINO-Delicateses;21-03-2018;Sweden;Callahan;Produce;530
+10978;HILARION-Abastos;21-03-2018;Belgium;Dodsworth;Condiments;800
+10978;Queen Cozinha;21-03-2018;Belgium;Dodsworth;Condiments;116,7
+10978;Frankenversand;21-03-2018;Belgium;Dodsworth;Confections;400
+10978;Piccolo und mehr;21-03-2018;Belgium;Dodsworth;Seafood;184
+10979;HILARION-Abastos;21-03-2018;Austria;Callahan;Beverages;360
+10979;Furia Bacalhau e Frutos do Mar;21-03-2018;Austria;Callahan;Condiments;1536,5
+10979;Bottom-Dollar Markets;21-03-2018;Austria;Callahan;Confections;1317
+10979;La maison d'Asie;21-03-2018;Austria;Callahan;Dairy Products;760
+10979;Comrcio Mineiro;21-03-2018;Austria;Callahan;Dairy Products;300
+10979;Laughing Bacchus Wine Cellars;21-03-2018;Austria;Callahan;Produce;540
+10980;Tradio Hipermercados;22-03-2018;Sweden;Peacock;Beverages;310
+10981;Lehmanns Marktstand;22-03-2018;Brazil;Davolio;Beverages;15810
+10982;HILARION-Abastos;22-03-2018;Canada;Fuller;Beverages;414
+10982;LILA-Supermercado;22-03-2018;Canada;Fuller;Produce;600
+10983;La maison d'Asie;22-03-2018;USA;Fuller;Grains/Cereals;292,5
+10983;Blauer See Delikatessen;22-03-2018;USA;Fuller;Seafood;504
+10984;Pericles Comidas clsicas;25-03-2018;USA;Davolio;Beverages;90
+10984;Hungry Owl All-Night Grocers;25-03-2018;USA;Davolio;Confections;959,75
+10984;White Clover Markets;25-03-2018;USA;Davolio;Seafood;760
+10985;Mre Paillarde;25-03-2018;Ireland;Fuller;Confections;628,2
+10985;Kniglich Essen;25-03-2018;Ireland;Fuller;Dairy Products;1120
+10985;Antonio Moreno Taquera;25-03-2018;Ireland;Fuller;Seafood;500
+10986;Ottilies Kseladen;25-03-2018;Argentina;Callahan;Beverages;180
+10986;Blauer See Delikatessen;25-03-2018;Argentina;Callahan;Condiments;195
+10986;Save-a-lot Markets;25-03-2018;Argentina;Callahan;Confections;1215
+10986;Bon app';25-03-2018;Argentina;Callahan;Dairy Products;630
+10987;Familia Arquibaldo;26-03-2018;UK;Callahan;Beverages;276
+10987;Die Wandernde Kuh;26-03-2018;UK;Callahan;Dairy Products;696
+10987;Ernst Handel;26-03-2018;UK;Callahan;Produce;1800
+10988;QUICK-Stop;26-03-2018;USA;Leverling;Confections;1972
+10988;Hungry Owl All-Night Grocers;26-03-2018;USA;Leverling;Produce;1800
+10989;North/South;26-03-2018;Brazil;Fuller;Condiments;1000
+10989;Tortuga Restaurante;26-03-2018;Brazil;Fuller;Dairy Products;315
+10989;Chop-suey Chinese;26-03-2018;Brazil;Fuller;Seafood;38,6
+10990;Sant Gourmet;27-03-2018;Austria;Fuller;Beverages;840
+10990;Cactus Comidas para llevar;27-03-2018;Austria;Fuller;Condiments;1881
+10990;Lehmanns Marktstand;27-03-2018;Austria;Fuller;Confections;650
+10990;Seven Seas Imports;27-03-2018;Austria;Fuller;Meat/Poultry;1560
+10991;Berglunds snabbkp;27-03-2018;Germany;Davolio;Beverages;950
+10991;Bon app';27-03-2018;Germany;Davolio;Beverages;300
+10991;Wartian Herkku;27-03-2018;Germany;Davolio;Beverages;1620
+10992;QUICK-Stop;27-03-2018;USA;Davolio;Dairy Products;69,6
+10993;Great Lakes Food Market;27-03-2018;Sweden;King;Meat/Poultry;6189,5
+10993;Maison Dewey;27-03-2018;Sweden;King;Seafood;337,75
+10994;Piccolo und mehr;28-03-2018;Denmark;Fuller;Dairy Products;990
+10995;Ocano Atlntico Ltda.;28-03-2018;Mexico;Davolio;Dairy Products;136
+10995;Eastern Connection;28-03-2018;Mexico;Davolio;Produce;1060
+10996;Folk och f HB;28-03-2018;Germany;Peacock;Grains/Cereals;560
+10997;Lehmanns Marktstand;29-03-2018;Venezuela;Callahan;Dairy Products;1600
+10997;Antonio Moreno Taquera;29-03-2018;Venezuela;Callahan;Grains/Cereals;140
+10997;Lehmanns Marktstand;29-03-2018;Venezuela;Callahan;Seafood;240
+10998;Richter Supermarkt;29-03-2018;Poland;Callahan;Beverages;54
+10998;B's Beverages;29-03-2018;Poland;Callahan;Beverages;232,5
+10998;B's Beverages;29-03-2018;Poland;Callahan;Condiments;199,5
+10998;QUICK-Stop;29-03-2018;Poland;Callahan;Produce;200
+10999;Hanari Carnes;29-03-2018;Germany;Hellstern;Condiments;273
+10999;Kniglich Essen;29-03-2018;Germany;Hellstern;Produce;795
+10999;LILA-Supermercado;29-03-2018;Germany;Hellstern;Seafood;193
+11000;Lonesome Pine Restaurant;01-04-2018;USA;Fuller;Beverages;135
+11000;Lazy K Kountry Store;01-04-2018;USA;Fuller;Condiments;550
+11000;Victuailles en stock;01-04-2018;USA;Fuller;Condiments;390
+11001;Seven Seas Imports;01-04-2018;Sweden;Fuller;Grains/Cereals;525
+11001;Toms Spezialitten;01-04-2018;Sweden;Fuller;Meat/Poultry;144
+11001;QUICK-Stop;01-04-2018;Sweden;Fuller;Produce;1800
+11001;Godos Cocina Tpica;01-04-2018;Sweden;Fuller;Seafood;300
+11002;Furia Bacalhau e Frutos do Mar;01-04-2018;USA;Peacock;Beverages;270
+11002;HILARION-Abastos;01-04-2018;USA;Peacock;Grains/Cereals;336
+11002;Wartian Herkku;01-04-2018;USA;Peacock;Meat/Poultry;960
+11002;Ottilies Kseladen;01-04-2018;USA;Peacock;Seafood;336
+11003;Save-a-lot Markets;01-04-2018;USA;Leverling;Beverages;72
+11003;Simons bistro;01-04-2018;USA;Leverling;Grains/Cereals;70
+11003;Lehmanns Marktstand;01-04-2018;USA;Leverling;Seafood;184
+11004;Around the Horn;02-04-2018;Belgium;Leverling;Beverages;108
+11004;Blondesddsl pre et fils;02-04-2018;Belgium;Leverling;Confections;187,38
+11005;Frankenversand;02-04-2018;Finland;Fuller;Beverages;36
+11005;Folk och f HB;02-04-2018;Finland;Fuller;Dairy Products;550
+11006;Reggiani Caseifici;02-04-2018;USA;Leverling;Beverages;144
+11006;Ricardo Adocicados;02-04-2018;USA;Leverling;Meat/Poultry;247,58
+11007;Rattlesnake Canyon Grocery;03-04-2018;Portugal;Callahan;Condiments;1200
+11007;Mre Paillarde;03-04-2018;Portugal;Callahan;Grains/Cereals;196
+11007;Blondesddsl pre et fils;03-04-2018;Portugal;Callahan;Meat/Poultry;1237,9
+11008;Hungry Owl All-Night Grocers;03-04-2018;Austria;King;Beverages;1260
+11008;Galera del gastrnomo;03-04-2018;Austria;King;Dairy Products;451,5
+11008;Rattlesnake Canyon Grocery;03-04-2018;Austria;King;Produce;3192
+11009;Mre Paillarde;03-04-2018;Spain;Fuller;Beverages;54
+11009;Ernst Handel;03-04-2018;Spain;Fuller;Dairy Products;306
+11009;Berglunds snabbkp;03-04-2018;Spain;Fuller;Seafood;342
+11010;Antonio Moreno Taquera;04-04-2018;Italy;Fuller;Beverages;45
+11010;Trail's Head Gourmet Provisioners;04-04-2018;Italy;Fuller;Produce;600
+11011;Morgenstern Gesundkost;04-04-2018;Germany;Leverling;Dairy Products;430
+11011;Tortuga Restaurante;04-04-2018;Germany;Leverling;Seafood;530
+11012;Trail's Head Gourmet Provisioners;04-04-2018;Germany;Davolio;Confections;460
+11012;B's Beverages;04-04-2018;Germany;Davolio;Dairy Products;1224
+11012;Let's Stop N Shop;04-04-2018;Germany;Davolio;Dairy Products;1290
+11013;Ottilies Kseladen;04-04-2018;Spain;Fuller;Confections;25
+11013;Familia Arquibaldo;04-04-2018;Spain;Fuller;Grains/Cereals;90
+11013;Blauer See Delikatessen;04-04-2018;Spain;Fuller;Grains/Cereals;56
+11013;Wartian Herkku;04-04-2018;Spain;Fuller;Seafood;190
+11014;Blondesddsl pre et fils;05-04-2018;Venezuela;Fuller;Seafood;270,2
+11015;Wellington Importadora;05-04-2018;Norway;Fuller;Condiments;234
+11015;Reggiani Caseifici;05-04-2018;Norway;Fuller;Seafood;388,35
+11016;Que Delcia;05-04-2018;UK;Dodsworth;Dairy Products;187,5
+11016;QUICK-Stop;05-04-2018;UK;Dodsworth;Seafood;304
+11017;Great Lakes Food Market;08-04-2018;Austria;Dodsworth;Beverages;450
+11017;Mre Paillarde;08-04-2018;Austria;Dodsworth;Condiments;250
+11017;Vaffeljernet;08-04-2018;Austria;Dodsworth;Dairy Products;6050
+11018;Lehmanns Marktstand;08-04-2018;USA;Peacock;Dairy Products;760
+11018;Lehmanns Marktstand;08-04-2018;USA;Peacock;Grains/Cereals;190
+11018;Old World Delicatessen;08-04-2018;USA;Peacock;Seafood;625
+11019;Ernst Handel;08-04-2018;Argentina;Hellstern;Confections;40
+11019;White Clover Markets;08-04-2018;Argentina;Hellstern;Seafood;36
+11020;Piccolo und mehr;09-04-2018;Germany;Fuller;Seafood;744
+11021;Rattlesnake Canyon Grocery;09-04-2018;Germany;Leverling;Beverages;209
+11021;B's Beverages;09-04-2018;Germany;Leverling;Confections;1215
+11021;Hungry Coyote Import Store;09-04-2018;Germany;Leverling;Confections;1967,49
+11021;HILARION-Abastos;09-04-2018;Germany;Leverling;Dairy Products;1218
+11021;Vaffeljernet;09-04-2018;Germany;Leverling;Produce;2332
+11022;Save-a-lot Markets;09-04-2018;Brazil;Dodsworth;Confections;322
+11022;Furia Bacalhau e Frutos do Mar;09-04-2018;Brazil;Dodsworth;Dairy Products;1080
+11023;Mre Paillarde;09-04-2018;UK;Davolio;Beverages;1380
+11023;Tradio Hipermercados;09-04-2018;UK;Davolio;Produce;120
+11024;Save-a-lot Markets;10-04-2018;UK;Peacock;Condiments;442,05
+11024;Toms Spezialitten;10-04-2018;UK;Peacock;Confections;374,76
+11024;Du monde entier;10-04-2018;UK;Peacock;Dairy Products;75
+11024;La maison d'Asie;10-04-2018;UK;Peacock;Dairy Products;1075
+11025;Wolski  Zajazd;10-04-2018;Finland;Hellstern;Beverages;180
+11025;Save-a-lot Markets;10-04-2018;Finland;Hellstern;Seafood;120
+11026;HILARION-Abastos;10-04-2018;Italy;Peacock;Produce;530
+11026;Blauer See Delikatessen;10-04-2018;Italy;Peacock;Seafood;500
+11027;Wilman Kala;11-04-2018;Canada;Davolio;Beverages;135
+11027;Great Lakes Food Market;11-04-2018;Canada;Davolio;Confections;1035,3
+11028;Great Lakes Food Market;11-04-2018;Germany;Fuller;Dairy Products;1320
+11028;Mre Paillarde;11-04-2018;Germany;Fuller;Meat/Poultry;840
+11029;Mre Paillarde;11-04-2018;Switzerland;Peacock;Condiments;526,8
+11029;Laughing Bacchus Wine Cellars;11-04-2018;Switzerland;Peacock;Grains/Cereals;760
+11030;Island Trading;12-04-2018;USA;King;Beverages;1900
+11030;Ricardo Adocicados;12-04-2018;USA;King;Condiments;1494,5
+11030;Frankenversand;12-04-2018;USA;King;Dairy Products;5500
+11030;The Cracker Box;12-04-2018;USA;King;Meat/Poultry;7427,4
+11031;Ana Trujillo Emparedados y helados;12-04-2018;USA;Hellstern;Beverages;810
+11031;Berglunds snabbkp;12-04-2018;USA;Hellstern;Beverages;94,5
+11031;Save-a-lot Markets;12-04-2018;USA;Hellstern;Dairy Products;344
+11031;Blondesddsl pre et fils;12-04-2018;USA;Hellstern;Grains/Cereals;665
+11031;Godos Cocina Tpica;12-04-2018;USA;Hellstern;Seafood;480
+11032;Kniglich Essen;12-04-2018;USA;Fuller;Beverages;6587,5
+11032;La maison d'Asie;12-04-2018;USA;Fuller;Dairy Products;1650
+11032;Die Wandernde Kuh;12-04-2018;USA;Fuller;Seafood;665
+11033;Ernst Handel;12-04-2018;Switzerland;King;Dairy Products;1296
+11033;Folies gourmandes;12-04-2018;Switzerland;King;Meat/Poultry;2296
+11034;Magazzini Alimentari Riuniti;15-04-2018;USA;Callahan;Condiments;233,4
+11034;Wartian Herkku;15-04-2018;USA;Callahan;Condiments;171
+11034;Queen Cozinha;15-04-2018;USA;Callahan;Confections;150
+11035;LINO-Delicateses;15-04-2018;Belgium;Fuller;Beverages;180
+11035;Sant Gourmet;15-04-2018;Belgium;Fuller;Beverages;1080
+11035;Die Wandernde Kuh;15-04-2018;Belgium;Fuller;Grains/Cereals;420
+11035;HILARION-Abastos;15-04-2018;Belgium;Fuller;Meat/Poultry;74,5
+11036;Simons bistro;15-04-2018;Germany;Callahan;Dairy Products;1650
+11036;Alfreds Futterkiste;15-04-2018;Germany;Callahan;Seafood;42
+11037;Wellington Importadora;16-04-2018;Spain;King;Beverages;60
+11038;Hanari Carnes;16-04-2018;Belgium;Davolio;Dairy Products;645
+11038;Hungry Owl All-Night Grocers;16-04-2018;Belgium;Davolio;Grains/Cereals;14
+11038;Que Delcia;16-04-2018;Belgium;Davolio;Seafood;92
+11039;Ricardo Adocicados;16-04-2018;Venezuela;Davolio;Beverages;432
+11039;Maison Dewey;16-04-2018;Venezuela;Davolio;Confections;1200
+11039;Familia Arquibaldo;16-04-2018;Venezuela;Davolio;Grains/Cereals;546
+11039;Die Wandernde Kuh;16-04-2018;Venezuela;Davolio;Produce;912
+11040;Gourmet Lanchonetes;17-04-2018;USA;Peacock;Confections;200
+11041;Frankenversand;17-04-2018;Switzerland;Leverling;Beverages;570
+11041;Berglunds snabbkp;17-04-2018;Switzerland;Leverling;Condiments;1317
+11042;Reggiani Caseifici;17-04-2018;Brazil;Fuller;Condiments;291,75
+11042;Great Lakes Food Market;17-04-2018;Brazil;Fuller;Condiments;114
+11043;Save-a-lot Markets;17-04-2018;France;Buchanan;Dairy Products;210
+11044;QUICK-Stop;18-04-2018;Poland;Peacock;Confections;591,6
+11045;Queen Cozinha;18-04-2018;Canada;Hellstern;Dairy Products;37,5
+11045;Hungry Coyote Import Store;18-04-2018;Canada;Hellstern;Produce;1272
+11046;Hungry Owl All-Night Grocers;18-04-2018;Germany;Callahan;Beverages;324
+11046;Lonesome Pine Restaurant;18-04-2018;Germany;Callahan;Dairy Products;760
+11046;Bon app';18-04-2018;Germany;Callahan;Dairy Products;480
+11047;Furia Bacalhau e Frutos do Mar;19-04-2018;UK;King;Beverages;450
+11047;Lonesome Pine Restaurant;19-04-2018;UK;King;Condiments;640,5
+11048;Richter Supermarkt;19-04-2018;Canada;King;Confections;525
+11049;Ernst Handel;19-04-2018;Brazil;Leverling;Beverages;190
+11049;Die Wandernde Kuh;19-04-2018;Brazil;Leverling;Dairy Products;152
+11050;Simons bistro;22-04-2018;Sweden;Callahan;Beverages;900
+11051;Frankenversand;22-04-2018;France;King;Beverages;45
+11052;France restauration;22-04-2018;Brazil;Leverling;Beverages;1380
+11052;Berglunds snabbkp;22-04-2018;Brazil;Leverling;Condiments;285
+11053;Wilman Kala;22-04-2018;Austria;Fuller;Dairy Products;640
+11053;Island Trading;22-04-2018;Austria;Fuller;Grains/Cereals;831,25
+11053;Frankenversand;22-04-2018;Austria;Fuller;Seafood;2187,5
+11054;Tortuga Restaurante;23-04-2018;Argentina;Callahan;Beverages;280
+11054;Antonio Moreno Taquera;23-04-2018;Argentina;Callahan;Dairy Products;25
+11055;Save-a-lot Markets;23-04-2018;Venezuela;King;Beverages;67,5
+11055;Blondesddsl pre et fils;23-04-2018;Venezuela;King;Confections;210
+11055;Old World Delicatessen;23-04-2018;Venezuela;King;Grains/Cereals;390
+11055;Great Lakes Food Market;23-04-2018;Venezuela;King;Produce;1060
+11056;Antonio Moreno Taquera;23-04-2018;UK;Callahan;Dairy Products;1700
+11056;Du monde entier;23-04-2018;UK;Callahan;Meat/Poultry;840
+11056;Ottilies Kseladen;23-04-2018;UK;Callahan;Produce;1200
+11057;Gourmet Lanchonetes;24-04-2018;UK;Leverling;Beverages;45
+11058;Piccolo und mehr;24-04-2018;Germany;Dodsworth;Condiments;114
+11058;Hungry Owl All-Night Grocers;24-04-2018;Germany;Dodsworth;Confections;30
+11058;Vaffeljernet;24-04-2018;Germany;Dodsworth;Dairy Products;714
+11059;Berglunds snabbkp;24-04-2018;Brazil;Fuller;Dairy Products;1190
+11059;Hanari Carnes;24-04-2018;Brazil;Fuller;Meat/Poultry;468
+11059;QUICK-Stop;24-04-2018;Brazil;Fuller;Seafood;180
+11060;Alfreds Futterkiste;25-04-2018;Italy;Fuller;Condiments;130
+11060;White Clover Markets;25-04-2018;Italy;Fuller;Dairy Products;136
+11061;QUICK-Stop;25-04-2018;USA;Peacock;Dairy Products;510
+11062;Wilman Kala;25-04-2018;Italy;Peacock;Beverages;180
+11062;White Clover Markets;25-04-2018;Italy;Peacock;Meat/Poultry;328
+11063;LINO-Delicateses;25-04-2018;Ireland;Leverling;Beverages;420
+11063;Ernst Handel;25-04-2018;Ireland;Leverling;Seafood;736
+11063;Morgenstern Gesundkost;25-04-2018;Ireland;Leverling;Seafood;289,5
+11064;Save-a-lot Markets;26-04-2018;USA;Davolio;Confections;687,5
+11064;Hungry Owl All-Night Grocers;26-04-2018;USA;Davolio;Meat/Poultry;3003
+11064;Alfreds Futterkiste;26-04-2018;USA;Davolio;Meat/Poultry;820
+11064;Folk och f HB;26-04-2018;USA;Davolio;Meat/Poultry;96
+11064;Queen Cozinha;26-04-2018;USA;Davolio;Seafood;115,8
+11065;HILARION-Abastos;26-04-2018;Venezuela;Callahan;Meat/Poultry;149
+11065;Old World Delicatessen;26-04-2018;Venezuela;Callahan;Seafood;103,56
+11066;Around the Horn;26-04-2018;USA;King;Beverages;490
+11066;The Big Cheese;26-04-2018;USA;King;Confections;52,35
+11066;Gourmet Lanchonetes;26-04-2018;USA;King;Confections;386,4
+11067;Franchi S.p.A.;29-04-2018;Germany;Davolio;Seafood;86,85
+11068;Save-a-lot Markets;29-04-2018;Brazil;Callahan;Beverages;1656
+11068;Hungry Owl All-Night Grocers;29-04-2018;Brazil;Callahan;Condiments;364
+11068;Save-a-lot Markets;29-04-2018;Brazil;Callahan;Produce;364,8
+11069;Save-a-lot Markets;29-04-2018;Mexico;Davolio;Beverages;360
+11070;Bon app';30-04-2018;Germany;Fuller;Beverages;720
+11070;Rancho grande;30-04-2018;Germany;Fuller;Beverages;380
+11070;Frankenversand;30-04-2018;Germany;Fuller;Confections;523,5
+11070;Kniglich Essen;30-04-2018;Germany;Fuller;Dairy Products;250
+11071;Let's Stop N Shop;30-04-2018;Venezuela;Davolio;Produce;450
+11071;Que Delcia;30-04-2018;Venezuela;Davolio;Seafood;60
+11072;QUICK-Stop;30-04-2018;Austria;Peacock;Beverages;152
+11072;Save-a-lot Markets;30-04-2018;Austria;Peacock;Confections;357,5
+11072;White Clover Markets;30-04-2018;Austria;Peacock;Grains/Cereals;4322,5
+11072;Mre Paillarde;30-04-2018;Austria;Peacock;Seafood;386
+11073;Familia Arquibaldo;30-04-2018;Mexico;Fuller;Beverages;90
+11073;Eastern Connection;30-04-2018;Mexico;Fuller;Dairy Products;210
+11074;Reggiani Caseifici;01-05-2018;Denmark;King;Confections;244,3
+11075;Queen Cozinha;01-05-2018;Switzerland;Callahan;Beverages;190
+11075;LINO-Delicateses;01-05-2018;Switzerland;Callahan;Beverages;36
+11075;Bon app';01-05-2018;Switzerland;Callahan;Seafood;360
+11076;Chop-suey Chinese;01-05-2018;France;Peacock;Condiments;500
+11076;Bon app';01-05-2018;France;Peacock;Confections;92
+11076;Berglunds snabbkp;01-05-2018;France;Peacock;Produce;465
+11077;Gourmet Lanchonetes;01-05-2018;USA;Davolio;Beverages;456
+11077;Let's Stop N Shop;01-05-2018;USA;Davolio;Beverages;36
+11077;Hungry Owl All-Night Grocers;01-05-2018;USA;Davolio;Beverages;31
+11077;Vins et alcools Chevalier;01-05-2018;USA;Davolio;Condiments;40
+11077;Spcialits du monde;01-05-2018;USA;Davolio;Condiments;22
+11077;Vins et alcools Chevalier;01-05-2018;USA;Davolio;Condiments;25
+11077;White Clover Markets;01-05-2018;USA;Davolio;Condiments;80
+11077;Around the Horn;01-05-2018;USA;Davolio;Condiments;17
+11077;Bottom-Dollar Markets;01-05-2018;USA;Davolio;Condiments;26
+11077;Around the Horn;01-05-2018;USA;Davolio;Confections;34,9
+11077;Vaffeljernet;01-05-2018;USA;Davolio;Confections;81
+11077;QUICK-Stop;01-05-2018;USA;Davolio;Dairy Products;76
+11077;Chop-suey Chinese;01-05-2018;USA;Davolio;Dairy Products;32
+11077;Piccolo und mehr;01-05-2018;USA;Davolio;Dairy Products;68
+11077;Save-a-lot Markets;01-05-2018;USA;Davolio;Grains/Cereals;18
+11077;Island Trading;01-05-2018;USA;Davolio;Grains/Cereals;14
+11077;Wartian Herkku;01-05-2018;USA;Davolio;Grains/Cereals;66,5
+11077;Richter Supermarkt;01-05-2018;USA;Davolio;Meat/Poultry;48
+11077;North/South;01-05-2018;USA;Davolio;Produce;30
+11077;Franchi S.p.A.;01-05-2018;USA;Davolio;Produce;23,25
+11077;Magazzini Alimentari Riuniti;01-05-2018;USA;Davolio;Seafood;31
+11077;Bon app';01-05-2018;USA;Davolio;Seafood;24
+11077;Split Rail Beer & Ale;01-05-2018;USA;Davolio;Seafood;28,95
+11077;Save-a-lot Markets;01-05-2018;USA;Davolio;Seafood;36
+11077;Richter Supermarkt;01-05-2018;USA;Davolio;Seafood;30

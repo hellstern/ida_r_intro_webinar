@@ -46,6 +46,9 @@ x * 2  # Ganger alle elementer i x med 2 - LOOP uden at være et LOOP ?
 
 ls()   # Vis / List alle objekter
 
+# Fjern et objekt
+rm(x)  # Her x
+
 # Funktioner
 length(y)     # Antallet af numre i vektoren
 min(y)        # Minimumsværdien
@@ -55,10 +58,6 @@ sum(y)        # Summen
 mean(y)       # Gennemsnittet
 var(y)        # Variansen
 sd(y)         # Standardafvigelsen
-
-
-# Fjern et objekt
-rm(x)  # Her x
 
 
 # Logiske operatorer
