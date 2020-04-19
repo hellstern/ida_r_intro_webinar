@@ -1,5 +1,5 @@
 # Links {#links}
-Her er en lille samling af nyttige links, det er på ingen måde en fuldstændig liste – Brug Google.
+Her er en lille samling af nyttige links, det er på ingen måde en fuldstændig liste – Brug <a href="https://www.google.com" target="_blank">Google</a>.
 
 * <a href="https://www.rproject.org" target="_blank">www.rproject.org</a> 
 * <a href="https://mran.microsoft.com/open" target="_blank">mran.microsoft.com/open</a> 

@@ -10,11 +10,11 @@ Som alle andre programmeringssprog har R nogle forskellige regler for, hvordan k
 * Et navn kan ikke starte med et Tal, men skal starte med et bogstav eller et gyldigt tegn
 * R er case-sensitiv. Der er forskel på store og små bogstaver
 
-# Variable / Objekter
+## Variable / Objekter
 Alt hvad du kommer til at bruge i R vil blive gemt i Objekter, det kan være et enkelt tal eller et helt datasæt. 
 I R skal du bruge ”<-” for at gemme en værdi i et objekt. Mange andre programmeringssprog bruger her ”=”.
 
-´´´
+```
 2 + 2                 # Beregn
 1:100                 # printer 1 til 100
 print("Hej med dig")
@@ -33,13 +33,13 @@ y
 x * 2  # Ganger alle elementer i x med 2 - LOOP uden at være et LOOP ?
 
 ls()   # Vis / List alle objekter
-´´´
+```
 
 
 ## Funktioner
 R har de sammen funktioner som du måske kender fra Excel eller andre programeringssprog
 
-´´´
+```
 length(y)     # Antallet af numre i vektoren
 min(y)        # Minimumsværdien
 max(y)        # Maksimumværdien
@@ -48,26 +48,26 @@ sum(y)        # Summen
 mean(y)       # Gennemsnittet
 var(y)        # Variansen
 sd(y)         # Standardafvigelsen
-´´´
+```
 
 
 ## Logiske operatorer
 Meget af det du kommer til at arbejde med i R, vil kræve en eller anden form for logisk operator. Med en logisk operator finder du ud af om et udsagn er Sandt eller Falsk.
 
-´´´
+```
 x == 2        # "==" betyder "lig med"
 x != 2        # "!=" betyder "ikke lig med"
 x < 1         # "<" betyder "mindre end"
 x > 1         # ">" betyder "større end"
 x <= 2        # "<=" betyder "mindre eller lig med
-´´´
+```
 
 *Husk, at dette også gælder for de mapper, du arbejder med.*
 
 ## Hjælp
 Du kan få hjælp direkte i R ved at bruge nedstående kommandoer:
 
-´´´
+```
 help("mean") # Hjælp til en specifik funktion - mean
 help("plot")
 
@@ -77,17 +77,17 @@ help("plot")
 # Hjælp til en specifik pakke - base og tidyverse
 help(package = "base")
 help(package = "tidyverse")
-´´´
+```
 
 Hjælpen vises i vinduet nederst til højre
 
 ## Working Directory
 R bruger en mappe som ”Working folder”. Det er nemmere at tilgå filer, der ligger i denne mappe.
 
-´´´
+```
 getwd()
 setwd("C:/Users/Tue Hellstern/Documents/GitHub/r_webinar/r_kode/webinar_dag1")
-´´´
+```
 
 
 
