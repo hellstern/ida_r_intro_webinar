@@ -1,2 +1,8 @@
 # Data {#data}
+For at arbejde med data skal de importeres ind i R. Det er simpelt, hvis de filer der skal importeres ligger i R’s aktive bibliotek. Det er en god ide at organisere dine data inden de importeres, hvilket der findes mange gode værktøjer til.
+Du kan i RStudio vælge mellem at bruge den grafiske brugerflade (GUI) eller skrive den kode, du vil bruge til importen. 
 
+## Grafisk (GUI)
+
+
+## Kode
