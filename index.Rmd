@@ -37,7 +37,7 @@ Det er følgende filer der bruges på dette webinar:
 **Data filer**
 
 * webinar_data.xlsx - *Indeholder tre ark;  height_weight, is_salg og salgs_data*
-* height_weight.csv
+* bmi.csv
 * is_salg.csv
 * salgs_data.csv
 
