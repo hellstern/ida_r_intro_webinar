@@ -19,11 +19,11 @@ I R skal du bruge ”<-” for at gemme en værdi i et objekt. Mange andre progr
 1:100                 # printer 1 til 100
 print("Hej med dig")
 
-x <- 2               # Tildel x værdien 2
+x <- 2                # Tildel x værdien 2
 x * 2
 x * x
 x + x
-x                   # Viser værdien af x
+x                     # Viser værdien af x
 
 y <- c(6, 7, 8, 9, 10) # Gemmer 6 til 10 i variablen y
 # c() står for concatenate eller combine - Giver en vektor
