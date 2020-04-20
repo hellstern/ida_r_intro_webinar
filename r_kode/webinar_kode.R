@@ -113,14 +113,15 @@ browseURL("https://www.tidyverse.org")
 
 
 # ***************************
-# Indl?sning af Data
+# Indlæsning af Data
 # ***************************
 ## CSV filer
 ? read.csv
 
 # Working directory
 getwd()
-setwd("C:/Users/Tue Hellstern/Documents/GitHub/ida_r_intro_webinar/r_kode")
+setwd("C:/Users/tuhe/Documents/GitHub/ida_r_intro_webinar/r_kode")
+# "C:/Users/tuhe/Documents/GitHub/ida_r_intro_webinar/r_kode"
 
 # sn.csv <- read.csv("C:\Users\tuhe\Desktop\bmi.csv", header = TRUE, sep = ";") # Virker IKKE
 bmi <- read.csv("C:\\Users\\tuhe\\Desktop\\bmi.csv", header = TRUE, sep = ";")  # Virker
@@ -188,7 +189,7 @@ ggplot(data=issalg) +
 # ******************************
 # Plot ggplo2 - Salg - Group By
 # ******************************
-library(ggplot2)
+library(tidyverse)
 
 # Group by Category + ggplot
 salg %>%
