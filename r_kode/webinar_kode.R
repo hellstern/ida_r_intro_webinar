@@ -90,9 +90,10 @@ help(package = "tidyverse")
 # Working Directory
 # ***************************
 getwd()
-setwd("C:/Users/Tue Hellstern/Documents/GitHub/r_webinar/r_kode/webinar_dag1")
+setwd("C:/Users/tuhe/Documents/GitHub/ida_r_intro_webinar/r_kode")
 # setwd("C:/Users/Tue Hellstern/Documents/GitHub")
-
+# "C:/Users/tuhe/Documents/GitHub/ida_r_intro_webinar/r_kode"
+# "C:/Users/Tue Hellstern/Documents/GitHub/r_webinar/r_kode/webinar_dag1"
 
 
 # ***************************
