@@ -1,4 +1,4 @@
-﻿# Plots {#plots}
+# Plots {#plots}
 
 ## Standard plot
 
@@ -21,6 +21,7 @@ barplot(category[order(category, decreasing = T)])
 
 ## ggplot2
 Kode
+
 ```
 ggplot(data=issalg) +
   geom_point(mapping = aes(x=Temperatur, y=Salg, color=Butik_Placering, size=Salg)) +
