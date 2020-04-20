@@ -1,3 +1,15 @@
+# Cheatsheets {#cheatsheets}
+
+* RStudio Cheatsheets - <a href="https://rstudio.com/resources/cheatsheets/" target="_blank">rstudio.com/resources/cheatsheets/</a>
+* <a href="https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf" target="_blank">RStudio IDE</a>
+* <a href="https://github.com/rstudio/cheatsheets/raw/master/data-import.pdf" target="_blank">readr</a>
+* <a href="https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf" target="_blank">dplyr</a>
+* <a href="https://github.com/rstudio/cheatsheets/raw/master/shiny.pdf" target="_blank">Shiny</a>
+* <a href="https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf" target="_blank">ggplot2</a>
+
+
+
+
 # Links {#links}
 Her er en lille samling af nyttige links, det er på ingen måde en fuldstændig liste – Brug <a href="https://www.google.com" target="_blank">Google</a>.
 
@@ -5,7 +17,11 @@ Her er en lille samling af nyttige links, det er på ingen måde en fuldstændig
 * <a href="https://mran.microsoft.com/open" target="_blank">mran.microsoft.com/open</a> 
 * <a href="https://www.rstudio.com" target="_blank">www.rstudio.com</a> 
 * <a href="https://support.rstudio.com/hc/en-us/categories/200035113-Documentation" target="_blank">support.rstudio.com/hc/en-us/categories/200035113-Documentation</a>
+* <a href="https://community.rstudio.com/" target="_blank">community.rstudio.com</a>
 * <a href="https://www.statmethods.net" target="_blank">www.statmethods.net</a> 
+
+
+
 
 
 
