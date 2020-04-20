@@ -32,7 +32,7 @@
   
   
 <link rel="prev" href="pakker.html"/>
-<link rel="next" href="plots.html"/>
+<link rel="next" href="shiny.html"/>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -94,13 +94,14 @@
 <li class="chapter" data-level="6" data-path="data.html"><a href="data.html"><i class="fa fa-check"></i><b>6</b> Data</a><ul>
 <li class="chapter" data-level="6.1" data-path="data.html"><a href="data.html#grafisk-gui"><i class="fa fa-check"></i><b>6.1</b> Grafisk (GUI)</a></li>
 <li class="chapter" data-level="6.2" data-path="data.html"><a href="data.html#kode-1"><i class="fa fa-check"></i><b>6.2</b> Kode</a></li>
+<li class="chapter" data-level="6.3" data-path="data.html"><a href="data.html#standard-plot"><i class="fa fa-check"></i><b>6.3</b> Standard plot</a></li>
+<li class="chapter" data-level="6.4" data-path="data.html"><a href="data.html#ggplot2"><i class="fa fa-check"></i><b>6.4</b> ggplot2</a></li>
 </ul></li>
-<li class="chapter" data-level="7" data-path="plots.html"><a href="plots.html"><i class="fa fa-check"></i><b>7</b> Plots</a></li>
-<li class="chapter" data-level="8" data-path="shiny.html"><a href="shiny.html"><i class="fa fa-check"></i><b>8</b> Demo Shiny</a><ul>
-<li class="chapter" data-level="8.1" data-path="shiny.html"><a href="shiny.html#struktur-af-en-shiny-app"><i class="fa fa-check"></i><b>8.1</b> Struktur af en Shiny app</a></li>
+<li class="chapter" data-level="7" data-path="shiny.html"><a href="shiny.html"><i class="fa fa-check"></i><b>7</b> Demo Shiny</a><ul>
+<li class="chapter" data-level="7.1" data-path="shiny.html"><a href="shiny.html#struktur-af-en-shiny-app"><i class="fa fa-check"></i><b>7.1</b> Struktur af en Shiny app</a></li>
 </ul></li>
-<li class="chapter" data-level="9" data-path="cheatsheets.html"><a href="cheatsheets.html"><i class="fa fa-check"></i><b>9</b> Cheatsheets</a></li>
-<li class="chapter" data-level="10" data-path="links.html"><a href="links.html"><i class="fa fa-check"></i><b>10</b> Links</a></li>
+<li class="chapter" data-level="8" data-path="cheatsheets.html"><a href="cheatsheets.html"><i class="fa fa-check"></i><b>8</b> Cheatsheets</a></li>
+<li class="chapter" data-level="9" data-path="links.html"><a href="links.html"><i class="fa fa-check"></i><b>9</b> Links</a></li>
 <li class="divider"></li>
 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
 
@@ -136,6 +137,36 @@ Derefter vælger du den Excel fil, du vil importere</p>
 <div id="kode-1" class="section level2">
 <h2><span class="header-section-number">6.2</span> Kode</h2>
 
+<p>﻿# Plots {#plots}</p>
+</div>
+<div id="standard-plot" class="section level2">
+<h2><span class="header-section-number">6.3</span> Standard plot</h2>
+<pre><code>category &lt;- table(salg$CategoryName)
+str(category)
+barplot(category[order(category, decreasing = T)])</code></pre>
+<p>Giver dette plot</p>
+<p><img src="r_werbinar_ida_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
+</div>
+<div id="ggplot2" class="section level2">
+<h2><span class="header-section-number">6.4</span> ggplot2</h2>
+<p>Kode</p>
+<pre><code>ggplot(data=issalg) +
+  geom_point(mapping = aes(x=Temperatur, y=Salg, color=Butik_Placering, size=Salg)) +
+  geom_smooth(mapping = aes(x=Temperatur, y=Salg, color=Butik_Placering), se=FALSE) +
+  geom_hline(yintercept = mean(issalg$Salg)) +
+  geom_vline(xintercept = mean(issalg$Temperatur)) +
+  annotate(&quot;text&quot;, label=&quot;Middel temperatur&quot;, y=1, x=mean(issalg$Temperatur+4)) +
+  theme(panel.background = element_blank()) +
+  theme(plot.background = element_blank()) +
+  scale_x_continuous(name=&quot;Temperatur&quot;) +
+  scale_y_continuous(name=&quot;Total Salg&quot;) +
+  scale_color_discrete(name=&quot;Placering af butiken&quot;) +
+  scale_size_continuous(name=&quot;Salg&quot;)</code></pre>
+<p>Giver dette plot</p>
+<pre><code>## Warning: package &#39;ggplot2&#39; was built under R version 3.6.3</code></pre>
+<pre><code>## `geom_smooth()` using method = &#39;loess&#39; and formula &#39;y ~ x&#39;</code></pre>
+<p><img src="r_werbinar_ida_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
+
 </div>
 </div>
             </section>
@@ -144,7 +175,7 @@ Derefter vælger du den Excel fil, du vil importere</p>
         </div>
       </div>
 <a href="pakker.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="plots.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="shiny.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>

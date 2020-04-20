@@ -10,9 +10,9 @@ barplot(category[order(category, decreasing = T)])
 
 Giver dette plot
 
-``` {r}
+``` {r echo = FALSE, results = FALSE}
 library(readxl)
-salg <- read_excel("webinar_data.xlsx", sheet = "salgs_data") 
+salg <- read_excel("C:/Users/tuhe/Documents/GitHub/ida_r_intro_webinar/r_kode/webinar_data.xlsx", sheet = "salgs_data") 
 category <- table(salg$CategoryName)
 str(category)
 barplot(category[order(category, decreasing = T)])
@@ -20,7 +20,7 @@ barplot(category[order(category, decreasing = T)])
 
 
 ## ggplot2
-
+Kode
 ```
 ggplot(data=issalg) +
   geom_point(mapping = aes(x=Temperatur, y=Salg, color=Butik_Placering, size=Salg)) +
@@ -37,10 +37,10 @@ ggplot(data=issalg) +
 ```
 Giver dette plot
 
-```{r}
+```{r echo = FALSE, results = FALSE}
 library(ggplot2)
 library(readxl)
-issalg <- read_excel("webinar_data.xlsx", sheet = "issalg")
+issalg <- read_excel("C:/Users/tuhe/Documents/GitHub/ida_r_intro_webinar/r_kode/webinar_data.xlsx", sheet = "issalg")
 
 ggplot(data=issalg) +
   geom_point(mapping = aes(x=Temperatur, y=Salg, color=Butik_Placering, size=Salg)) +
