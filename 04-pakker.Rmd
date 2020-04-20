@@ -1,4 +1,4 @@
-# Pakker {#pakker}
+﻿# Pakker {#pakker}
 Du kan ”tilføje” funknationalitet til R ved at installere forskellige pakker. Du kan nederst til højre se, hvilke pakker du har installeret.
 Det er også her muligt at opdatere de pakker, du har installeret.
 Du kan finde en oversigt over de forskellige pakker her: <a href="https://cran.rstudio.com" target="_blank">cran.rstudio.com</a>
