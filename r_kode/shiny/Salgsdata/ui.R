@@ -7,9 +7,9 @@ library(readxl)
 library(ggplot2)
 library(shiny)
 
-salg <- read_excel("~/GitHub/ida_r_intro_webinar/r_kode/webinar_data.xlsx", sheet = "salgs_data")
+salg <- read_excel("webinar_data.xlsx", sheet = "salgs_data")
 
-# Define UI for application that draws a histogram
+# UI
 shinyUI(fluidPage(
 
     titlePanel("Salg efter land"),
@@ -17,7 +17,7 @@ shinyUI(fluidPage(
     # Opret sidebar
     sidebarLayout(
         sidebarPanel(helpText("Du skal vælge et land"),
-            selectInput("ValgtLand", h3("Vaelg land"),
+            selectInput("ValgtLand", h3("Vælg land"),
                         choices = salg$Country,
                         selected = 1)),
 
