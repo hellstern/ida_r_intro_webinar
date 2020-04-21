@@ -72,7 +72,7 @@ x <= 2        # "<=" betyder "mindre eller lig med
 
 
 # ***************************
-# Hjælp
+# HjÃ¦lp
 # ***************************
 help("mean") # HjÃ¦lp til en specifik funktion - mean
 help("plot")
@@ -80,7 +80,7 @@ help("plot")
 ?mean
 ?plot
 
-# Hjælp¦lp til en specifik pakke - base og tidyverse
+# Hj?lp?lp til en specifik pakke - base og tidyverse
 help(package = "base")
 help(package = "tidyverse")
 
@@ -90,9 +90,10 @@ help(package = "tidyverse")
 # Working Directory
 # ***************************
 getwd()
-setwd("C:/Users/Tue Hellstern/Documents/GitHub/r_webinar/r_kode/webinar_dag1")
+setwd("C:/Users/tuhe/Documents/GitHub/ida_r_intro_webinar/r_kode")
 # setwd("C:/Users/Tue Hellstern/Documents/GitHub")
-
+# "C:/Users/tuhe/Documents/GitHub/ida_r_intro_webinar/r_kode"
+# "C:/Users/Tue Hellstern/Documents/GitHub/r_webinar/r_kode/webinar_dag1"
 
 
 # ***************************
@@ -113,14 +114,15 @@ browseURL("https://www.tidyverse.org")
 
 
 # ***************************
-# Indlæsning af Data
+# IndlÃ¦sning af Data
 # ***************************
 ## CSV filer
 ? read.csv
 
 # Working directory
 getwd()
-setwd("C:/Users/Tue Hellstern/Documents/GitHub/ida_r_intro_webinar/r_kode")
+setwd("C:/Users/tuhe/Documents/GitHub/ida_r_intro_webinar/r_kode")
+# "C:/Users/tuhe/Documents/GitHub/ida_r_intro_webinar/r_kode"
 
 # sn.csv <- read.csv("C:\Users\tuhe\Desktop\bmi.csv", header = TRUE, sep = ";") # Virker IKKE
 bmi <- read.csv("C:\\Users\\tuhe\\Desktop\\bmi.csv", header = TRUE, sep = ";")  # Virker
@@ -145,9 +147,9 @@ help(package = "readxl")
 browseURL("https://www.rdocumentation.org/packages/readxl/versions/1.3.1/topics/read_excel")
 
 
-salg <- read_excel("webinar_data.xlsx")                          # Indlæser første ark
-salg <- read_excel("webinar_data.xlsx", sheet = "salgs_data")    # Indlæser arket salgs_data
-salg <- read_excel("webinar_data.xlsx", sheet = 3)               # Indlæser ark 3
+salg <- read_excel("webinar_data.xlsx")                          # Indl?ser f?rste ark
+salg <- read_excel("webinar_data.xlsx", sheet = "salgs_data")    # Indl?ser arket salgs_data
+salg <- read_excel("webinar_data.xlsx", sheet = 3)               # Indl?ser ark 3
 
 
 # ***************************
@@ -159,12 +161,37 @@ barplot(category[order(category, decreasing = T)])
 
 
 # ***************************
-# Plot ggplo2
+# ggplot2 - Is salg
 # ***************************
 ?ggplot2
 browseURL("https://ggplot2.tidyverse.org")
-
 library(ggplot2)
+
+# Data / Is salg
+library(readxl)
+getwd()
+issalg <- read_excel("webinar_data.xlsx", sheet = "issalg")
+
+# Plot
+ggplot(data=issalg) +
+  geom_point(mapping = aes(x=Temperatur, y=Salg, color=Butik_Placering, size=Salg)) +
+  geom_smooth(mapping = aes(x=Temperatur, y=Salg, color=Butik_Placering), se=FALSE) +
+  geom_hline(yintercept = mean(issalg$Salg)) +
+  annotate("text", label="Middel Salg", x=15, vjust = 0, y=mean(issalg$Salg+200)) +
+  geom_vline(xintercept = mean(issalg$Temperatur)) +
+  annotate("text", label="Middel Temperatur", y=100, hjust = 0, x=mean(issalg$Temperatur-0.5), angle = 90) +
+  theme(panel.background = element_blank()) +
+  theme(plot.background = element_blank()) +
+  scale_x_continuous(name="Temperatur") +
+  scale_y_continuous(name="Total Salg") +
+  scale_color_discrete(name="Placering af butiken") +
+  scale_size_continuous(name="Salg") +
+  theme_classic()
+
+# ******************************
+# Plot ggplo2 - Salg - Group By
+# ******************************
+library(tidyverse)
 
 # Group by Category + ggplot
 salg %>%
@@ -176,86 +203,6 @@ salg %>%
   ylab("Sale") +
   ggtitle("Sales by category",
           subtitle = "2016 to 2018")
-
-
-
-# ***************************
-# ggplo2 - Is salg
-# ***************************
-
-# Data / Is salg
-issalg <- read_excel("webinar_data.xlsx", sheet = "is_salg")
-
-# Plot
-ggplot(data=issalg) +
-  geom_point(mapping = aes(x=Temp, y=Salg_Total, size=Salg_Kugler)) +
-  geom_point(mapping = aes(x=Temp, y=Salg_Total, size=Salg_Ispinde)) +
-  geom_hline(yintercept = mean(issalg$Salg_Total))
-
-
-ggplot(data=issalg, mapping = aes(x=Temp, y=Salg_Total)) +
-  geom_point(size=Salg_Kugler) +
-  geom_point(size=Salg_Ispinde) +
-  geom_hline(yintercept = mean(issalg$Salg_Total))
-
-
-ggplot(data = college) +
-  geom_point(mapping = aes(x=tuition, y=sat_avg, color=control, size=undergrads), alpha=1/2) +
-  annotate("text", label="Elite Privates", x=45000, y=1450) +
-  geom_hline(yintercept = mean(college$sat_avg)) +
-  annotate("text", label="Mean SAT", x=47000, y=mean(college$sat_avg)-15) +
-  geom_vline(xintercept = mean(college$tuition)) +
-  annotate("text", label="Main Tuition", y=1500, x=mean(college$tuition+3000)) +
-  theme(panel.background = element_blank()) +
-  theme(plot.background = element_blank()) +
-  scale_color_discrete(name="Institution Type") +
-  scale_size_continuous(name="Undergraduates") +
-  scale_x_continuous(name="Tuition") +
-  scale_y_continuous(name="SAT Score")
-
-# Data / Is salg
-issalg2 <- read_excel("webinar_data.xlsx", sheet = "issalg")
-
-# Plot
-ggplot(data=issalg2, mapping = aes(x=Temperatur, y=Salg, color=Butik_Placering, size=Salg)) +
-  geom_smooth(se=FALSE) +
-  geom_point(alpha=1/15) +
-  geom_hline(yintercept = mean(issalg2$Salg)) +
-  geom_vline(xintercept = mean(issalg2$Temperatur)) +
-  theme(panel.background = element_blank()) +
-  theme(plot.background = element_blank()) +
-  scale_x_continuous(name="Temperatur") +
-  scale_y_continuous(name="Total Salg") +
-  scale_color_discrete(name="Placering af butiken") +
-  scale_size_continuous(name="Salg")
-
-ggplot(data=issalg2) +
-  geom_point(mapping = aes(x=Temperatur, y=Salg, color=Butik_Placering, size=Salg)) +
-  geom_hline(yintercept = mean(issalg2$Salg)) +
-  geom_vline(xintercept = mean(issalg2$Temperatur)) +
-  theme(panel.background = element_blank()) +
-  theme(plot.background = element_blank()) +
-  scale_x_continuous(name="Temperatur") +
-  scale_y_continuous(name="Total Salg") +
-  scale_color_discrete(name="Placering af butiken") +
-  scale_size_continuous(name="Salg")
-
-
-
-
-ggplot(data = college) +
-  geom_point(mapping = aes(x=tuition, y=sat_avg, color=control, size=undergrads), alpha=1/2) +
-  annotate("text", label="Elite Privates", x=45000, y=1450) +
-  geom_hline(yintercept = mean(college$sat_avg)) +
-  annotate("text", label="Mean SAT", x=47000, y=mean(college$sat_avg)-15) +
-  geom_vline(xintercept = mean(college$tuition)) +
-  annotate("text", label="Main Tuition", y=1500, x=mean(college$tuition+3000)) +
-  theme(panel.background = element_blank()) +
-  theme(plot.background = element_blank()) +
-  scale_color_discrete(name="Institution Type") +
-  scale_size_continuous(name="Undergraduates") +
-  scale_x_continuous(name="Tuition") +
-  scale_y_continuous(name="SAT Score")
 
 # ***************************
 # Save plots

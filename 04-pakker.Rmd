@@ -10,7 +10,7 @@ Du kan installere pakker på to måder:
 * Via R kode
 
 
-### Grafisk
+**Grafisk**
 I vinduet nederst til højre kan du klikke på fanen **Packages** og derefter på knappen **Install**, du skriver navnet på den eller de pakker du vil installere.
 
 ![Pakker](img/pakker.png)
@@ -19,16 +19,16 @@ Det er også muligt at opdatere dine pakker vi knappen **Update**
 
 I sammme vindue kan du også se hvilke pakker der er i *brug*.
 
-### Kode
+**Kode**
 Det er nemt at installere og bruge pakker via kode:
 
 ```
 library()                     # Pakker der er på din computer
-install.packages("ggplot2")   # install
-library(dplyr)                # load
+install.packages("ggplot2")   # install - Her ggplot2
+library(ggplot2)              # load - Her ggplot2
 
-update.packages("tidyverse")  # Update
-remove.packages("tidyverse")  # Fjern
+update.packages("tidyverse")  # Update - Her tidyverse
+remove.packages("tidyverse")  # Fjern - Her tidyverse
 ```
 
 

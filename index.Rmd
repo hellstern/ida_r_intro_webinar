@@ -17,9 +17,9 @@ description: "Webinar i R programmering i R"
 * Webinar den 22-04-2020
 * Kl. 19:00
 * Tue Hellstern
-* Jelgreen Consult
+* Jelgren Consult
 
-Dette webinar er udviklet af Tue Hellstern i samarbejde med Jelgreen Consult.
+Dette webinar er udviklet af Tue Hellstern i samarbejde med Jelgren Consult - www.jelgrenconsult.dk
 
 Dette materiale må ikke kopieres eller mangfoldiggøres uden forudgående aftale med Jelgren Consult.
 
@@ -36,8 +36,8 @@ Det er følgende filer der bruges på dette webinar:
 
 **Data filer**
 
-* webinar_data.xlsx - *Indeholder tre ark;  height_weight, is_salg og salgs_data*
+* webinar_data.xlsx - *Indeholder tre ark;  height_weight, issalg og salgs_data*
 * bmi.csv
-* is_salg.csv
+* issalg.csv
 * salgs_data.csv
 

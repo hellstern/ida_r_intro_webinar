@@ -6,12 +6,25 @@ R kan importere fra de fleste formater, her vil jeg bruge; **CSV** og **Excel**
 Du kan i RStudio vælge mellem at bruge den grafiske brugerflade (GUI) eller skrive den kode, du vil bruge til importen. 
 
 ## Grafisk (GUI)
-Fordelen ved at bruge den grafiske brugerflade er, at du ikke skal huske de forskellige importfunktioner. Det ligner lidt det at importere data i f.eks. Excel.
+Fordelen ved at bruge den grafiske brugerflade er, at du ikke skal huske de forskellige importfunktione. Det ligner lidt import i f.eks. Excel.
 
 **Import af fra Excel**
 
-Når du vil importere data fra en Excel fil, kan du bruge: File > Import Dataset > From Excel
-Derefter vælger du den Excel fil, du vil importere 
+Når du vil importere data fra en Excel fil, kan du bruge: **File > Import Dataset > From Excel**
+Derefter vælger du den Excel fil, du vil importere.
+
+![](img/import.png)
+
 
 
 ## Kode
+Du kan også fortage importen via R kode
+
+```
+bmi <- read.csv("C:/Users/tuhe/Desktop/bmi.csv", header = TRUE, sep = ";")      # Standard - ,
+bmi <- read.csv2("C:/Users/tuhe/Desktop/bmi.csv", header = TRUE)                # Standard - ;
+
+salg <- read_excel("webinar_data.xlsx")                          # Indlæser første ark
+salg <- read_excel("webinar_data.xlsx", sheet = "salgs_data")    # Indlæser arket "salgs_data"
+salg <- read_excel("webinar_data.xlsx", sheet = 3)               # Indlæser ark 3 - Index nummer
+```

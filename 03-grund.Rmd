@@ -12,7 +12,7 @@ Som alle andre programmeringssprog har R nogle forskellige regler for, hvordan k
 
 ## Variable / Objekter
 Alt hvad du kommer til at bruge i R vil blive gemt i Objekter, det kan være et enkelt tal eller et helt datasæt. 
-I R skal du bruge ”<-” for at gemme en værdi i et objekt. Mange andre programmeringssprog bruger her ”=”.
+I R skal du bruge ”<-” for at gemme en værdi i et objekt. Mange andre programmeringssprog bruger ”=”
 
 ```
 2 + 2                 # Beregn
