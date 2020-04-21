@@ -45,7 +45,7 @@ install.packages("shiny")
 library(shiny)
 ```
 
-# Eksempel
+## Eksempel
 Du kan se et eksempel på en sådan Shiny løsning på dette www adresse: <a href="https://tue-hellstern.shinyapps.io/Salgsdata/" target="_blank">https://tue-hellstern.shinyapps.io/Salgsdata/</a>
 
 ![](img/shiny.png)

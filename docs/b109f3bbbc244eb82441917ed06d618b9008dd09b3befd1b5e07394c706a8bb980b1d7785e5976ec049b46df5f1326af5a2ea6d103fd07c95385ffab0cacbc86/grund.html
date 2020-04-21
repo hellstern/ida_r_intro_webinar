@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Chapter 3 Grundlæggende R | IDA Introduktion til R</title>
+  <meta name="description" content="Webinar i R programmering i R" />
+  <meta name="generator" content="bookdown 0.18 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Chapter 3 Grundlæggende R | IDA Introduktion til R" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="Webinar i R programmering i R" />
+  <meta name="github-repo" content="rstudio/bookdown-demo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 3 Grundlæggende R | IDA Introduktion til R" />
+  
+  <meta name="twitter:description" content="Webinar i R programmering i R" />
+  
+
+<meta name="author" content="Tue Hellstern" />
+
+
+<meta name="date" content="2020-04-21" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="R-RStudio.html"/>
+<link rel="next" href="pakker.html"/>
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">Webinar - R Introduktion - IDA</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Webinar</a><ul>
+<li class="chapter" data-level="1.1" data-path="index.html"><a href="index.html#filer"><i class="fa fa-check"></i><b>1.1</b> Filer</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="R-RStudio.html"><a href="R-RStudio.html"><i class="fa fa-check"></i><b>2</b> R og RStudio</a><ul>
+<li class="chapter" data-level="2.1" data-path="R-RStudio.html"><a href="R-RStudio.html#r"><i class="fa fa-check"></i><b>2.1</b> R</a></li>
+<li class="chapter" data-level="2.2" data-path="R-RStudio.html"><a href="R-RStudio.html#rstudio"><i class="fa fa-check"></i><b>2.2</b> RStudio</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="grund.html"><a href="grund.html"><i class="fa fa-check"></i><b>3</b> Grundlæggende R</a><ul>
+<li class="chapter" data-level="3.1" data-path="grund.html"><a href="grund.html#navne"><i class="fa fa-check"></i><b>3.1</b> Navne</a></li>
+<li class="chapter" data-level="3.2" data-path="grund.html"><a href="grund.html#variable-objekter"><i class="fa fa-check"></i><b>3.2</b> Variable / Objekter</a></li>
+<li class="chapter" data-level="3.3" data-path="grund.html"><a href="grund.html#funktioner"><i class="fa fa-check"></i><b>3.3</b> Funktioner</a></li>
+<li class="chapter" data-level="3.4" data-path="grund.html"><a href="grund.html#logiske-operatorer"><i class="fa fa-check"></i><b>3.4</b> Logiske operatorer</a></li>
+<li class="chapter" data-level="3.5" data-path="grund.html"><a href="grund.html#hjælp"><i class="fa fa-check"></i><b>3.5</b> Hjælp</a></li>
+<li class="chapter" data-level="3.6" data-path="grund.html"><a href="grund.html#working-directory"><i class="fa fa-check"></i><b>3.6</b> Working Directory</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="pakker.html"><a href="pakker.html"><i class="fa fa-check"></i><b>4</b> Pakker</a><ul>
+<li class="chapter" data-level="4.1" data-path="pakker.html"><a href="pakker.html#installation-af-pakker"><i class="fa fa-check"></i><b>4.1</b> Installation af pakker</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="data.html"><a href="data.html"><i class="fa fa-check"></i><b>5</b> Data</a><ul>
+<li class="chapter" data-level="5.1" data-path="data.html"><a href="data.html#grafisk-gui"><i class="fa fa-check"></i><b>5.1</b> Grafisk (GUI)</a></li>
+<li class="chapter" data-level="5.2" data-path="data.html"><a href="data.html#kode"><i class="fa fa-check"></i><b>5.2</b> Kode</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="plots.html"><a href="plots.html"><i class="fa fa-check"></i><b>6</b> Plots</a><ul>
+<li class="chapter" data-level="6.1" data-path="plots.html"><a href="plots.html#standard-plot"><i class="fa fa-check"></i><b>6.1</b> Standard plot</a></li>
+<li class="chapter" data-level="6.2" data-path="plots.html"><a href="plots.html#ggplot2"><i class="fa fa-check"></i><b>6.2</b> ggplot2</a></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="shiny.html"><a href="shiny.html"><i class="fa fa-check"></i><b>7</b> Demo Shiny</a><ul>
+<li class="chapter" data-level="7.1" data-path="shiny.html"><a href="shiny.html#struktur-af-en-shiny-app"><i class="fa fa-check"></i><b>7.1</b> Struktur af en Shiny app</a></li>
+<li class="chapter" data-level="7.2" data-path="shiny.html"><a href="shiny.html#pakker-1"><i class="fa fa-check"></i><b>7.2</b> Pakker</a></li>
+</ul></li>
+<li class="chapter" data-level="8" data-path="eksempel.html"><a href="eksempel.html"><i class="fa fa-check"></i><b>8</b> Eksempel</a></li>
+<li class="chapter" data-level="9" data-path="resourcer.html"><a href="resourcer.html"><i class="fa fa-check"></i><b>9</b> Resourcer</a><ul>
+<li class="chapter" data-level="9.1" data-path="resourcer.html"><a href="resourcer.html#cheatsheets"><i class="fa fa-check"></i><b>9.1</b> Cheatsheets</a></li>
+<li class="chapter" data-level="9.2" data-path="resourcer.html"><a href="resourcer.html#links"><i class="fa fa-check"></i><b>9.2</b> Links</a></li>
+</ul></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">IDA Introduktion til R</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="grund" class="section level1">
+<h1><span class="header-section-number">Chapter 3</span> Grundlæggende R</h1>
+<p>Som alle andre programmeringssprog har R nogle forskellige regler for, hvordan koden skal bygges op – altså syntaksen for R.</p>
+<div id="navne" class="section level2">
+<h2><span class="header-section-number">3.1</span> Navne</h2>
+<p>”Navne” i R skal overholde nogle regler:</p>
+<ul>
+<li>Bogstaver – a til z – store og små. Du kan ikke bruge de danske tegn æøå</li>
+<li>Tal</li>
+<li>Tegnene ”.” og ”_”. Altså ikke mellemrum eller bindestreg</li>
+<li>Et navn kan ikke starte med et Tal, men skal starte med et bogstav eller et gyldigt tegn</li>
+<li>R er case-sensitiv. Der er forskel på store og små bogstaver</li>
+</ul>
+</div>
+<div id="variable-objekter" class="section level2">
+<h2><span class="header-section-number">3.2</span> Variable / Objekter</h2>
+<p>Alt hvad du kommer til at bruge i R vil blive gemt i Objekter, det kan være et enkelt tal eller et helt datasæt.
+I R skal du bruge ”&lt;-” for at gemme en værdi i et objekt. Mange andre programmeringssprog bruger ”=”</p>
+<pre><code>2 + 2                 # Beregn
+1:100                 # printer 1 til 100
+print(&quot;Hej med dig&quot;)
+
+x &lt;- 2                # Tildel x værdien 2
+x * 2
+x * x
+x + x
+x                     # Viser værdien af x
+
+y &lt;- c(6, 7, 8, 9, 10) # Gemmer 6 til 10 i variablen y
+# c() står for concatenate eller combine - Giver en vektor
+
+x + y   # x lagt sammen med y
+y
+x * 2  # Ganger alle elementer i x med 2 - LOOP uden at være et LOOP ?
+
+ls()   # Vis / List alle objekter</code></pre>
+</div>
+<div id="funktioner" class="section level2">
+<h2><span class="header-section-number">3.3</span> Funktioner</h2>
+<p>R har de samme funktioner som du måske kender fra Excel eller andre programmeringssprog.</p>
+<pre><code>length(y)     # Antallet af numre i vektoren
+min(y)        # Minimumsværdien
+max(y)        # Maksimumværdien
+median(y)     # Medianen
+sum(y)        # Summen
+mean(y)       # Gennemsnittet
+var(y)        # Variansen
+sd(y)         # Standardafvigelsen</code></pre>
+</div>
+<div id="logiske-operatorer" class="section level2">
+<h2><span class="header-section-number">3.4</span> Logiske operatorer</h2>
+<p>Meget af det du kommer til at arbejde med i R, vil kræve en eller anden form for logisk operator. Med en logisk operator finder du ud af om et udsagn er Sandt eller Falsk.</p>
+<pre><code>x == 2        # &quot;==&quot; betyder &quot;lig med&quot;
+x != 2        # &quot;!=&quot; betyder &quot;ikke lig med&quot;
+x &lt; 1         # &quot;&lt;&quot; betyder &quot;mindre end&quot;
+x &gt; 1         # &quot;&gt;&quot; betyder &quot;større end&quot;
+x &lt;= 2        # &quot;&lt;=&quot; betyder &quot;mindre eller lig med</code></pre>
+<p><em>Husk, at dette også gælder for de mapper, du arbejder med.</em></p>
+</div>
+<div id="hjælp" class="section level2">
+<h2><span class="header-section-number">3.5</span> Hjælp</h2>
+<p>Du kan få hjælp direkte i R ved at bruge nedenstående kommandoer:</p>
+<pre><code>help(&quot;mean&quot;) # Hjælp til en specifik funktion - mean
+help(&quot;plot&quot;)
+
+?mean 
+?plot
+
+# Hjælp til en specifik pakke - base og tidyverse
+help(package = &quot;base&quot;)
+help(package = &quot;tidyverse&quot;)</code></pre>
+<p>Hjælpen vises i vinduet nederst til højre</p>
+</div>
+<div id="working-directory" class="section level2">
+<h2><span class="header-section-number">3.6</span> Working Directory</h2>
+<p>R bruger en mappe som ”Working folder”. Det er nemmere at tilgå filer, der ligger i denne mappe.</p>
+<pre><code>getwd()
+setwd(&quot;C:/Users/Tue Hellstern/Documents/GitHub/r_webinar/r_kode/webinar_dag1&quot;)</code></pre>
+
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="R-RStudio.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="pakker.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/rstudio/bookdown-demo/edit/master/02-grund.Rmd",
+"text": "Edit"
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["bookdown_password_example.pdf", "bookdown_password_example.epub"],
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>

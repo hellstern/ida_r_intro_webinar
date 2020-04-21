@@ -1,0 +1,12 @@
+name: Salgsdata
+title: Salgsdata
+username:
+account: tue-hellstern
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2158485
+bundleId: 3045095
+url: https://tue-hellstern.shinyapps.io/Salgsdata/
+when: 1587486342.29682
+asMultiple: FALSE
+asStatic: FALSE

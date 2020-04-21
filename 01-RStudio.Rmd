@@ -1,6 +1,6 @@
 # R og RStudio {#R_RStudio}
 
-Du skal have installeret R og det IDE udviklingsmiljø, der hedder RStudio, begge er open source og begge findes til Mac, Linux og Windows.
+Du skal have installeret R og det IDE udviklingsmiljø, der hedder RStudio, begge er open source og findes til Mac, Linux og Windows.
 
 ## R
 Du skal downloade R fra 

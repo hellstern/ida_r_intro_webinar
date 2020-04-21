@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Chapter 7 Demo Shiny | IDA Introduktion til R</title>
+  <meta name="description" content="Webinar i R programmering i R" />
+  <meta name="generator" content="bookdown 0.18 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Chapter 7 Demo Shiny | IDA Introduktion til R" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="Webinar i R programmering i R" />
+  <meta name="github-repo" content="rstudio/bookdown-demo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 7 Demo Shiny | IDA Introduktion til R" />
+  
+  <meta name="twitter:description" content="Webinar i R programmering i R" />
+  
+
+<meta name="author" content="Tue Hellstern" />
+
+
+<meta name="date" content="2020-04-21" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="plots.html"/>
+<link rel="next" href="eksempel.html"/>
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">Webinar - R Introduktion - IDA</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Webinar</a><ul>
+<li class="chapter" data-level="1.1" data-path="index.html"><a href="index.html#filer"><i class="fa fa-check"></i><b>1.1</b> Filer</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="R-RStudio.html"><a href="R-RStudio.html"><i class="fa fa-check"></i><b>2</b> R og RStudio</a><ul>
+<li class="chapter" data-level="2.1" data-path="R-RStudio.html"><a href="R-RStudio.html#r"><i class="fa fa-check"></i><b>2.1</b> R</a></li>
+<li class="chapter" data-level="2.2" data-path="R-RStudio.html"><a href="R-RStudio.html#rstudio"><i class="fa fa-check"></i><b>2.2</b> RStudio</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="grund.html"><a href="grund.html"><i class="fa fa-check"></i><b>3</b> Grundlæggende R</a><ul>
+<li class="chapter" data-level="3.1" data-path="grund.html"><a href="grund.html#navne"><i class="fa fa-check"></i><b>3.1</b> Navne</a></li>
+<li class="chapter" data-level="3.2" data-path="grund.html"><a href="grund.html#variable-objekter"><i class="fa fa-check"></i><b>3.2</b> Variable / Objekter</a></li>
+<li class="chapter" data-level="3.3" data-path="grund.html"><a href="grund.html#funktioner"><i class="fa fa-check"></i><b>3.3</b> Funktioner</a></li>
+<li class="chapter" data-level="3.4" data-path="grund.html"><a href="grund.html#logiske-operatorer"><i class="fa fa-check"></i><b>3.4</b> Logiske operatorer</a></li>
+<li class="chapter" data-level="3.5" data-path="grund.html"><a href="grund.html#hjælp"><i class="fa fa-check"></i><b>3.5</b> Hjælp</a></li>
+<li class="chapter" data-level="3.6" data-path="grund.html"><a href="grund.html#working-directory"><i class="fa fa-check"></i><b>3.6</b> Working Directory</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="pakker.html"><a href="pakker.html"><i class="fa fa-check"></i><b>4</b> Pakker</a><ul>
+<li class="chapter" data-level="4.1" data-path="pakker.html"><a href="pakker.html#installation-af-pakker"><i class="fa fa-check"></i><b>4.1</b> Installation af pakker</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="data.html"><a href="data.html"><i class="fa fa-check"></i><b>5</b> Data</a><ul>
+<li class="chapter" data-level="5.1" data-path="data.html"><a href="data.html#grafisk-gui"><i class="fa fa-check"></i><b>5.1</b> Grafisk (GUI)</a></li>
+<li class="chapter" data-level="5.2" data-path="data.html"><a href="data.html#kode"><i class="fa fa-check"></i><b>5.2</b> Kode</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="plots.html"><a href="plots.html"><i class="fa fa-check"></i><b>6</b> Plots</a><ul>
+<li class="chapter" data-level="6.1" data-path="plots.html"><a href="plots.html#standard-plot"><i class="fa fa-check"></i><b>6.1</b> Standard plot</a></li>
+<li class="chapter" data-level="6.2" data-path="plots.html"><a href="plots.html#ggplot2"><i class="fa fa-check"></i><b>6.2</b> ggplot2</a></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="shiny.html"><a href="shiny.html"><i class="fa fa-check"></i><b>7</b> Demo Shiny</a><ul>
+<li class="chapter" data-level="7.1" data-path="shiny.html"><a href="shiny.html#struktur-af-en-shiny-app"><i class="fa fa-check"></i><b>7.1</b> Struktur af en Shiny app</a></li>
+<li class="chapter" data-level="7.2" data-path="shiny.html"><a href="shiny.html#pakker-1"><i class="fa fa-check"></i><b>7.2</b> Pakker</a></li>
+</ul></li>
+<li class="chapter" data-level="8" data-path="eksempel.html"><a href="eksempel.html"><i class="fa fa-check"></i><b>8</b> Eksempel</a></li>
+<li class="chapter" data-level="9" data-path="resourcer.html"><a href="resourcer.html"><i class="fa fa-check"></i><b>9</b> Resourcer</a><ul>
+<li class="chapter" data-level="9.1" data-path="resourcer.html"><a href="resourcer.html#cheatsheets"><i class="fa fa-check"></i><b>9.1</b> Cheatsheets</a></li>
+<li class="chapter" data-level="9.2" data-path="resourcer.html"><a href="resourcer.html#links"><i class="fa fa-check"></i><b>9.2</b> Links</a></li>
+</ul></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">IDA Introduktion til R</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="shiny" class="section level1">
+<h1><span class="header-section-number">Chapter 7</span> Demo Shiny</h1>
+<p>Når du har lavet en ”analyse” i R vil det tit være en fordel at kunne dele denne med andre, det kan du gøre ved at sende dit R script og data, men det er nok ikke den mest brugervenlige måde.
+En anden ulighed er vise det på et website så det kan tilgås via en browser. Det kan du opnå via en R pakke der hedder shiny.
+Du kan finde en del eksempler på løsninger oprettet i shiny her: <a href="https://shiny.rstudio.com/gallery/#demos" target="_blank">shiny.rstudio.com/gallery/#demos</a></p>
+<p>Det er også muligt at afvikle de 11 eksempler der følger med shiny på følgende måde:</p>
+<pre><code># Shiny eksempler
+runExample(&quot;01_hello&quot;)
+runExample(&quot;02_text&quot;)
+runExample(&quot;03_reactivity&quot;)
+runExample(&quot;04_mpg&quot;)
+runExample(&quot;05_sliders&quot;)
+runExample(&quot;06_tabsets&quot;)
+runExample(&quot;07_widgets&quot;)
+runExample(&quot;08_html&quot;)
+runExample(&quot;09_upload&quot;)
+runExample(&quot;10_download&quot;)
+runExample(&quot;11_timer&quot;)</code></pre>
+<div id="struktur-af-en-shiny-app" class="section level2">
+<h2><span class="header-section-number">7.1</span> Struktur af en Shiny app</h2>
+<p>En Shiny App er ”samlet” i et enkelt script app.R som du kan afvikle.
+app.R består af tre dele:</p>
+<ul>
+<li>Userinterface (<strong>ui.R</strong>) - <em>Her styrer du layout af din applikation</em></li>
+<li>Server (<strong>server.R</strong>) - <em>Her definere du det der skal til for at opbygge din løsning</em></li>
+<li>Kald til shinyApp function - <em>Her bygges selev løsningen</em></li>
+</ul>
+<p>Du kan oprette en ny shiny App under:
+<strong>File – New File – Shiny Web App</strong>
+I dette vindue skal du indtaste navnet på din App og placeringen. Du har også mulighed for at vælge mellem, om din App skal opdeles i to filer, <strong>ui.R</strong> og <strong>server.R</strong>, eller om du vil have alt i en fil.</p>
+<p>Opdelingen i to filer giver dig de fleste muligheder og en bedre kontrol.</p>
+<p>Du får to filer der indeholder en demo løsning som du kan bruge som
+udgangspunkt for din egen løsning.</p>
+</div>
+<div id="pakker-1" class="section level2">
+<h2><span class="header-section-number">7.2</span> Pakker</h2>
+<p>Du skal have installeret og aktiveret <em>shiny</em> pakken:</p>
+<pre><code>install.packages(&quot;shiny&quot;)
+library(shiny)</code></pre>
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="plots.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="eksempel.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/rstudio/bookdown-demo/edit/master/06-demoshiny.Rmd",
+"text": "Edit"
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["bookdown_password_example.pdf", "bookdown_password_example.epub"],
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>
