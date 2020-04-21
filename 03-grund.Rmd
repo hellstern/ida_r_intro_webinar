@@ -37,7 +37,7 @@ ls()   # Vis / List alle objekter
 
 
 ## Funktioner
-R har de sammen funktioner som du måske kender fra Excel eller andre programeringssprog
+R har de samme funktioner som du måske kender fra Excel eller andre programmeringssprog.
 
 ```
 length(y)     # Antallet af numre i vektoren
@@ -65,7 +65,7 @@ x <= 2        # "<=" betyder "mindre eller lig med
 *Husk, at dette også gælder for de mapper, du arbejder med.*
 
 ## Hjælp
-Du kan få hjælp direkte i R ved at bruge nedstående kommandoer:
+Du kan få hjælp direkte i R ved at bruge nedenstående kommandoer:
 
 ```
 help("mean") # Hjælp til en specifik funktion - mean
