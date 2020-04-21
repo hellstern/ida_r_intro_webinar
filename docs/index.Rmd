@@ -8,9 +8,9 @@ output:
 ```{r, echo=F, out.width="60%", fig.align='center'}
 ```
 
-### Landing page for bookdown with password
-You can add images and text here, depending on what you need.
-Password for the example is `password`.
+### Webinar - 22-04-2020 - Introduktion til R
+Skriv det password du har fået og tryk på **Enter**
+Password for the example is `IDA22042020`.
 
 Enter password: 
 <input type="password" onkeyup="onPass(event)" id="pass">
