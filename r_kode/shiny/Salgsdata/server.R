@@ -9,9 +9,9 @@ library(dplyr)
 library(ggthemes)
 library(shiny)
 
-salg <- read_excel("~/GitHub/ida_r_intro_webinar/r_kode/webinar_data.xlsx", sheet = "salgs_data")
+salg <- read_excel("webinar_data.xlsx", sheet = "salgs_data")
 
-# Define server logic required to draw a histogram
+# Server
 function(input, output) {
 
     output$selected_var <- renderText({
@@ -25,7 +25,7 @@ function(input, output) {
             ggplot(aes(x=Salesperson, y=Sale)) +
             geom_bar(stat = "identity", fill="blue") +
             ylab("Salg i kr.") +
-            xlab("Saelger") +
+            xlab("Sælger") +
             theme_economist()
 })
 }
