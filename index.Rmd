@@ -19,7 +19,7 @@ description: "Webinar i R programmering i R"
 * Tue Hellstern
 * Jelgren Consult
 
-Dette webinar er udviklet af Tue Hellstern i samarbejde med Jelgren Consult - http://www.jelgrenconsult.dk
+Dette webinar er udviklet af Tue Hellstern i samarbejde med Jelgren Consult - www.jelgrenconsult.dk
 
 Dette materiale må ikke kopieres eller mangfoldiggøres uden forudgående aftale med Jelgren Consult.
 

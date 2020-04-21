@@ -139,17 +139,17 @@ barplot(category[order(category, decreasing = T)])</code></pre>
   geom_point(mapping = aes(x=Temperatur, y=Salg, color=Butik_Placering, size=Salg)) +
   geom_smooth(mapping = aes(x=Temperatur, y=Salg, color=Butik_Placering), se=FALSE) +
   geom_hline(yintercept = mean(issalg$Salg)) +
+  annotate(&quot;text&quot;, label=&quot;Middel Salg&quot;, x=15, vjust = 0, y=mean(issalg$Salg+200)) +
   geom_vline(xintercept = mean(issalg$Temperatur)) +
-  annotate(&quot;text&quot;, label=&quot;Middel temperatur&quot;, y=1, x=mean(issalg$Temperatur+4)) +
+  annotate(&quot;text&quot;, label=&quot;Middel Temperatur&quot;, y=100, hjust = 0, x=mean(issalg$Temperatur-0.5), angle = 90) +
   theme(panel.background = element_blank()) +
   theme(plot.background = element_blank()) +
   scale_x_continuous(name=&quot;Temperatur&quot;) +
   scale_y_continuous(name=&quot;Total Salg&quot;) +
   scale_color_discrete(name=&quot;Placering af butiken&quot;) +
-  scale_size_continuous(name=&quot;Salg&quot;)</code></pre>
+  scale_size_continuous(name=&quot;Salg&quot;) +
+  theme_classic()</code></pre>
 <p>Giver dette plot</p>
-<pre><code>## Warning: package &#39;ggplot2&#39; was built under R version 3.6.3</code></pre>
-<pre><code>## `geom_smooth()` using method = &#39;loess&#39; and formula &#39;y ~ x&#39;</code></pre>
 <p><img src="r_werbinar_ida_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
 
 </div>

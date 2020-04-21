@@ -24,11 +24,11 @@ Det er nemt at installere og bruge pakker via kode:
 
 ```
 library()                     # Pakker der er på din computer
-install.packages("ggplot2")   # install
-library(dplyr)                # load
+install.packages("ggplot2")   # install - Her ggplot2
+library(ggplot2)              # load - Her ggplot2
 
-update.packages("tidyverse")  # Update
-remove.packages("tidyverse")  # Fjern
+update.packages("tidyverse")  # Update - Her tidyverse
+remove.packages("tidyverse")  # Fjern - Her tidyverse
 ```
 
 

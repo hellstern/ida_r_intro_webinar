@@ -131,15 +131,19 @@
 <h2><span class="header-section-number">5.1</span> Grafisk (GUI)</h2>
 <p>Fordelen ved at bruge den grafiske brugerflade er, at du ikke skal huske de forskellige importfunktione. Det ligner lidt import i f.eks. Excel.</p>
 <p><strong>Import af fra Excel</strong></p>
-<p>Når du vil importere data fra en Excel fil, kan du bruge: File &gt; Import Dataset &gt; From Excel
-Derefter vælger du den Excel fil, du vil importere</p>
+<p>Når du vil importere data fra en Excel fil, kan du bruge: <strong>File &gt; Import Dataset &gt; From Excel</strong>
+Derefter vælger du den Excel fil, du vil importere.</p>
+<p><img src="img/import.png" /></p>
 </div>
 <div id="kode" class="section level2">
 <h2><span class="header-section-number">5.2</span> Kode</h2>
-<p>Excel import</p>
-<pre><code>salg &lt;- read_excel(&quot;webinar_data.xlsx&quot;)                          # Indl?ser f?rste ark
-salg &lt;- read_excel(&quot;webinar_data.xlsx&quot;, sheet = &quot;salgs_data&quot;)    # Indl?ser arket salgs_data
-salg &lt;- read_excel(&quot;webinar_data.xlsx&quot;, sheet = 3)               # Indl?ser ark 3</code></pre>
+<p>Du kan også fortage importen via R kode</p>
+<pre><code>bmi &lt;- read.csv(&quot;C:/Users/tuhe/Desktop/bmi.csv&quot;, header = TRUE, sep = &quot;;&quot;)      # Standard - ,
+bmi &lt;- read.csv2(&quot;C:/Users/tuhe/Desktop/bmi.csv&quot;, header = TRUE)                # Standard - ;
+
+salg &lt;- read_excel(&quot;webinar_data.xlsx&quot;)                          # Indlæser første ark
+salg &lt;- read_excel(&quot;webinar_data.xlsx&quot;, sheet = &quot;salgs_data&quot;)    # Indlæser arket &quot;salgs_data&quot;
+salg &lt;- read_excel(&quot;webinar_data.xlsx&quot;, sheet = 3)               # Indlæser ark 3 - Index nummer</code></pre>
 
 </div>
 </div>

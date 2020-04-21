@@ -10,15 +10,21 @@ Fordelen ved at bruge den grafiske brugerflade er, at du ikke skal huske de fors
 
 **Import af fra Excel**
 
-Når du vil importere data fra en Excel fil, kan du bruge: File > Import Dataset > From Excel
-Derefter vælger du den Excel fil, du vil importere 
+Når du vil importere data fra en Excel fil, kan du bruge: **File > Import Dataset > From Excel**
+Derefter vælger du den Excel fil, du vil importere.
+
+![](img/import.png)
+
 
 
 ## Kode
-Excel import
+Du kan også fortage importen via R kode
 
 ```
+bmi <- read.csv("C:/Users/tuhe/Desktop/bmi.csv", header = TRUE, sep = ";")      # Standard - ,
+bmi <- read.csv2("C:/Users/tuhe/Desktop/bmi.csv", header = TRUE)                # Standard - ;
+
 salg <- read_excel("webinar_data.xlsx")                          # Indlæser første ark
-salg <- read_excel("webinar_data.xlsx", sheet = "salgs_data")    # Indlæser arket salgs_data
-salg <- read_excel("webinar_data.xlsx", sheet = 3)               # Indlæser ark 3
+salg <- read_excel("webinar_data.xlsx", sheet = "salgs_data")    # Indlæser arket "salgs_data"
+salg <- read_excel("webinar_data.xlsx", sheet = 3)               # Indlæser ark 3 - Index nummer
 ```
