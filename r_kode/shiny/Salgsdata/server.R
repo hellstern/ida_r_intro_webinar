@@ -1,4 +1,7 @@
 # server.R
+# Salgsdata
+# Tue Hellstern
+
 
 library(readxl)
 library(ggplot2)
