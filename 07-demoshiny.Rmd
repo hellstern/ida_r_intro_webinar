@@ -24,8 +24,8 @@ runExample("11_timer")
 En Shiny App er ”samlet” i et enkelt script app.R som du kan afvikle.
 app.R består af tre dele:
 
-* Userinterface (ui.R) - *Her styrer du layout af din applikation*
-* Server (server.R) - *Her definere du det der skal til for at opbygge din løsning*
+* Userinterface (**ui.R**) - *Her styrer du layout af din applikation*
+* Server (**server.R**) - *Her definere du det der skal til for at opbygge din løsning*
 * Kald til shinyApp function - *Her bygges selev løsningen*
 
 Du kan oprette en ny shiny App under: 
@@ -44,6 +44,11 @@ Du skal have installeret og aktiveret *shiny* pakken:
 install.packages("shiny")
 library(shiny)
 ```
+
+# Eksempel
+Du kan se et eksempel på en sådan Shiny løsning på dette www adresse: <a href="https://tue-hellstern.shinyapps.io/Salgsdata/" target="_blank">https://tue-hellstern.shinyapps.io/Salgsdata/</a>
+
+![](img/shiny.png)
 
 
 
