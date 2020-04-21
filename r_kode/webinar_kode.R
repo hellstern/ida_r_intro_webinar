@@ -132,6 +132,7 @@ bmi <- read.csv2("C:/Users/tuhe/Desktop/bmi.csv", header = TRUE)                
 bmi <- read.csv2("bmi.csv", header = TRUE)                                      # Virker, hvis CSV er i WD
 str(bmi)
 
+
 # ***************************
 # Gem som CSV
 # ***************************
@@ -172,7 +173,10 @@ library(readxl)
 getwd()
 issalg <- read_excel("webinar_data.xlsx", sheet = "issalg")
 
-# Plot
+
+# ******************************
+# Plot ggplot2 - Is salg
+# ******************************
 ggplot(data=issalg) +
   geom_point(mapping = aes(x=Temperatur, y=Salg, color=Butik_Placering, size=Salg)) +
   geom_smooth(mapping = aes(x=Temperatur, y=Salg, color=Butik_Placering), se=FALSE) +
@@ -187,6 +191,7 @@ ggplot(data=issalg) +
   scale_color_discrete(name="Placering af butiken") +
   scale_size_continuous(name="Salg") +
   theme_classic()
+
 
 # ******************************
 # Plot ggplo2 - Salg - Group By
@@ -204,10 +209,35 @@ salg %>%
   ggtitle("Sales by category",
           subtitle = "2016 to 2018")
 
+
+
 # ***************************
 # Save plots
 # ***************************
 ?ggsave
 
 ggsave("Sidste_plot.pdf")
+
+
+
+# ***************************
+# Shiny - Demo
+# ***************************
+
+# Pakken shiny
+install.packages("shiny")
+library(shiny)
+
+# Shiny eksempler
+runExample("01_hello")
+runExample("02_text")
+runExample("03_reactivity")
+runExample("04_mpg")
+runExample("05_sliders")
+runExample("06_tabsets")
+runExample("07_widgets")
+runExample("08_html")
+runExample("09_upload")
+runExample("10_download")
+runExample("11_timer")
 
