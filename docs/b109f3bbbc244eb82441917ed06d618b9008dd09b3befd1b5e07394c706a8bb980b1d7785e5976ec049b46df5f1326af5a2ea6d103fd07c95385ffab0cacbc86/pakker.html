@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Chapter 4 Pakker | IDA Introduktion til R</title>
+  <meta name="description" content="Webinar i R programmering i R" />
+  <meta name="generator" content="bookdown 0.18 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Chapter 4 Pakker | IDA Introduktion til R" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="Webinar i R programmering i R" />
+  <meta name="github-repo" content="rstudio/bookdown-demo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 4 Pakker | IDA Introduktion til R" />
+  
+  <meta name="twitter:description" content="Webinar i R programmering i R" />
+  
+
+<meta name="author" content="Tue Hellstern" />
+
+
+<meta name="date" content="2020-04-21" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="grund.html"/>
+<link rel="next" href="data.html"/>
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">Webinar - R Introduktion - IDA</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Webinar</a><ul>
+<li class="chapter" data-level="1.1" data-path="index.html"><a href="index.html#filer"><i class="fa fa-check"></i><b>1.1</b> Filer</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="R-RStudio.html"><a href="R-RStudio.html"><i class="fa fa-check"></i><b>2</b> R og RStudio</a><ul>
+<li class="chapter" data-level="2.1" data-path="R-RStudio.html"><a href="R-RStudio.html#r"><i class="fa fa-check"></i><b>2.1</b> R</a></li>
+<li class="chapter" data-level="2.2" data-path="R-RStudio.html"><a href="R-RStudio.html#rstudio"><i class="fa fa-check"></i><b>2.2</b> RStudio</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="grund.html"><a href="grund.html"><i class="fa fa-check"></i><b>3</b> Grundlæggende R</a><ul>
+<li class="chapter" data-level="3.1" data-path="grund.html"><a href="grund.html#navne"><i class="fa fa-check"></i><b>3.1</b> Navne</a></li>
+<li class="chapter" data-level="3.2" data-path="grund.html"><a href="grund.html#variable-objekter"><i class="fa fa-check"></i><b>3.2</b> Variable / Objekter</a></li>
+<li class="chapter" data-level="3.3" data-path="grund.html"><a href="grund.html#funktioner"><i class="fa fa-check"></i><b>3.3</b> Funktioner</a></li>
+<li class="chapter" data-level="3.4" data-path="grund.html"><a href="grund.html#logiske-operatorer"><i class="fa fa-check"></i><b>3.4</b> Logiske operatorer</a></li>
+<li class="chapter" data-level="3.5" data-path="grund.html"><a href="grund.html#hjælp"><i class="fa fa-check"></i><b>3.5</b> Hjælp</a></li>
+<li class="chapter" data-level="3.6" data-path="grund.html"><a href="grund.html#working-directory"><i class="fa fa-check"></i><b>3.6</b> Working Directory</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="pakker.html"><a href="pakker.html"><i class="fa fa-check"></i><b>4</b> Pakker</a><ul>
+<li class="chapter" data-level="4.1" data-path="pakker.html"><a href="pakker.html#installation-af-pakker"><i class="fa fa-check"></i><b>4.1</b> Installation af pakker</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="data.html"><a href="data.html"><i class="fa fa-check"></i><b>5</b> Data</a><ul>
+<li class="chapter" data-level="5.1" data-path="data.html"><a href="data.html#grafisk-gui"><i class="fa fa-check"></i><b>5.1</b> Grafisk (GUI)</a></li>
+<li class="chapter" data-level="5.2" data-path="data.html"><a href="data.html#kode"><i class="fa fa-check"></i><b>5.2</b> Kode</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="plots.html"><a href="plots.html"><i class="fa fa-check"></i><b>6</b> Plots</a><ul>
+<li class="chapter" data-level="6.1" data-path="plots.html"><a href="plots.html#standard-plot"><i class="fa fa-check"></i><b>6.1</b> Standard plot</a></li>
+<li class="chapter" data-level="6.2" data-path="plots.html"><a href="plots.html#ggplot2"><i class="fa fa-check"></i><b>6.2</b> ggplot2</a></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="shiny.html"><a href="shiny.html"><i class="fa fa-check"></i><b>7</b> Demo Shiny</a><ul>
+<li class="chapter" data-level="7.1" data-path="shiny.html"><a href="shiny.html#struktur-af-en-shiny-app"><i class="fa fa-check"></i><b>7.1</b> Struktur af en Shiny app</a></li>
+<li class="chapter" data-level="7.2" data-path="shiny.html"><a href="shiny.html#pakker-1"><i class="fa fa-check"></i><b>7.2</b> Pakker</a></li>
+</ul></li>
+<li class="chapter" data-level="8" data-path="eksempel.html"><a href="eksempel.html"><i class="fa fa-check"></i><b>8</b> Eksempel</a></li>
+<li class="chapter" data-level="9" data-path="resourcer.html"><a href="resourcer.html"><i class="fa fa-check"></i><b>9</b> Resourcer</a><ul>
+<li class="chapter" data-level="9.1" data-path="resourcer.html"><a href="resourcer.html#cheatsheets"><i class="fa fa-check"></i><b>9.1</b> Cheatsheets</a></li>
+<li class="chapter" data-level="9.2" data-path="resourcer.html"><a href="resourcer.html#links"><i class="fa fa-check"></i><b>9.2</b> Links</a></li>
+</ul></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">IDA Introduktion til R</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="pakker" class="section level1">
+<h1><span class="header-section-number">Chapter 4</span> Pakker</h1>
+<p>Du kan ”tilføje” funktionalitet til R ved at installere forskellige pakker. Du kan nederst til højre se, hvilke pakker du har installeret.
+Det er også her muligt at opdatere de pakker, du har installeret.
+Du kan finde en oversigt over de forskellige pakker her: <a href="https://cran.rstudio.com" target="_blank">cran.rstudio.com</a></p>
+<div id="installation-af-pakker" class="section level2">
+<h2><span class="header-section-number">4.1</span> Installation af pakker</h2>
+<p>Du kan installere pakker på to måder:</p>
+<ul>
+<li>Via RStudio - GUI</li>
+<li>Via R kode</li>
+</ul>
+<p><strong>Grafisk</strong>
+I vinduet nederst til højre kan du klikke på fanen <strong>Packages</strong> og derefter på knappen <strong>Install</strong>, du skriver navnet på den eller de pakker du vil installere.</p>
+<div class="figure">
+<img src="img/pakker.png" alt="Pakker" />
+<p class="caption">Pakker</p>
+</div>
+<p>Det er også muligt at opdatere dine pakker via knappen <strong>Update</strong>.</p>
+<p>I samme vindue kan du også se, hvilke pakker der er i <em>brug</em>.</p>
+<p><strong>Kode</strong>
+Det er nemt at installere og bruge pakker via kode:</p>
+<pre><code>library()                     # Pakker der er på din computer
+install.packages(&quot;ggplot2&quot;)   # install - Her ggplot2
+library(ggplot2)              # load - Her ggplot2
+
+update.packages(&quot;tidyverse&quot;)  # Update - Her tidyverse
+remove.packages(&quot;tidyverse&quot;)  # Fjern - Her tidyverse</code></pre>
+
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="grund.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="data.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/rstudio/bookdown-demo/edit/master/03-pakker.Rmd",
+"text": "Edit"
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["bookdown_password_example.pdf", "bookdown_password_example.epub"],
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>

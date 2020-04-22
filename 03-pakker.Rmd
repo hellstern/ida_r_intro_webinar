@@ -1,0 +1,35 @@
+# Pakker {#pakker}
+Du kan ”tilføje” funktionalitet til R ved at installere forskellige pakker. Du kan nederst til højre se, hvilke pakker du har installeret.
+Det er også her muligt at opdatere de pakker, du har installeret.
+Du kan finde en oversigt over de forskellige pakker her: <a href="https://cran.rstudio.com" target="_blank">cran.rstudio.com</a>
+
+## Installation af pakker
+Du kan installere pakker på to måder:
+
+* Via RStudio - GUI
+* Via R kode
+
+
+**Grafisk**
+I vinduet nederst til højre kan du klikke på fanen **Packages** og derefter på knappen **Install**, du skriver navnet på den eller de pakker du vil installere.
+
+![Pakker](img/pakker.png)
+
+Det er også muligt at opdatere dine pakker via knappen **Update**.
+
+I samme vindue kan du også se, hvilke pakker der er i *brug*.
+
+**Kode**
+Det er nemt at installere og bruge pakker via kode:
+
+```
+library()                     # Pakker der er på din computer
+install.packages("ggplot2")   # install - Her ggplot2
+library(ggplot2)              # load - Her ggplot2
+
+update.packages("tidyverse")  # Update - Her tidyverse
+remove.packages("tidyverse")  # Fjern - Her tidyverse
+```
+
+
+

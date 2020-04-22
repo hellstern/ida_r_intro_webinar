@@ -40,4 +40,3 @@ Det er følgende filer der bruges på dette webinar:
 * bmi.csv
 * issalg.csv
 * salgs_data.csv
-
