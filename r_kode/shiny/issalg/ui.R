@@ -18,7 +18,7 @@ shinyUI(fluidPage(
     # Sidebar with a slider input for number of bins
     sidebarLayout(
         sidebarPanel(
-            sliderInput(radioButtons("placering", h3("Butik"),
+            radioButtons("placering", h3("Butik"),
                                      choices = list("By" = 1, "Havn" = 2, selected = 1)
         ),
 
@@ -27,4 +27,4 @@ shinyUI(fluidPage(
             plotOutput("distPlot")
         )
     )
-))))
+)))
