@@ -10,7 +10,7 @@ output:
 
 ### Webinar - 22-04-2020 - Introduktion til R
 Skriv det password du har fået og tryk på **Enter**
-Password for the example is `IDA22042020`.
+Password for the example is `password`.
 
 Enter password: 
 <input type="password" onkeyup="onPass(event)" id="pass">
