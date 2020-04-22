@@ -170,6 +170,7 @@ library(ggplot2)
 # Data / Is salg
 library(readxl)
 getwd()
+setwd("C:/Users/tuhe/Documents/GitHub/ida_r_intro_webinar/r_kode")
 issalg <- read_excel("webinar_data.xlsx", sheet = "issalg")
 
 # Plot
